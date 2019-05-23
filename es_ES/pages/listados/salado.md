@@ -1,140 +1,140 @@
 ## Salado
 
-- [[Albóndigas|Recetas/Salado/Albóndigas]]
-- [[Alitas de pollo crujientes al horno|Recetas/Salado/Alitas de pollo crujientes al horno]]
-- [[Arroz chino tres delicias|Recetas/Salado/Arroz chino tres delicias]]
-- [[Arroz con magro|Recetas/Salado/Arroz con magro]]
-- [[Arroz con pollo|Recetas/Salado/Arroz con pollo]]
-- [[Arroz con verduras|Recetas/Salado/Arroz con verduras]]
+*[Albóndigas](../recetas/salado/)
+*[Alitas de pollo crujientes al horno](../recetas/salado/)
+*[Arroz chino tres delicias](../recetas/salado/)
+*[Arroz con magro](../recetas/salado/)
+*[Arroz con pollo](../recetas/salado/)
+*[Arroz con verduras](../recetas/salado/)
 
 - - -
 
-- [[Baba ganush - Hummus de berenjena|Recetas/Salado/Baba ganush - Hummus de berenjena]]
-- [[Bacalao al douro|Recetas/Salado/Bacalao al douro]]
-- [[Bacalao con garbanzos|Recetas/Salado/Bacalao con garbanzos]]
-- [[Boniatos especiados al horno|Recetas/Salado/Boniatos especiados al horno]]
-- [[Boquerones en vinagre|Recetas/Salado/Boquerones en vinagre]]
-- [[Burritos|Recetas/Salado/Burritos]]
+*[Baba ganush - Hummus de berenjena](../recetas/salado/)
+*[Bacalao al douro](../recetas/salado/)
+*[Bacalao con garbanzos](../recetas/salado/)
+*[Boniatos especiados al horno](../recetas/salado/)
+*[Boquerones en vinagre](../recetas/salado/)
+*[Burritos](../recetas/salado/)
 
 - - -
 
-- [[Canelones|Recetas/Salado/Canelones]]
-- [[Carrillera en salsa|Recetas/Salado/Carrillera en salsa]]
-- [[Cazón con tomate|Recetas/Salado/Cazón con tomate]]
-- [[Chocos en salsa|Recetas/Salado/Chocos en salsa]]
-- [[Cocido de garbanzos con coles|Recetas/Salado/Cocido de garbanzos con coles]]
-- [[Cocido de garbanzos con habichuelas verdes y calabaza|Recetas/Salado/Cocido de garbanzos con habichuelas verdes y calabaza]]
-- [[Colcannon - Puré de patatas con coles y cebolleta|Recetas/Salado/Colcannon - Puré de patatas con coles y cebolleta]]
-- [[Coliflor asada con pimentón y ajo|Recetas/Salado/Coliflor asada con pimentón y ajo]]
-- [[Costillas de cerdo adobadas con patatas guisadas|Recetas/Salado/Costillas de cerdo adobadas con patatas guisadas]]
-- [[Crema de calabacín|Recetas/Salado/Crema de calabacín]]
-- [[Crema de coliflor, brócoli y berenjena|Recetas/Salado/Crema de coliflor, brócoli y berenjena]]
-- [[Crema de guisantes|Recetas/Salado/Crema de guisantes]]
-- [[Crema de pimientos rojos asados|Recetas/Salado/Crema de pimientos rojos asados]]
-- [[Crema de puerros|Recetas/Salado/Crema de puerros]]
-- [[Croquetas|Recetas/Salado/Croquetas]]
+*[Canelones](../recetas/salado/)
+*[Carrillera en salsa](../recetas/salado/)
+*[Cazón con tomate](../recetas/salado/)
+*[Chocos en salsa](../recetas/salado/)
+*[Cocido de garbanzos con coles](../recetas/salado/)
+*[Cocido de garbanzos con habichuelas verdes y calabaza](../recetas/salado/)
+*[Colcannon - Puré de patatas con coles y cebolleta](../recetas/salado/)
+*[Coliflor asada con pimentón y ajo](../recetas/salado/)
+*[Costillas de cerdo adobadas con patatas guisadas](../recetas/salado/)
+*[Crema de calabacín](../recetas/salado/)
+*[Crema de coliflor, brócoli y berenjena](../recetas/salado/)
+*[Crema de guisantes](../recetas/salado/)
+*[Crema de pimientos rojos asados](../recetas/salado/)
+*[Crema de puerros](../recetas/salado/)
+*[Croquetas](../recetas/salado/)
 
 - - -
 
-- [[Ensalada César|Recetas/Salado/Ensalada César]]
-- [[Ensalada de pasta|Recetas/Salado/Ensalada de pasta]]
-- [[Ensalada de patatas con salmón ahumado|Recetas/Salado/Ensalada de patatas con salmón ahumado]]
-- [[Ensalada de tomates, garbanzos y anchoas|Recetas/Salado/Ensalada de tomates, garbanzos y anchoas]]
-- [[Ensalada griega|Recetas/Salado/Ensalada griega]]
-- [[Ensalada pantesca con caballa|Recetas/Salado/Ensalada pantesca con caballa]]
-- [[Ensaladilla|Recetas/Salado/Ensaladilla]]
-- [[Espaguetis con pez espada, berenjena y tomatitos|Recetas/Salado/Espaguetis con pez espada, berenjena y tomatitos]]
+*[Ensalada César](../recetas/salado/)
+*[Ensalada de pasta](../recetas/salado/)
+*[Ensalada de patatas con salmón ahumado](../recetas/salado/)
+*[Ensalada de tomates, garbanzos y anchoas](../recetas/salado/)
+*[Ensalada griega](../recetas/salado/)
+*[Ensalada pantesca con caballa](../recetas/salado/)
+*[Ensaladilla](../recetas/salado/)
+*[Espaguetis con pez espada, berenjena y tomatitos](../recetas/salado/)
 
 - - - 
 
-- [[Filetes de ternera en salsa|Recetas/Salado/Filetes de ternera en salsa]]
-- [[Filetes de ternera en salsa de pimientos|Recetas/Salado/Filetes de ternera en salsa de pimientos]]
+*[Filetes de ternera en salsa](../recetas/salado/)
+*[Filetes de ternera en salsa de pimientos](../recetas/salado/)
 
 - - - 
 
-- [[Garbanzos con espinacas|Recetas/Salado/Garbanzos con espinacas]]
-- [[Gazpacho|Recetas/Salado/Gazpacho]]
-- [[Gratinado de brócoli y boniato|Recetas/Salado/Gratinado de brócoli y boniato]]
-- [[Guisantes con huevo|Recetas/Salado/Guisantes con huevo]]
-- [[Gyozas|Recetas/Salado/Gyozas]]
+*[Garbanzos con espinacas](../recetas/salado/)
+*[Gazpacho](../recetas/salado/)
+*[Gratinado de brócoli y boniato](../recetas/salado/)
+*[Guisantes con huevo](../recetas/salado/)
+*[Gyozas](../recetas/salado/)
 
 - - - 
 
-- [[Hamburguesas caseras|Recetas/Salado/Hamburguesas caseras]]
-- [[Hummus|Recetas/Salado/Hummus]]
-- [[Hummus de habichuelas blancas y tomates secos|Recetas/Salado/Hummus de habichuelas blancas y tomates secos]]
+*[Hamburguesas caseras](../recetas/salado/)
+*[Hummus](../recetas/salado/)
+*[Hummus de habichuelas blancas y tomates secos](../recetas/salado/)
 
 - - - 
 
-- [[Kartoffelsalat - Ensalada de patatas alemana|Recetas/Salado/Kartoffelsalat - Ensalada de patatas alemana]]
-- [[Katsudon|Recetas/Salado/Katsudon]]
+*[Kartoffelsalat - Ensalada de patatas alemana](../recetas/salado/)
+*[Katsudon](../recetas/salado/)
 
 - - - 
 
-- [[Lasaña|Recetas/Salado/Lasaña]]
-- [[Lubina con refrito de kétchup y salsa de soja|Recetas/Salado/Lubina con refrito de kétchup y salsa de soja]]
+*[Lasaña](../recetas/salado/)
+*[Lubina con refrito de kétchup y salsa de soja](../recetas/salado/)
 
 - - -
 
-- [[Magro de cerdo guisado con verduras|Recetas/Salado/Magro de cerdo guisado con verduras]]
-- [[Mejillones a la mostaza|Recetas/Salado/Mejillones a la mostaza]]
-- [[Mejillones al vapor|Recetas/Salado/Mejillones al vapor]]
-- [[Menestra de verduras|Recetas/Salado/Menestra de verduras]]
-- [[Merluza en salsa verde|Recetas/Salado/Merluza en salsa verde]]
+*[Magro de cerdo guisado con verduras](../recetas/salado/)
+*[Mejillones a la mostaza](../recetas/salado/)
+*[Mejillones al vapor](../recetas/salado/)
+*[Menestra de verduras](../recetas/salado/)
+*[Merluza en salsa verde](../recetas/salado/)
 
 - - - 
 
-- [[Okonomiyaki|Recetas/Salado/Okonomiyaki]]
+*[Okonomiyaki](../recetas/salado/)
 
 - - -
 
-- [[Paella|Recetas/Salado/Paella]]
-- [[Pasta a la carbonara|Recetas/Salado/Pasta a la carbonara]]
-- [[Pasta a la corsaria|Recetas/Salado/Pasta a la corsaria]]
-- [[Pasta a la putanesca|Recetas/Salado/Pasta a la putanesca]]
-- [[Pasta con paté de verduras|Recetas/Salado/Pasta con paté de verduras]]
-- [[Pasta con salmón|Recetas/Salado/Pasta con salmón]]
-- [[Pasta con salsa de pimientos del piquillo y ajo|Recetas/Salado/Pasta con salsa de pimientos del piquillo y ajo]]
-- [[Pasta con salsa de tomate|Recetas/Salado/Pasta con salsa de tomate]]
-- [[Pasta con sardinas y piñones|Recetas/Salado/Pasta con sardinas y piñones]]
-- [[Patatas aliñadas|Recetas/Salado/Patatas aliñadas]]
-- [[Patatas asadas|Recetas/Salado/Patatas asadas]]
-- [[Patatas con salsa alioli|Recetas/Salado/Patatas con salsa alioli]]
-- [[Patatas guisadas con carne|Recetas/Salado/Patatas guisadas con carne]]
-- [[Pechugas de pollo a la nata|Recetas/Salado/Pechugas de pollo a la nata]]
-- [[Pescado al horno con patatas|Recetas/Salado/Pescado al horno con patatas]]
-- [[Pescado en blanco|Recetas/Salado/Pescado en blanco]]
-- [[Pisto|Recetas/Salado/Pisto]]
-- [[Pollo al limón|Recetas/Salado/Pollo al limón]]
-- [[Pollo en salsa|Recetas/Salado/Pollo en salsa]]
-- [[Porrusalda con bacalao|Recetas/Salado/Porrusalda con bacalao]]
-- [[Potaje de habichuelas blancas|Recetas/Salado/Potaje de habichuelas blancas]]
-- [[Potaje de lentejas|Recetas/Salado/Potaje de lentejas]]
-- [[Provolone con bacon y mermelada de tomate|Recetas/Salado/Provolone con bacon y mermelada de tomate]]
-- [[Puchero|Recetas/Salado/Puchero]]
-- [[Puré de verduras|Recetas/Salado/Puré de verduras]]
+*[Paella](../recetas/salado/)
+*[Pasta a la carbonara](../recetas/salado/)
+*[Pasta a la corsaria](../recetas/salado/)
+*[Pasta a la putanesca](../recetas/salado/)
+*[Pasta con paté de verduras](../recetas/salado/)
+*[Pasta con salmón](../recetas/salado/)
+*[Pasta con salsa de pimientos del piquillo y ajo](../recetas/salado/)
+*[Pasta con salsa de tomate](../recetas/salado/)
+*[Pasta con sardinas y piñones](../recetas/salado/)
+*[Patatas aliñadas](../recetas/salado/)
+*[Patatas asadas](../recetas/salado/)
+*[Patatas con salsa alioli](../recetas/salado/)
+*[Patatas guisadas con carne](../recetas/salado/)
+*[Pechugas de pollo a la nata](../recetas/salado/)
+*[Pescado al horno con patatas](../recetas/salado/)
+*[Pescado en blanco](../recetas/salado/)
+*[Pisto](../recetas/salado/)
+*[Pollo al limón](../recetas/salado/)
+*[Pollo en salsa](../recetas/salado/)
+*[Porrusalda con bacalao](../recetas/salado/)
+*[Potaje de habichuelas blancas](../recetas/salado/)
+*[Potaje de lentejas](../recetas/salado/)
+*[Provolone con bacon y mermelada de tomate](../recetas/salado/)
+*[Puchero](../recetas/salado/)
+*[Puré de verduras](../recetas/salado/)
 
 - - -
 
-- [[Revuelto de calabacines y patatas|Recetas/Salado/Revuelto de calabacines y patatas]]
-- [[Revuelto de puerros|Recetas/Salado/Revuelto de puerros]]
+*[Revuelto de calabacines y patatas](../recetas/salado/)
+*[Revuelto de puerros](../recetas/salado/)
 
 - - -
 
-- [[Salchichas al vino|Recetas/Salado/Salchichas al vino]]
-- [[Salmorejo|Recetas/Salado/Salmorejo]]
-- [[Sándwich Tuna Melt|Recetas/Salado/Sándwich Tuna Melt]]
-- [[Solomillo de cerdo a la sal|Recetas/Salado/Solomillo de cerdo a la sal]]
-- [[Solomillo de cerdo al horno|Recetas/Salado/Solomillo de cerdo al horno]]
-- [[Sopa de arroz|Recetas/Salado/Sopa de arroz]]
-- [[Sopa de verduras|Recetas/Salado/Sopa de verduras]]
-- [[Sopa sedosa de coliflor|Recetas/Salado/Sopa sedosa de coliflor]]
+*[Salchichas al vino](../recetas/salado/)
+*[Salmorejo](../recetas/salado/)
+*[Sándwich Tuna Melt](../recetas/salado/)
+*[Solomillo de cerdo a la sal](../recetas/salado/)
+*[Solomillo de cerdo al horno](../recetas/salado/)
+*[Sopa de arroz](../recetas/salado/)
+*[Sopa de verduras](../recetas/salado/)
+*[Sopa sedosa de coliflor](../recetas/salado/)
 
 - - -
 
-- [[Tiella de verduras - Pastel de verduras|Recetas/Salado/Tiella de verduras - Pastel de verduras]]
-- [[Tortilla de patatas|Recetas/Salado/Tortilla de patatas]]
+*[Tiella de verduras - Pastel de verduras](../recetas/salado/)
+*[Tortilla de patatas](../recetas/salado/)
 
 - - -
 
-- [[Verduras asadas|Recetas/Salado/Verduras asadas]]
+*[Verduras asadas](../recetas/salado/)

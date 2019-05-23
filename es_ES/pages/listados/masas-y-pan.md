@@ -1,18 +1,18 @@
 ## Masas y pan
 
-- [[Empanada de hojaldre|Recetas/Masas y pan/Empanada de hojaldre]]
-- [[Empanada de pollo y albahaca|Recetas/Masas y pan/Empanada de pollo y albahaca]]
+* [Empanada de hojaldre](../recetas/masas-y-pan/)
+* [Empanada de pollo y albahaca](../recetas/masas-y-pan/)
 
 - - -
 
-- [[Masa para pizza|Recetas/Masas y pan/Masa para pizza]]
-- [[Masa quebrada|Recetas/Masas y pan/Masa quebrada]]
+* [Masa para pizza](../recetas/masas-y-pan/)
+* [Masa quebrada](../recetas/masas-y-pan/)
 
 - - -
 
-- [[Panecillos de hamburguesa|Recetas/Masas y pan/Panecillos de hamburguesa]]
-- [[Pizza Monkey Bread|Recetas/Masas y pan/Pizza Monkey Bread]]
+* [Panecillos de hamburguesa](../recetas/masas-y-pan/)
+* [Pizza Monkey Bread](../recetas/masas-y-pan/)
 
 - - -
 
-- [[Quiche de trucha y puerros|Recetas/Masas y pan/Quiche de trucha y puerros]]
+* [Quiche de trucha y puerros](../recetas/masas-y-pan/)
