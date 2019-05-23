@@ -1,6 +1,6 @@
 # Auxiliares
 
-* [Azúcar moreno casero](../recetas/auxiliares/)
+* [Azúcar moreno casero](../recetas/auxiliares/azucar-moreno-casero.md)
 * [Chocolate Buttercream Frosting - Cobertura de buttercream de chocolate](../recetas/auxiliares/)
 * [Chocolate Buttercream Frosting, con cacao en polvo](../recetas/auxiliares/)
 * [Compota de manzana - Applesauce](../recetas/auxiliares/)
