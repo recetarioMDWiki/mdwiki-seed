@@ -21,15 +21,15 @@
 
 [Recetarios]()
 
-  * [Dulce](listados/dulce.md)
-  * [Salado](listados/salado.md)
-  * [Masas y pan](listados/masas-y-pan.md)
-  * [Auxiliares](listados/auxliares.md)
+  * [Dulce](pages/listados/dulce.md)
+  * [Salado](pages/listados/salado.md)
+  * [Masas y pan](pages/listados/masas-y-pan.md)
+  * [Auxiliares](pages/listados/auxliares.md)
   
 [Otros]()
 
-  * [Moldes y utensilios](otros/moldes-y-utensilios.md)
-  * [Blogs de recetas](otros/blogroll.md)
+  * [Moldes y utensilios](pages/otros/moldes-y-utensilios.md)
+  * [Blogs de recetas](pages/otros/blogroll.md)
 
 [About](pages/about.md)
 
