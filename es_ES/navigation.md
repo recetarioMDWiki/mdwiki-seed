@@ -26,7 +26,7 @@
   * [Masas y pan](listados/masas-y-pan.md)
   * [Auxiliares](listados/auxliares.md)
   
-  [Otros]()
+[Otros]()
 
   * [Moldes y utensilios](otros/moldes-y-utensilios.md)
   * [Blogs de recetas](otros/blogroll.md)
