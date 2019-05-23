@@ -1,4 +1,4 @@
-## Masas y pan
+# Masas y pan
 
 * [Empanada de hojaldre](../recetas/masas-y-pan/)
 * [Empanada de pollo y albahaca](../recetas/masas-y-pan/)
