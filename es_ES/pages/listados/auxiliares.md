@@ -1,6 +1,6 @@
 # Auxiliares
 
-**Dulce**
+### Dulce
 
 * [Azúcar moreno casero](../recetas/auxiliares/)
 * [Chocolate Buttercream Frosting - Cobertura de buttercream de chocolate](../recetas/auxiliares/)
@@ -17,7 +17,7 @@
 
 - - -
 
-**Salado**
+### Salado
 
 * [Guacamole](../recetas/auxiliares/)
 * [Mayonesa](../recetas/auxiliares/)
