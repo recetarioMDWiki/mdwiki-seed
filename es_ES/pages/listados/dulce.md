@@ -1,5 +1,7 @@
 # Dulce
 
+## B
+
 * [Banana Bread - Pan de plátano](../recetas/dulce/banana-bread-pan-de-platano.md)
 * [Banana Bread - Pan de plátano - Otra versión](../recetas/dulce/banana-bread-pan-de-platano-otra-version.md)
 * [Barritas de granola](../recetas/dulce/barritas-de-granola.md)
@@ -17,80 +19,100 @@
 
 - - -
 
-* [Canutillos de hojaldre](../recetas/dulce/)
-* [Carrot Cake Cupcakes - Cupcakes de Tarta de zanahoria](../recetas/dulce/)
-* [Cookies con trocitos de chocolate y avena](../recetas/dulce/)
-* [Coquitos o cocadas - Coconut Macaroons](../recetas/dulce/)
+## C
+
+* [Canutillos de hojaldre](../recetas/dulce/canutillos-de-hojaldre.md)
+* [Carrot Cake Cupcakes - Cupcakes de Tarta de zanahoria](../recetas/dulce/carrot-cake-cupcakes-cupcakes-de-tarta-de-zanahoria.md)
+* [Cookies con trocitos de chocolate y avena](../recetas/dulce/cookies-con-trocitos-de-chocolate-y-avena.md)
+* [Coquitos o cocadas - Coconut Macaroons](../recetas/dulce/coquitos-o-cocadas-coconut-macaroons.md)
 
 - - -
 
-* [Donuts](../recetas/dulce/)
-* [Double Chocolate Banana Bread - Pan de plátano de chocolate](../recetas/dulce/)
+## D
+
+* [Donuts](../recetas/dulce/donuts.md)
+* [Double Chocolate Banana Bread - Pan de plátano de chocolate](../recetas/dulce/double-chocolate-banana-bread-pan-de-platano-de-chocolate.md)
 
 - - -
 
-* [Flan de huevo](../recetas/dulce/)
+## F
+
+* [Flan de huevo](../recetas/dulce/flan-de-huevo.md)
 
 - - -
 
-* [Gachas de avena](../recetas/dulce/)
-* [Galletas](../recetas/dulce/)
-* [Galletas con pistola](../recetas/dulce/)
-* [Galletas de canela - Snickerdoodles](../recetas/dulce/)
-* [Galletas de mantequilla estampadas rellenas de crema de chocolate](../recetas/dulce/)
-* [Galletas de melaza y jengibre](../recetas/dulce/)
-* [Galletas Graham Crackers](../recetas/dulce/)
-* [Granola casera](../recetas/dulce/)
-* [Guinness Gingerbread Bundt Cake](../recetas/dulce/)
+## G
+
+* [Gachas de avena](../recetas/dulce/gachas-de-avena.md)
+* [Galletas](../recetas/dulce/galletas.md)
+* [Galletas con pistola](../recetas/dulce/galletas-con-pistola.md)
+* [Galletas de canela - Snickerdoodles](../recetas/dulce/galletas-de-canela-snickerdoodles.md)
+* [Galletas de mantequilla estampadas rellenas de crema de chocolate](../recetas/dulce/galletas-de-mantequilla-estampadas-rellenas-de-crema-de-chocolate.md)
+* [Galletas de melaza y jengibre](../recetas/dulce/galletas-de-melaza-y-jengibre.md)
+* [Galletas Graham Crackers](../recetas/dulce/galletas-graham-crackers.md)
+* [Granola casera](../recetas/dulce/granola-casera.md)
+* [Guinness Gingerbread Bundt Cake](../recetas/dulce/guinness-gingerbread-bundt-cake.md)
 
 - - -
 
-* [Helado de vainilla {No-Churn}]()
+## H
+
+* [Helado de vainilla {No-Churn}](../recetas/dulce/helado-de-vainilla-no-churn.md)
 
 - - -
 
-* [Magdalenas](../recetas/dulce/)
-* [Magdalenas - Otra versión](../recetas/dulce/)
-* [Mega Cookie con chips de chocolate, plátano y nueces](../recetas/dulce/)
-* [Mermelada de fresa y vainilla](../recetas/dulce/)
-* [Mini Applesauce Bundt Cake](../recetas/dulce/)
-* [Mini Banana Bundt Cake - Bundt Cake de plátano, versión mini](../recetas/dulce/)
-* [Mini Carrot Layer Cake - Tarta de zanahoria, versión mini](../recetas/dulce/)
-* [Mini Cherry Crisp](../recetas/dulce/)
-* [Mini Croissants rellenos de chocolate](../recetas/dulce/)
-* [Mini Napolitanas](../recetas/dulce/)
-* [Mousse de fresas](../recetas/dulce/)
-* [Muesli casero](../recetas/dulce/)
-* [Muffins de arándanos azules](../recetas/dulce/)
-* [Muffins de calabaza y manzana](../recetas/dulce/)
-* [Muffins de compota de manzana](../recetas/dulce/)
-* [Muffins de fresas](../recetas/dulce/)
-* [Muffins de plátano y avena](../recetas/dulce/)
-* [Muffins de plátano y salvado de avena](../recetas/dulce/)
-* [Muffins de plátano, con nueces y chocolate blanco](../recetas/dulce/)
-* [Muffins de salvado de trigo y copos de avena](../recetas/dulce/)
-* [Muffins integrales bajos en grasa](../recetas/dulce/)
+## M
+
+* [Magdalenas](../recetas/dulce/magdalenas.md)
+* [Magdalenas - Otra versión](../recetas/dulce/magdalenas-otra-version.md)
+* [Mega Cookie con chips de chocolate, plátano y nueces](../recetas/dulce/mega-cookie-con-chips-de-chocolate-platano-y-nueces.md)
+* [Mermelada de fresa y vainilla](../recetas/dulce/mermelada-de-fresa-y-vainilla.md)
+* [Mini Applesauce Bundt Cake](../recetas/dulce/mini-applesauce-bundt-cake.md)
+* [Mini Banana Bundt Cake - Bundt Cake de plátano, versión mini](../recetas/dulce/mini-banana-bundt-cake-bundt-cake-de-platano-version-mini.md)
+* [Mini Carrot Layer Cake - Tarta de zanahoria, versión mini](../recetas/dulce/mini-carrot-layer-cake-tarta-de-zanahoria-version-mini.md)
+* [Mini Cherry Crisp](../recetas/dulce/mini-cherry-crisp.md)
+* [Mini Croissants rellenos de chocolate](../recetas/dulce/mini-croissants-rellenos-de-chocolate.md)
+* [Mini Napolitanas](../recetas/dulce/mini-napolitanas.md)
+* [Mousse de fresas](../recetas/dulce/mousse-de-fresas.md)
+* [Muesli casero](../recetas/dulce/muesli-casero.md)
+* [Muffins de arándanos azules](../recetas/dulce/muffins-de-arandanos-azules.md)
+* [Muffins de calabaza y manzana](../recetas/dulce/muffins-de-calabaza-y-manzana.md)
+* [Muffins de compota de manzana](../recetas/dulce/muffins-de-compota-de-manzana.md)
+* [Muffins de fresas](../recetas/dulce/muffins-de-fresas.md)
+* [Muffins de plátano con nueces y chocolate blanco](../recetas/dulce/muffins-de-platano-con-nueces-y-chocolate-blanco.md)
+* [Muffins de plátano y avena](../recetas/dulce/muffins-de-platano-y-avena.md)
+* [Muffins de plátano y salvado de avena](../recetas/dulce/muffins-de-platano-y-salvado-de-avena.md)
+* [Muffins de salvado de trigo y copos de avena](../recetas/dulce/muffins-de-salvado-de-trigo-y-copos-de-avena.md)
+* [Muffins integrales bajos en grasa](../recetas/dulce/muffins-integrales-bajos-en-grasa.md)
 
 - - - 
 
-* [Natillas caseras](../recetas/dulce/)
-* [Nutella Banana Bread - Pan de plátano y Nutella](../recetas/dulce/)
+## N
+
+* [Natillas caseras](../recetas/dulce/natillas-caseras.md)
+* [Nutella Banana Bread - Pan de plátano y Nutella](../recetas/dulce/nutella-banana-bread-pan-de-platano-y-nutella.md)
 
 - - - 
 
-* [Palmeritas de hojaldre](../recetas/dulce/)
-* [Pumpkin and Banana Bread - Pan de calabaza y plátano](../recetas/dulce/)
+## P
+
+* [Palmeritas de hojaldre](../recetas/dulce/palmeritas-de-hojaldre.md)
+* [Pumpkin and Banana Bread - Pan de calabaza y plátano](../recetas/dulce/pumpkin-and-banana-bread-pan-de-calabaza-y-platano.md)
 
 - - -
 
-* [Red Velvet Bundt Cake](../recetas/dulce/)
-* [Roscón de Reyes](../recetas/dulce/)
+## R
+
+* [Red Velvet Bundt Cake](../recetas/dulce/red-velvet-bundt-cake.md)
+* [Roscón de Reyes](../recetas/dulce/roscon-de-reyes.md)
 
 - - -
 
-* [Tarta de chocolate con galletas Oreo](../recetas/dulce/)
-* [Tarta de galletas, chocolate y crema pastelera](../recetas/dulce/)
-* [Tarta de queso](../recetas/dulce/)
-* [Tarta mousse de queso y melocotón](../recetas/dulce/)
-* [Torrijas de leche](../recetas/dulce/)
-* [Tortitas americanas - Buttermilk Pancakes](../recetas/dulce/)
+## T
+
+* [Tarta de chocolate con galletas Oreo](../recetas/dulce/tarta-de-chocolate-con-galletas-oreo.md)
+* [Tarta de galletas, chocolate y crema pastelera](../recetas/dulce/tarta-de-galletas-chocolate-y-crema-pastelera.md)
+* [Tarta de queso](../recetas/dulce/tarta-de-queso.md)
+* [Tarta mousse de queso y melocotón](../recetas/dulce/tarta-mousse-de-queso-y-melocoton.md)
+* [Torrijas de leche](../recetas/dulce/torrijas-de-leche.md)
+* [Tortitas americanas - Buttermilk Pancakes](../recetas/dulce/tortitas-americanas-buttermilk-pancakes.md)

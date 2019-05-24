@@ -1,5 +1,2 @@
 # Moldes y utensilios
 
-
-
-
