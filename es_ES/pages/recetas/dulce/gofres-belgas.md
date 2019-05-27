@@ -37,4 +37,4 @@ Los gofres se pueden congelar una vez hechos (y enfriados) individualmente en bo
 
 **Utensilio utilizado:** [gofrera](../../moldes-y-utensilios.md)
 
-**Receta de:** [Pemberley Cup & Cakes](href="http://pemberleycupandcakes.com/2015/07/14/gofres-con-helado-de-golden-syrup-los-autenticos-gofres-con-un-acompanamiento-de-excepcion/)
+**Receta de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2015/07/14/gofres-con-helado-de-golden-syrup-los-autenticos-gofres-con-un-acompanamiento-de-excepcion/)
