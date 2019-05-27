@@ -29,6 +29,6 @@ Puede aguantar hasta 4 días a temperatura ambiente, envuelto en papel de alumin
 
 **Molde utilizado**
 
-[[Molde loaf o de pan|Otros/Moldes y utensilios]]
+[Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Smitten Kitchen](https://smittenkitchen.com/2014/03/double-chocolate-banana-bread/)
