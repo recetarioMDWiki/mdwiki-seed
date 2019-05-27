@@ -27,6 +27,6 @@ La medida del yogur es de 125 g.
 
 **Molde utlizado**
 
-[[Molde loaf o de pan|Otros/Moldes y utensilios]]
+[Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [El restaurante del fin del mundo](http://restaurantefinmundo.blogspot.com/2015/05/guardianes-de-un-sabor-el-clasico.html)
