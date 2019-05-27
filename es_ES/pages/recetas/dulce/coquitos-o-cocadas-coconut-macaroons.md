@@ -23,6 +23,6 @@ Llevamos al horno al centro del horno hasta que estén dorados, unos 20 minutos.
 
 Las cantidades son muy grandes por lo que podemos hacer aproximadamente la mitad de la receta: 300 g tanto de coco como de azúcar y 4 claras de huevo, repartidas en dos y dos.
 
-Son muy parecidos a las sultanas de coco, o los Coconut Macaroons (no confundir con los macarons)
+Son muy parecidos a las sultanas de coco, o los Coconut Macaroons (no confundir con los macarons).
 
 **Receta de:** Libro de repostería de Maribel Basáñez, Concha Esteban y Mª Socorro Giménez.
