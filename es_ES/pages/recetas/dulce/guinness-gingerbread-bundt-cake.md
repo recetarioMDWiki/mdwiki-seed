@@ -40,6 +40,6 @@ Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de man
 
 Podemos servirlo solo o acompañado de nata montada.
 
-**Molde utilizado:** [[molde bundt de 12 cups|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde bundt de 12 cups](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen
