@@ -54,6 +54,6 @@ Se pueden hacer más variaciones sustituyendo el agua por zumo de frutas natural
 
 **Molde utilizado**
 
-[[Molde loaf o de pan|Otros/Moldes y utensilios]]
+[Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen
