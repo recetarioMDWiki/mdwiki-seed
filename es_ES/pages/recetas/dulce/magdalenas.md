@@ -30,6 +30,6 @@ Una vez enfriadas y para que se mantengan bien más tiempo, conservarlas en un r
 
 En el artículo se explica muy bien la química de los ingredientes, así que para adaptarlas a lo que más os guste (más húmedas, más secas, etc.), echad un vistazo. Yo le añadí la ralladura de limón por mi cuenta.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** [El Comidista](https://elcomidista.elpais.com/elcomidista/2016/04/14/receta/1460639256_878979.html)
