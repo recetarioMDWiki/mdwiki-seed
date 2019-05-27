@@ -36,6 +36,6 @@ Es importante que respetemos los tiempos indicados al calentar la mantequilla, l
 
 **Molde utilizado**
 
-[[Molde cuadrado de 20 cm|Otros/Moldes y utensilios]]
+[Molde cuadrado de 20 cm](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen
