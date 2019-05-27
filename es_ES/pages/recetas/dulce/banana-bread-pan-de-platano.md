@@ -37,10 +37,10 @@ Podemos congelarlo cortado en rebanadas, con un trozo de papel de hornear entre 
 
 Esta receta es muy similar a los Muffins de plátano, con nueces y chocolate blanco, ya que las muffins, en general, son otra forma de hacer quick breads.
 
-Otra versión de esta receta con una pequeña variación de ingredientes pero también muy buena la tenéis [[aquí|Recetas/Dulce/Banana Bread - Pan de plátano - Otra versión]].
+Otra versión de esta receta con una pequeña variación de ingredientes pero también muy buena la tenéis [aquí](../banana-bread-otra-version.md).
 
 **Molde utilizado**
 
-[[Molde loaf o de pan|Otros/Moldes y utensilios]]
+[Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Joy of Baking](https://www.joyofbaking.com/breakfast/BananaBread.html)
