@@ -51,4 +51,4 @@ Llevamos al horno precalentado a 170º C, con calor arriba y abajo, y lo ponemos
 
 Una vez los roscones están fríos, podemos rellenarlos con nata montada, crema pastelera o crema de trufa.
 
-**Receta original de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2011/12/roscon-de-reyes.html)
+**Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2011/12/roscon-de-reyes.html)

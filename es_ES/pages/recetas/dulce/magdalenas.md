@@ -32,4 +32,4 @@ En el artículo se explica muy bien la química de los ingredientes, así que pa
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** [El Comidista](https://elcomidista.elpais.com/elcomidista/2016/04/14/receta/1460639256_878979.html)
+**Receta de:** [El Comidista](https://elcomidista.elpais.com/elcomidista/2016/04/14/receta/1460639256_878979.html)

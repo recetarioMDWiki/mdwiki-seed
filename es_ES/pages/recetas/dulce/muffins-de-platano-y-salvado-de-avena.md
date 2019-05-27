@@ -45,4 +45,4 @@ Como la mayoría de los muffins, una vez fríos los podemos congelar. Para desco
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Alma Obregón](https://www.instagram.com/p/Bgoj5jZlJxM/?hl=es&taken-by=alma_cupcakes)
+**Receta de:** [Alma Obregón](https://www.instagram.com/p/Bgoj5jZlJxM/?hl=es&taken-by=alma_cupcakes)

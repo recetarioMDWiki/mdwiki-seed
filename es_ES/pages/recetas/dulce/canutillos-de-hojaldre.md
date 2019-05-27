@@ -21,4 +21,4 @@ Los podemos rellenar de crema pastelera o lo que más os guste y espolvoreamos d
 
 [[Canutillos y cornetes de acero inoxidable|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Si no te gusta... échale azúcar](http://echaleazucar.blogspot.com/2010/04/canutillos-de-hojaldre-y-crema.html)
+**Receta de:** [Si no te gusta... échale azúcar](http://echaleazucar.blogspot.com/2010/04/canutillos-de-hojaldre-y-crema.html)

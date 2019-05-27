@@ -37,4 +37,4 @@ Trituramos la mermelada de melocotón o albaricoque junto con el agua con una ba
 
 **Molde utilizado:** [[redondo de 26 cm de diámetro|Otros/Moldes y utensilios]]
 
-**Receta original de:** Kanela y Limón
+**Receta de:** Kanela y Limón

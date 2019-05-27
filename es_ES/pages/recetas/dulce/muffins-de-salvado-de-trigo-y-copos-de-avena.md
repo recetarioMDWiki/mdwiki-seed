@@ -40,4 +40,4 @@ Como la mayoría de los muffins, una vez fríos los podemos congelar, bien envue
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

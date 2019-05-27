@@ -33,6 +33,6 @@ Las semillas podemos utilizarlas tostadas en otras recetas.
 
 **Recetas que utilizan puré de calabaza**
 
-- [[Muffins de calabaza y manzana|Recetas/Dulce/Muffins de calabaza y manzana]]
+- [Muffins de calabaza y manzana](../dulce/muffins-de-calabaza-y-manzana.md)
 
-**Receta original de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2014/08/12/pure-de-calabaza-casero/)
+**Receta de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2014/08/12/pure-de-calabaza-casero/)

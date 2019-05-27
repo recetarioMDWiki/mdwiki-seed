@@ -30,4 +30,4 @@ Horneamos en el centro del horno, durante 10-15 minutos o hasta que estén dorad
 
 Las conservaremos en un bote hermético.
 
-**Receta original de:** [Annie, Canal Cocina](https://canalcocina.es/receta/cookies-con-trocitos-chocolate)
+**Receta de:** [Annie, Canal Cocina](https://canalcocina.es/receta/cookies-con-trocitos-chocolate)

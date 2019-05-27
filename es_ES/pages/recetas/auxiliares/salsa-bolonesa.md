@@ -31,6 +31,6 @@ Añadimos el tomate triturado y el laurel, bajamos a fuego lento, añadimos un p
 
 Si tenemos también podemos añadir al sofrito una rama de apio picado.
 
-Podemos utilizar vino tinto en vez de vino blanco."
+Podemos utilizar vino tinto en vez de vino blanco.
 
-**Receta original de:** 
+**Receta de:** 

@@ -49,4 +49,4 @@ Es importante poner los moldes sobre la bandeja y no sobre la rejilla, de manera
 
 **Molde utilizado:** [[ramequines de cerámica|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

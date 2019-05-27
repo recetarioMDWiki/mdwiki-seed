@@ -35,4 +35,4 @@ Dejaremos en el frigorífico hasta el momento de servir.
 
 Podemos decorar la tarta con coco rallado o chocolate blanco en virutas.
 
-**Receta original de:** Mamá
+**Receta de:** Mamá

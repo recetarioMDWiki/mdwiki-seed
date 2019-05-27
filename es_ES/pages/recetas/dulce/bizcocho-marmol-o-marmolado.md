@@ -30,4 +30,4 @@ Horneamos a 180º C unos 30-40 minutos o hasta que al pincharlo con una varilla 
 
 [[Molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** [María Lunarillos](https://www.marialunarillos.com/blog/2014/10/receta-de-bizcocho-marmol-o-marmolado.html)
+**Receta de:** [María Lunarillos](https://www.marialunarillos.com/blog/2014/10/receta-de-bizcocho-marmol-o-marmolado.html)

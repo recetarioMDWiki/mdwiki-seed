@@ -37,4 +37,4 @@ Con esta receta se pueden hacer 12 muffins normales, pero si nos gustan grandes,
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

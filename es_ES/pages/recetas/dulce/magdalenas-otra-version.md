@@ -38,4 +38,4 @@ Si solo tienes aceite de oliva fuerte, utiliza mitad de aceite de oliva fuerte y
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** [El restaurante del fin del mundo](http://restaurantefinmundo.blogspot.com/2014/05/las-magdalenas-de-toda-la-vida-de.html)
+**Receta de:** [El restaurante del fin del mundo](http://restaurantefinmundo.blogspot.com/2014/05/las-magdalenas-de-toda-la-vida-de.html)

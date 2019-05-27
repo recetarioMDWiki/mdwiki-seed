@@ -24,4 +24,4 @@ Si no queremos encontrar trozos de verdura, podemos triturar la salsa con la bat
 
 Si queremos, o tenemos poco tomate, podemos añadir 200 ml de nata. Removemos y cocinamos un poco más.
 
-**Receta original de:** 
+**Receta de:** 

@@ -25,4 +25,4 @@ Podemos utilizar una manga pastelera o una espátula para decorar los cupcakes o
 
 Para el frosting es mejor NO utilizar quesos bajos en grasa. Además tendremos la precaución de retirar todo el suero que haya, ya que puede afectar a la consistencia.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

@@ -27,8 +27,8 @@ Se puede refrigerar hasta 2 días guardado en un recipiente hermético. Dejar qu
 
 **Recetas que utilizan Cream Cheese Frosting**
 
-- [[Carrot Cake Cupcakes - Cupcakes de Tarta de Zanahoria|Recetas/Dulce/Carrot Cake Cupcakes - Cupcakes de Tarta de Zanahoria]]
-- [[Mini Applesauce Bundt Cake|Recetas/Dulce/Mini Applesauce Bundt Cake]]
-- [[Mini Carrot Layer Cake - Tarta de zanahoria, versión mini|Recetas/Dulce/Mini Carrot Layer Cake - Tarta de zanahoria, versión mini]]
+- [Carrot Cake Cupcakes - Cupcakes de Tarta de Zanahoria](../dulce/carrot-cake-cupcakes-cupcakes-de-tarta-de-zanahoria.md)
+- [Mini Applesauce Bundt Cake](../dulce/mini-applesauce-bundt-cake.md)
+- [Mini Carrot Layer Cake - Tarta de zanahoria, versión mini](../dulce/mini-carrot-layer-cake-tarta-de-zanahoria-version-mini.md)
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

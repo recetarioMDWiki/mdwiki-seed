@@ -40,4 +40,4 @@ Si el sabor del jengibre no os gusta o no tenéis a mano, podéis sustituirlo po
 
 **Molde utilizado:** [[loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** [El rincón de Bea](http://www.elrincondebea.com/2015/09/pumpkin-banana-bread.html)
+**Receta de:** [El rincón de Bea](http://www.elrincondebea.com/2015/09/pumpkin-banana-bread.html)

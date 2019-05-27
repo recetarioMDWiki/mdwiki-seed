@@ -30,4 +30,4 @@ Podemos utilizarla para acompañar carnes.
 
 Si queremos, podemos añadir unos 40 g de almendras, como en la receta original de la fuente.
 
-**Receta original de:** 
+**Receta de:** 

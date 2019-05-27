@@ -19,4 +19,4 @@ Pasado el tiempo, enharinamos la mesa y extendemos la masa con un rodillo de coc
 
 Introducimos en el horno y las dejamos unos 15-20 minutos, hasta que empiecen a dorarse por los bordes.
 
-**Receta original de:** María NC
+**Receta de:** María NC

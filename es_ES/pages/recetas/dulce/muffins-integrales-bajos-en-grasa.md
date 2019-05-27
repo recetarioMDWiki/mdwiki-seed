@@ -48,4 +48,4 @@ Una vez fríos los podemos congelar envueltos en papel film. Para descongelarlos
 
 **Molde utilizado:** [[bandeja para cupcakes o muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

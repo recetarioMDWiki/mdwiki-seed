@@ -45,4 +45,4 @@ En lugar de arándanos azules podéis utilizar frambuesas, moras o una combinaci
 
 **Molde utilizado:** [[bandeja para cupcakes o muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

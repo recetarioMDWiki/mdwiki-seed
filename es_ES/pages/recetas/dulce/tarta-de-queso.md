@@ -36,4 +36,4 @@ Se puede congelar, bien envuelta en papel film. Para descongelarla, la dejamos e
 
 **Molde utilizado:** [[molde cuadrado de 20 cm (8 inches)|Otros/Moldes y utensilios]]
 
-**Receta original de:** Zito
+**Receta de:** Zito

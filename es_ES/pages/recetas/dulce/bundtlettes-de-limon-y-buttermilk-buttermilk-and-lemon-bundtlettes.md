@@ -43,4 +43,4 @@ Si no encontramos buttermilk podemos prepararlo con 240 ml de leche (entera o se
 
 [[Molde Bundtlettes|Otros/Moldes y utensilios]]
 
-**Receta original de:** [I Love Bundt Cakes](http://www.ilovebundtcakes.com/buttermilk-lemon-bundtlettes/)
+**Receta de:** [I Love Bundt Cakes](http://www.ilovebundtcakes.com/buttermilk-lemon-bundtlettes/)

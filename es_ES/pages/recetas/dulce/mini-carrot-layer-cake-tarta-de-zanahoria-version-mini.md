@@ -52,4 +52,4 @@ Para servir las porciones de tarta y que los cortes queden limpios utilizaremos 
 
 **Molde utilizado:** [[molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

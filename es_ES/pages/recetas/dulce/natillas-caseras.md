@@ -27,4 +27,4 @@ Con estas cantidades podemos hacer 4 natillas como las de la foto.
 
 **Molde utilizado:** [[moldes sufflé o ramequines|Otros/Moldes y utensilios]]
 
-**Receta original de:** Libro de repostería de Maribel Basáñez, Concha Esteban y Mª Socorro Giménez.
+**Receta de:** Libro de repostería de Maribel Basáñez, Concha Esteban y Mª Socorro Giménez.

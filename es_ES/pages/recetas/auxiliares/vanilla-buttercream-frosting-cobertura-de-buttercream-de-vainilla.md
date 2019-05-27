@@ -23,4 +23,4 @@ En lugar de extracto de vainilla podemos utilizar las semillas de una vaina o pa
 
 En lugar de leche, para obtener una textura más sedosa, podemos utilizar nata ligera (18% MG) o nata de montar (35% MG).
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

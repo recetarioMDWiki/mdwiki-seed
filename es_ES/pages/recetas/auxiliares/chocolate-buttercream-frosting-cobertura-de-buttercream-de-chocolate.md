@@ -19,4 +19,4 @@ Podemos utilizar una manga pastelera o una espátula para decorar los cupcakes o
 
 Para evitar que el frosting tenga una textura arenosa, es imprescindible utilizar un azúcar en polvo de calidad y extrafino, de los que se encuentran en las tiendas de productos americanos bajo nombres como Icing Sugar o Confectioners Sugar.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

@@ -19,4 +19,4 @@ Con un cuchillo afilado cortamos tiras a lo ancho, de un dedo de grosor aproxima
 
 Para cubrirlas de chocolate, derretimos el chocolate al baño María y sumergimos las palmeritas solo hasta la mitad o las bañamos enteras, dejándolas escurrir sobre una rejilla. Una vez frías las pasamos al frigorífico hasta que el chocolate se endurezca.
 
-**Receta original de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2009/10/palmeras-de-hojaldre.html)
+**Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2009/10/palmeras-de-hojaldre.html)

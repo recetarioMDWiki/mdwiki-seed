@@ -43,4 +43,4 @@ Otra versión de esta receta con una pequeña variación de ingredientes pero ta
 
 [[Molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Joy of Baking](https://www.joyofbaking.com/breakfast/BananaBread.html)
+**Receta de:** [Joy of Baking](https://www.joyofbaking.com/breakfast/BananaBread.html)

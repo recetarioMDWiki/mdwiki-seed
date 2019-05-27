@@ -20,4 +20,4 @@ Si la queremos más densa podemos aumentar la cantidad de harina y reducir la ca
 
 Podemos enriquecer la salsa con dos yemas de huevo por cada medio litro de leche y queso rallado.
 
-**Receta original de:** 
+**Receta de:** 

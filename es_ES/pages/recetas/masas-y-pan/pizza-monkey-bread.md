@@ -50,4 +50,4 @@ Si tenemos una panificadora, podemos evitarnos el amasado e incluso podemos deja
 
 **Molde utilizado:** [[bundt de 12 cups|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2012/02/pizza-monkey-bread.html)
+**Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2012/02/pizza-monkey-bread.html)

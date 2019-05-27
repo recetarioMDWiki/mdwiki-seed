@@ -36,4 +36,4 @@ En lugar de sirope de arce podemos utilizar miel o una combinación de sirope de
 
 He utilizado la bandeja del horno de color claro. También se puede utilizar otro tipo de bandeja poniéndola en el horno sobre la rejilla. Si utilizamos una bandeja de color oscuro, debemos bajar la temperatura a 150º C para evitar que la granola se dore demasiado.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

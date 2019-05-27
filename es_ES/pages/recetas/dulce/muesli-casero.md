@@ -26,4 +26,4 @@ Lo podemos preparar con los ingredientes que más nos gusten, cambiando los frut
 
 Para tomarlo, podemos mezclarlo con yogur natural, pero también podemos utilizar leche o zumo, y añadir fruta fresca en el momento.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

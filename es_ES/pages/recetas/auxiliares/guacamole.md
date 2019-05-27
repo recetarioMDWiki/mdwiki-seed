@@ -30,7 +30,7 @@ Podemos usarlo para rellenar las tortitas de los burritos.
 
 El aguacate debe estar maduro pero no blando. La piel debe estar firme y al apretar se hundirá ligeramente el dedo. Si están muy verdes, podemos envolverlos en el papel de periódico y dejarlos a temperatura ambiente para que maduren.
 
-**Receta original de:** [Velocidad cuchara](https://www.velocidadcuchara.com/nachos-con-guacamole-sin-thermomix/)
+**Receta de:** [Velocidad cuchara](https://www.velocidadcuchara.com/nachos-con-guacamole-sin-thermomix/)
 
 <!--
   -- http://sweetandsour.es/guacamole-mexicano-autentico

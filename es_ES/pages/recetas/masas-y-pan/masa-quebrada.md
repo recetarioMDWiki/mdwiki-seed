@@ -34,4 +34,4 @@ Si la queremos utilizar para recetas saladas, como quiches, eliminamos el azúca
 
 - [[Quiche de trucha y puerros|Recetas/Masas y pan/Quiche de trucha y puerros]]
 
-**Receta original de:** [María Lunarillos](https://www.marialunarillos.com/blog/2013/11/como-se-hace-la-masa-quebrada.html)
+**Receta de:** [María Lunarillos](https://www.marialunarillos.com/blog/2013/11/como-se-hace-la-masa-quebrada.html)

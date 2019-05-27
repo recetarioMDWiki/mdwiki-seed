@@ -25,4 +25,4 @@ Podemos variar las cantidades de los ingredientes para hacerla a nuestro gusto.
 
 La conservamos en un bote de cristal en el frigorífico.
 
-**Receta original de:** 
+**Receta de:** 

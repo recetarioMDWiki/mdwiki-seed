@@ -37,4 +37,4 @@ Podéis ver la técnica de amasado de Richar Bertinet [aquí](https://www.youtub
 
 - [[Hamburguesas caseras|Recetas/Salado/Hamburguesas caseras]].
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

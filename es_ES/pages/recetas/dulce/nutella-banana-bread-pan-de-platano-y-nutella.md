@@ -35,4 +35,4 @@ Si te parece demasiada Nutella, se puede reducir la cantidad al gusto.
 
 **Molde utilizado:** [[molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Broma Bakery](https://bromabakery.com/nutella-banana-bread/)
+**Receta de:** [Broma Bakery](https://bromabakery.com/nutella-banana-bread/)

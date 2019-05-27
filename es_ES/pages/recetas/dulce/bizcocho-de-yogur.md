@@ -38,4 +38,4 @@ Podemos espolvorear el molde con pan rallado en vez de con harina si nos gusta q
 
 [[Molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** Mamá
+**Receta de:** Mamá

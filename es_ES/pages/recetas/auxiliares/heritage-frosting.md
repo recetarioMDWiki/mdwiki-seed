@@ -25,4 +25,4 @@ Si el frosting está demasiado blando para utilizarlo, lo dejaremos reposar en l
 
 Es posible que, dependiendo de la temperatura de la cocina, de la mantequilla o de la crema, en algún momento el frosting nos parezca que está cortado. Seguiremos batiendo un poco más y quedará perfecto.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

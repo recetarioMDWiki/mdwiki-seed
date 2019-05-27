@@ -29,4 +29,4 @@ Añadimos agua para rebajar el espesor sin añadir limón o vinagre, que haría 
 
 Se toma del tiempo, aunque la conservaremos en la nevera.
 
-**Receta original de:** 
+**Receta de:** 

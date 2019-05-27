@@ -39,4 +39,4 @@ Para que nos sea más fácil formar las bolas, podemos humedecernos las manos co
 
 Si queremos preparar la receta clásica de snickerdoodles hay que poner 113 g de mantequilla en total y sustituir la levadura química por 1 teaspoon de cremor tártaro y 1/2 teaspoon de bicarbonato sódico. Una vez esté hecha la masa, la tapamos y la dejamos en la nevera una o dos horas antes de formar las bolas.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

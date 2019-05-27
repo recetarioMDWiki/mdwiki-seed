@@ -26,4 +26,4 @@ Podemos decorarlas al gusto. Si le queremos poner guindas, las pondremos antes d
 
 **Utensilio utilizado:** [[pistola de galletas|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2010/10/galletas-de-pistola.html)
+**Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2010/10/galletas-de-pistola.html)

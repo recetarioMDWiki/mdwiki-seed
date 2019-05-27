@@ -44,4 +44,4 @@ El cacao en polvo natural que he utilizado es de la marca Hershey's. No es igual
 
 **Molde utilizado:** [[molde bundt Kugelhopf|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2015/06/bundt-cake-de-red-velvet-en-memoria-de.html)
+**Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2015/06/bundt-cake-de-red-velvet-en-memoria-de.html)

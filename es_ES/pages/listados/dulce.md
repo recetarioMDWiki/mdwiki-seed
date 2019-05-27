@@ -1,5 +1,9 @@
 # Dulce
 
+## A
+
+* [Arroz con leche](../recetas/dulce/arroz-con-leche.md)
+
 ## B
 
 * [Banana Bread - Pan de plátano](../recetas/dulce/banana-bread-pan-de-platano.md)
@@ -50,6 +54,7 @@
 * [Galletas de mantequilla estampadas rellenas de crema de chocolate](../recetas/dulce/galletas-de-mantequilla-estampadas-rellenas-de-crema-de-chocolate.md)
 * [Galletas de melaza y jengibre](../recetas/dulce/galletas-de-melaza-y-jengibre.md)
 * [Galletas Graham Crackers](../recetas/dulce/galletas-graham-crackers.md)
+* [Gofres belgas](../recetas/dulce/gofres-belgas.md)
 * [Granola casera](../recetas/dulce/granola-casera.md)
 * [Guinness Gingerbread Bundt Cake](../recetas/dulce/guinness-gingerbread-bundt-cake.md)
 

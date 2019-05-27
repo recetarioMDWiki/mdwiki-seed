@@ -30,4 +30,4 @@ Las cantidades de la receta original están calculadas para 7 claras. Se pueden 
 
 [[Molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** Secocina
+**Receta de:** Secocina

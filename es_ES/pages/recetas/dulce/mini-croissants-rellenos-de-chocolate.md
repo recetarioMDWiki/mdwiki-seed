@@ -22,4 +22,4 @@ Introducimos en el horno a 180º C durante unos 20 minutos. Retiramos. Mientras 
 
 Salen unos 9 o 10 mini croissants.
 
-**Receta original de:** [Cocinando en mi isla amarilla](http://www.cocinandoenmiislaamarilla.com/2009/11/minicroissants-rellenos-de-chocolate.html)
+**Receta de:** [Cocinando en mi isla amarilla](http://www.cocinandoenmiislaamarilla.com/2009/11/minicroissants-rellenos-de-chocolate.html)

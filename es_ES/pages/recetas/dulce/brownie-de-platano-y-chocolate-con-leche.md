@@ -30,4 +30,4 @@ En la receta original utiliza nueces pecanas, y termina decorando con dulce de l
 
 [[Molde cuadrado de 20x20 cm|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2016/07/brownie-de-platano-y-chocolate-con-leche.html)
+**Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2016/07/brownie-de-platano-y-chocolate-con-leche.html)

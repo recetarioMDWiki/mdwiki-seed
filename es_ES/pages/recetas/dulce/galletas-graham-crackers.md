@@ -42,4 +42,4 @@ Los podemos conservar en un bote hermético hasta 2 semanas.
 
 Son unas galletas parecidas a las galletas *digestive*.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

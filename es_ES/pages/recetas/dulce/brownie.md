@@ -48,4 +48,4 @@ Podemos congelar el brownie ya cortado unos 2 meses bien envueltos, primero con 
 
 [[Molde cuadrado de 20x20 cm|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2013/06/13/dark-chocolate-brownies/)
+**Receta de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2013/06/13/dark-chocolate-brownies/)

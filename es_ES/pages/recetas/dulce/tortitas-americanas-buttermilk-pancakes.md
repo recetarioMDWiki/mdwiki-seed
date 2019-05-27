@@ -38,4 +38,4 @@ Si no podemos encontrar buttermilk podemos utilizar la siguiente sustitución: 1
 
 Si queremos mantener las tortitas calientes una vez hechas, podemos ponerlas en una bandeja y meterlos en el horno precalentado a 90º C y apagado. Sin taparlos ni apilarlos para que no se pongan húmedos.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

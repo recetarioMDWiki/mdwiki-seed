@@ -39,8 +39,8 @@ También podemos aromatizar la leche con piel de naranja; o con una cucharadita 
 
 **Recetas que utilizan crema pastelera**
 
-- [[Canutillos de hojaldre|Recetas/Dulce/Canutillos de hojaldre]]
-- [[Roscón de Reyes|Recetas/Dulce/Roscón de Reyes]]
-- [[Tarta de galletas, chocolate y crema pastelera|Recetas/Dulce/Tarta de galletas, chocolate y crema pastelera]]
+- [Canutillos de hojaldre](../dulce/canutillos-de-hojaldre.md)
+- [Roscón de Reyes](../dulce/roscon-de-reyes.md)
+- [Tarta de galletas, chocolate y crema pastelera](../dulce/tarta-de-galletas-chocolate-y-crema-pastelera.md)
 
-**Receta original de:** DeNIKAtessen y Sophie Bakery
+**Receta de:** DeNIKAtessen y Sophie Bakery

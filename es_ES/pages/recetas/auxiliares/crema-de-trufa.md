@@ -16,6 +16,6 @@ Sale una crema bastante oscura. Si no sois muy chocolateros, aconsejaría reduci
 
 **Recetas que utilizan crema de trufa**
 
-- [[Roscón de Reyes|Recetas/Dulce/Roscón de Reyes]]
+- [Roscón de Reyes](../dulce/roscon-de-reyes.md)
 
-**Receta original de:** Joaquín Martín.
+**Receta de:** Joaquín Martín.

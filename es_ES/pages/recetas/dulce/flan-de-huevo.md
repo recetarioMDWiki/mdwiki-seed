@@ -26,4 +26,4 @@ Si lo queremos hacer de coco, añadimos 100 g de coco rallado al batir todos los
 
 Podemos utilizar leche entera, semidesnatada o desnatada.
 
-**Receta original de:** Mamá
+**Receta de:** Mamá

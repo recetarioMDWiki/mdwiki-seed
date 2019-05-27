@@ -30,9 +30,9 @@ Si queremos hacer una compota en versión rosa utilizaremos manzanas más rojiza
 
 **Recetas que utilizan compota de manzana**
 
-- [[Bizcochitos fruta & fibra|Recetas/Dulce/Bizcochitos fruta y fibra]]
-- [[Mini Applesauce Bundt Cake|Recetas/Dulce/Mini Applesauce Bundt Cake]]
-- [[Muffins de calabaza y manzana|Recetas/Dulce/Muffins de calabaza y manzana]]
-- [[Muffins de compota de manzana|Recetas/Dulce/Muffins de compota de manzana]]
+- [Bizcochitos fruta & fibra](../dulce/bizcochitos-fruta-y-fibra.md)
+- [Mini Applesauce Bundt Cake](../dulce/mini-applesauce-bundt-cake.md)
+- [Muffins de calabaza y manzana](../dulce/muffins-de-calabaza-y-manzana.md)
+- [Muffins de compota de manzana](../dulce/muffins-de-compota-de-manzana.md)
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

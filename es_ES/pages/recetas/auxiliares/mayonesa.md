@@ -16,4 +16,4 @@ En el vaso de la batidora ponemos el huevo, la pizca de sal y la mitad del aceit
 De esta forma queda una mayonesa suave, si queremos más consistencia añadiremos más aceite.
 Si se nos corta, podemos añadir otro huevo y empezar a batir lentamente como al principio.
 
-**Receta original de:** 
+**Receta de:** 

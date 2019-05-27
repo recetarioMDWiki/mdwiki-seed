@@ -34,4 +34,4 @@ Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de man
 
 [[Molde Bundt de 12 cups|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Martha Stewart](https://www.marthastewart.com/318085/maple-bundt-cake#Bundt%20Cake%20Recipes|/274977/bundt-cake-recipes/@center/276954/great-cake-recipes|318085)
+**Receta de:** [Martha Stewart](https://www.marthastewart.com/318085/maple-bundt-cake#Bundt%20Cake%20Recipes|/274977/bundt-cake-recipes/@center/276954/great-cake-recipes|318085)

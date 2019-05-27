@@ -55,4 +55,4 @@ Se conserva bien tapado a temperatura ambiente, pero podemos cortarlo en rebanad
 
 [[Molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2013/09/18/banana-bread/)
+**Receta de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2013/09/18/banana-bread/)

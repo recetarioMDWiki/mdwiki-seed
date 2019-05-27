@@ -24,4 +24,4 @@ Precalentamos el horno a 230º C, con calor arriba y abajo.
 
 Con la masa ya en la bandeja ponemos los ingredientes a nuestro gusto e introducimos en el horno a una altura por debajo del centro. Dejamos hasta que se empiecen a dorar los bordes o el queso.
 
-**Receta original de:** Adrián
+**Receta de:** Adrián

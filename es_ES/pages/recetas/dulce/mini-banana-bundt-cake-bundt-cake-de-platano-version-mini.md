@@ -41,4 +41,4 @@ Las cantidades de la receta están ajustadas para usar un molde pequeño de bund
 
 **Molde utilizado:** [[molde bundt de 3 cups|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

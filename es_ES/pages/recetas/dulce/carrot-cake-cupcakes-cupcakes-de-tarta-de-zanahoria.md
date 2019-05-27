@@ -34,4 +34,4 @@ Una vez que los bizcochos están fríos, ponemos el frosting en una manga pastel
 
 [[Bandeja para cupcakes o muffins y boquilla 1M o 2D de Wilton|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/01/porque-si-mis-padres-les-gustaron.html) y DeNIKAtessen
+**Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/01/porque-si-mis-padres-les-gustaron.html) y DeNIKAtessen

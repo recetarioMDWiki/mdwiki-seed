@@ -19,4 +19,4 @@ La receta original del alioli sólo lleva ajo y aceite. Esta es una variación q
 
 A mí me gusta suave y por eso le echo sólo un diente de ajo. Si os gusta más fuerte, podéis añadir otro diente más."
 
-**Receta original de:** 
+**Receta de:** 

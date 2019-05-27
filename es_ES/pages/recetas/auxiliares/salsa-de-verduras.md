@@ -27,4 +27,4 @@ Podemos servirla en una fuente o jarra para que cada uno se aparte en su plato.
 
 Podemos utilizarla para acompañar carnes.
 
-**Receta original de:** 
+**Receta de:** 

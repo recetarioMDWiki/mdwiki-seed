@@ -45,4 +45,4 @@ Para evitar que la melaza se pegue al medidor, podemos engrasar el medidor previ
 
 Podemos congelar la masa una vez formadas las bolas, rebozadas en azúcar y aplastadas. Las pondremos en una bandeja y las meteremos en el congelador. Cuando estén congeladas las podemos pasar a una bolsa de congelación. Cuando queramos hornearlas, lo haremos directamente, sin descongelar, pero necesitarán 1 o 2 minutos más de horno.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

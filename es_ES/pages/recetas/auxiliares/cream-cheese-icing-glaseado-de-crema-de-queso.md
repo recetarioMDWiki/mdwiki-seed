@@ -19,6 +19,6 @@ Este es un glaseado de sabor similar al Cream Cheese Frosting pero mucho más fl
 
 **Recetas que utilizan Cream Cheese Icing**
 
-- [[Mini Applesauce Bundt Cake|Recetas/Dulce/Mini Applesauce Bundt Cake]]
+- [Mini Applesauce Bundt Cake](../dulce/mini-applesauce-bundt-cake.md)
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

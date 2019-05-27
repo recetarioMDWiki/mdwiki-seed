@@ -36,10 +36,10 @@ Horneamos a 175º C durante 50-60 minutos o hasta que al insertar un palillo és
 
 La cantidad de especias es orientativa y dependerá de nuestro gusto personal. Podemos reducir las cantidades, aumentarlas o, si no nos gusta una especia, omitirla. 
 
-Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde. Nos lo explica DeNIKAtessen en "Cómo preparar los moldes bundt".
+Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde.
 
 Podemos servirlo solo o acompañado de nata montada.
 
 **Molde utilizado:** [[molde bundt de 12 cups|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

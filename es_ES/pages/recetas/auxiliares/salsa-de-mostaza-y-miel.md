@@ -20,4 +20,4 @@ Sacamos todo el aceite, aplastamos bien los ajos con un tenedor y añadimos al m
 
 El aceite de confitar los ajos lo podemos guardar y utilizar para aliñar ensaladas, pastas, carnes o pescados.
 
-**Receta original de:** 
+**Receta de:** 

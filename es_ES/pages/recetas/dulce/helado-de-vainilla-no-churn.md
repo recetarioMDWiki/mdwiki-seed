@@ -29,4 +29,4 @@ No os recomiendo utilizar leche condensada desnatada o ligera porque el resultad
 
 Si en lugar de helado de vainilla queréis hacer el clásico helado de nata, simplemente tenéis que omitir el extracto de vainilla.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

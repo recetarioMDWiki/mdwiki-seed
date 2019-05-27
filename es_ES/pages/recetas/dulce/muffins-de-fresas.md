@@ -37,4 +37,4 @@ La mezcla de leche y zumo de limón es una sustitución de buttermilk. Si tenéi
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2013/07/muffins-light-de-fresa.html)
+**Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2013/07/muffins-light-de-fresa.html)

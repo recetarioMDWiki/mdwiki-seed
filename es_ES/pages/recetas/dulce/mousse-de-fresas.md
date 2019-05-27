@@ -25,4 +25,4 @@ La cantidad de hojas de gelatina depende de cada marca. En el envase se suele in
 
 Con estas cantidades pueden salir unas 8 raciones individuales. También podemos preparar la mitad ajustando la cantidad de los ingredientes.
 
-**Receta original de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2010/04/mousse-de-fresas.html)
+**Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2010/04/mousse-de-fresas.html)

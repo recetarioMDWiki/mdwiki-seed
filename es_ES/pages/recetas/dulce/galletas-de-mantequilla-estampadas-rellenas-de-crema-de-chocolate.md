@@ -31,4 +31,4 @@ Para que la masa se despegue bien del sello, es bueno pasarlo primero por harina
 
 **Molde utilizado:** [[Sellos para galletas "All seasons"|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Claudia & Julia - Bea de To Be Gourmet](https://www.claudiaandjulia.com/blogs/general/galletas-de-mantequilla-rellenas-de-chocolate)
+**Receta de:** [Claudia & Julia - Bea de To Be Gourmet](https://www.claudiaandjulia.com/blogs/general/galletas-de-mantequilla-rellenas-de-chocolate)

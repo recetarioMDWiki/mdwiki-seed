@@ -25,4 +25,4 @@ Las cantidades son muy grandes por lo que podemos hacer aproximadamente la mitad
 
 Son muy parecidos a las sultanas de coco, o los Coconut Macaroons (no confundir con los macarons)
 
-**Receta original de:** Libro de repostería de Maribel Basáñez, Concha Esteban y Mª Socorro Giménez.
+**Receta de:** Libro de repostería de Maribel Basáñez, Concha Esteban y Mª Socorro Giménez.

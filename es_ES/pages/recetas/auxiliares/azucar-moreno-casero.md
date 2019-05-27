@@ -20,4 +20,4 @@ Ponemos el azúcar en un bol mediano y añadimos la melaza. Mezclamos con un ten
 
 Conservaremos en un bote hermético y tendremos que consumirlo antes de un mes.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

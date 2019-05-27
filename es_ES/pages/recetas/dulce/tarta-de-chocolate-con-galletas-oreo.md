@@ -42,4 +42,4 @@ Para montar la tarta cortamos el bizcocho por la mitad. Pintamos cada parte por 
 
 **Molde utilizado:** [[tres moldes de 15 cm de layer cake|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/05/oficialmente-tiro-la-toalla-operacion.html)
+**Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/05/oficialmente-tiro-la-toalla-operacion.html)

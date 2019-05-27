@@ -27,4 +27,4 @@ Con estas cantidades obtendremos unos 300-400 g de mermelada. Al hacer tan poca 
 
 Si no tenemos vainas de vainilla, podemos añadir 1 tablespoon de extracto puro o pasta de vainilla. Si utilizamos la vaina, la podemos aprovechar después de vaciarla para hacer azúcar vainillado.
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

@@ -25,4 +25,4 @@ Llevamos al horno durante 40 minutos o hasta que al pincharlo con una varilla é
 
 [[Molde loaf o de pan|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2009/12/bizcocho-de-leche-condensada-paso-paso.html)
+**Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2009/12/bizcocho-de-leche-condensada-paso-paso.html)

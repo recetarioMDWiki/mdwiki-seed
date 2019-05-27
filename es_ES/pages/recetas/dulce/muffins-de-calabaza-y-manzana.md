@@ -39,4 +39,4 @@ La receta está pensada para utilizar compota de manzana sin endulzar. Si querem
 
 **Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
 
-**Receta original de:** DeNIKAtessen
+**Receta de:** DeNIKAtessen

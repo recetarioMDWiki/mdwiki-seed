@@ -30,4 +30,4 @@ Pasadas unas horas, está mejor que recién hecha y conservándola bien, nos agu
 
 **Molde utilizado:** [[redondo acanalado desmoldable, de 23 cm de diámetro|Otros/Moldes y utensilios]]
 
-**Receta original de:** [Contigo en la playa](http://www.contigoenlaplaya.com/2014/06/empanada-de-pollo-y-albahaca.html)
+**Receta de:** [Contigo en la playa](http://www.contigoenlaplaya.com/2014/06/empanada-de-pollo-y-albahaca.html)
