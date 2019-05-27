@@ -36,6 +36,6 @@ Podemos usar otros aromas como vainilla, naranja, azahar, etc.
 
 Si solo tienes aceite de oliva fuerte, utiliza mitad de aceite de oliva fuerte y mitad girasol.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** [El restaurante del fin del mundo](http://restaurantefinmundo.blogspot.com/2014/05/las-magdalenas-de-toda-la-vida-de.html)
