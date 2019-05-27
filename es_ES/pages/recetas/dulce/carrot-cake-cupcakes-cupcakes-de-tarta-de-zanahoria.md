@@ -14,7 +14,7 @@
 
 *Para la cobertura*
 
-- [[Cream Cheese Frosting|Recetas/Auxiliares]]
+- [Cream Cheese Frosting](../auxiliares/cream-cheese-frosting-cobertura-de-crema-de-queso.md)
 
 **Preparación**
 
@@ -26,12 +26,12 @@ Llevamos la bandeja al horno sobre una rejilla, en el centro, y dejamos 20-22 mi
 
 Los sacamos del horno, los dejamos reposar 5 minutos en en molde y luego los pasamos a una rejilla para que se enfríen completamente.
 
-Preparamos el [[Cream Cheese Frosting|Recetas/Auxiliares]].
+Preparamos el [Cream Cheese Frosting](../auxiliares/cream-cheese-frosting-cobertura-de-crema-de-queso.md).
 
 Una vez que los bizcochos están fríos, ponemos el frosting en una manga pastelera con una boquilla de estrella y, si tenemos, una zanahoria de fondant.
 
 **Molde utilizado**
 
-[[Bandeja para cupcakes o muffins y boquilla 1M o 2D de Wilton|Otros/Moldes y utensilios]]
+[Bandeja para cupcakes o muffins y boquilla 1M o 2D de Wilton](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/01/porque-si-mis-padres-les-gustaron.html) y DeNIKAtessen
