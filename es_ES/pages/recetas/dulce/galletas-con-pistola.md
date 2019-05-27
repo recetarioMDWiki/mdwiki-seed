@@ -24,6 +24,6 @@ Introducimos en el horno hasta que empiecen a tomar un color dorado, unos 12 min
 
 Podemos decorarlas al gusto. Si le queremos poner guindas, las pondremos antes de hornear. Si las queremos bañar en chocolate, las bañaremos después de hornear y una vez estén frías.
 
-**Utensilio utilizado:** [[pistola de galletas|Otros/Moldes y utensilios]]
+**Utensilio utilizado:** [pistola de galletas](../../moldes-y-utensilios.md)
 
 **Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2010/10/galletas-de-pistola.html)
