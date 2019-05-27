@@ -33,6 +33,6 @@ Podemos conservar el bizcocho tapado con papel de aluminio e introducirlo en una
 
 **Molde utilizado**
 
-[[Molde bundt de 12 cups o redondo con agujero de 26 cm de diámetro|Otros/Moldes y utensilios]]
+[Molde bundt de 12 cups o redondo con agujero de 26 cm de diámetro](../../moldes-y-utensilios.md)
 
 **Receta de:** Mamá
