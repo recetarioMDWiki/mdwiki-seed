@@ -29,6 +29,6 @@ Para preparar la crema de chocolate, troceamos el chocolate en un bol resistente
 
 Para que la masa se despegue bien del sello, es bueno pasarlo primero por harina, darle unos golpecitos para quitar el exceso y luego presionar la masa.
 
-**Molde utilizado:** [[Sellos para galletas "All seasons"|Otros/Moldes y utensilios]]
+**Molde utilizado:** [Sellos para galletas "All seasons"](../../moldes-y-utensilios.md)
 
 **Receta de:** [Claudia & Julia - Bea de To Be Gourmet](https://www.claudiaandjulia.com/blogs/general/galletas-de-mantequilla-rellenas-de-chocolate)
