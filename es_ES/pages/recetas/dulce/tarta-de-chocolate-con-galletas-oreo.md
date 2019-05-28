@@ -40,6 +40,6 @@ Antes de montar la tarta podemos preparar un almíbar de vainilla. Mezclamos en 
 
 Para montar la tarta cortamos el bizcocho por la mitad. Pintamos cada parte por el corte con el almíbar. Ponemos parte de la crema de queso en la mitad que hará de base y ponemos la otra mitad del bizcocho encima. Con el resto de la crema cubrimos el bizcocho por completo. Para decorar podemos utilizar mini galletas Oreo.
 
-**Molde utilizado:** [[tres moldes de 15 cm de layer cake|Otros/Moldes y utensilios]]
+**Molde utilizado:** [tres moldes de 15 cm de layer cake](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/05/oficialmente-tiro-la-toalla-operacion.html)

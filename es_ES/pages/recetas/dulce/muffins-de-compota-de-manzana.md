@@ -35,6 +35,6 @@ Se pueden congelar, envolviéndolos bien cada uno en papel film. Para descongela
 
 Con esta receta se pueden hacer 12 muffins normales, pero si nos gustan grandes, podemos llenar los moldes bien y hacer unas 8 muffins. Tendremos que dejarlas un poco más de tiempo en el horno, 20-25 minutos.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

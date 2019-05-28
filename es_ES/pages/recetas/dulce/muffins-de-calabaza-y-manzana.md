@@ -37,6 +37,6 @@ Si no tenemos allspice (pimienta de Jamaica) la podemos sustituir por clavo moli
 
 La receta está pensada para utilizar compota de manzana sin endulzar. Si queremos utilizar una compota endulzada debemos disminuir la cantidad de azúcar.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

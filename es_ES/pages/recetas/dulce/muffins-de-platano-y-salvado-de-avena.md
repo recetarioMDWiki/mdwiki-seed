@@ -43,6 +43,6 @@ El streusel es un topping totalmente opcional pensado para darles un toque cruji
 
 Como la mayoría de los muffins, una vez fríos los podemos congelar. Para descongelarlos, los dejamos unas 2 horas a temperatura ambiente o utilizamos el microondas.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** [Alma Obregón](https://www.instagram.com/p/Bgoj5jZlJxM/?hl=es&taken-by=alma_cupcakes)

@@ -39,6 +39,6 @@ Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de man
 
 Las cantidades de la receta están ajustadas para usar un molde pequeño de bundt de 3 cups. Si tenemos un molde tradicional, de unos 12 cups, solo tenemos que multiplicar por cuatro los ingredientes y tenerlo más tiempo en el horno, unos 50-60 minutos.
 
-**Molde utilizado:** [[molde bundt de 3 cups|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde bundt de 3 cups](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

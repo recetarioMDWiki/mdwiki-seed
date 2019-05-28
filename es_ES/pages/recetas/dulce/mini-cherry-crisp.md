@@ -47,6 +47,6 @@ Se puede hacer una versión mayor en un molde cuadrado de 20 cm, doblando las ca
 
 Es importante poner los moldes sobre la bandeja y no sobre la rejilla, de manera que si los jugos de la fruta se salen, no manchen el horno.
 
-**Molde utilizado:** [[ramequines de cerámica|Otros/Moldes y utensilios]]
+**Molde utilizado:** [ramequines de cerámica](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

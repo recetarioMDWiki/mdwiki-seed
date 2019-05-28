@@ -25,6 +25,6 @@ Podemos decorarlas con un poco de canela en polvo en el momento de servir.
 
 Con estas cantidades podemos hacer 4 natillas como las de la foto.
 
-**Molde utilizado:** [[moldes sufflé o ramequines|Otros/Moldes y utensilios]]
+**Molde utilizado:** [moldes sufflé o ramequines](../../moldes-y-utensilios.md)
 
 **Receta de:** Libro de repostería de Maribel Basáñez, Concha Esteban y Mª Socorro Giménez.

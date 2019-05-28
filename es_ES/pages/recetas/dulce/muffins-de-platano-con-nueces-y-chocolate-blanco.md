@@ -31,6 +31,6 @@ En la receta de Alma se añaden 80 g de fresas en vez de nueces. Si queremos añ
 
 Una vez frías, las podemos congelar envueltas en papel film. Cuando nos las queramos comer, basta con calentarlas en el microondas y estarán como recién hechas.
 
-**Molde utilizado:** [[bandeja para cupcakes o muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para cupcakes o muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

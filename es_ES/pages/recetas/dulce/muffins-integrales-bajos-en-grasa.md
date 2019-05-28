@@ -46,6 +46,6 @@ Como es una receta baja en grasa, tenemos que cuidar el tiempo de horneado, o no
 
 Una vez fríos los podemos congelar envueltos en papel film. Para descongelarlos los dejamos a temperatura ambiente unas 2 horas, o los descongelamos en el microondas.
 
-**Molde utilizado:** [[bandeja para cupcakes o muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para cupcakes o muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

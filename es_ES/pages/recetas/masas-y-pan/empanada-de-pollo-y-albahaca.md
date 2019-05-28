@@ -28,6 +28,6 @@ La masa de la base podemos hornearla sola antes de ponerle el relleno para asegu
 
 Pasadas unas horas, está mejor que recién hecha y conservándola bien, nos aguanta un par de días.
 
-**Molde utilizado:** [[redondo acanalado desmoldable, de 23 cm de diámetro|Otros/Moldes y utensilios]]
+**Molde utilizado:** [redondo acanalado desmoldable, de 23 cm de diámetro(../../moldes-y-utensilios.md)
 
 **Receta de:** [Contigo en la playa](http://www.contigoenlaplaya.com/2014/06/empanada-de-pollo-y-albahaca.html)

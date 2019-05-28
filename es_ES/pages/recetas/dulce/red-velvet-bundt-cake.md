@@ -42,6 +42,6 @@ Una vez que el bizcocho esté frío lo decoramos con la crema a nuestro gusto. A
 
 El cacao en polvo natural que he utilizado es de la marca Hershey's. No es igual que el de la marca Valor, ya que éste es alcalizado o alcalinizado (también llamado dutch process).
 
-**Molde utilizado:** [[molde bundt Kugelhopf|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde bundt Kugelhopf](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2015/06/bundt-cake-de-red-velvet-en-memoria-de.html)

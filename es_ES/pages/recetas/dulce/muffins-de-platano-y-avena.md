@@ -29,6 +29,6 @@ Salen unas 6 muffins, grandes.
 
 Podemos congelarlos individualmente, bien envueltos en papel film.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2013/06/muffins-de-platano-y-fresa.html)

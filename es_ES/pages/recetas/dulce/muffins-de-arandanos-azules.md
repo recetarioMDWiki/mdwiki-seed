@@ -43,6 +43,6 @@ Si utilizáis arándanos congelados no es necesario descongelarlos. Se añaden d
 
 En lugar de arándanos azules podéis utilizar frambuesas, moras o una combinación de los tres.
 
-**Molde utilizado:** [[bandeja para cupcakes o muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para cupcakes o muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

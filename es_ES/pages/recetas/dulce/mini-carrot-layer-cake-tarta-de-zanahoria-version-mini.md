@@ -16,7 +16,7 @@
 - 1/2 teaspoon de extracto natural de vainilla
 - 5 tablespoons (75 ml) de aceite de girasol
 - 30 g de pasas sultanas (opcional)
-- Cream Cheese Frosting
+- [Cream Cheese Frosting](../auxiliares/cream-cheese-frosting-cobertura-de-crema-de-queso.md)
 
 *Decoración*
 
@@ -36,7 +36,7 @@ Rellenamos el molde, repartiendo la mezcla de forma uniforme, y horneamos a 175�
 
 Sacamos el molde del horno y lo dejamos reposar 10 minutos sobre una rejilla antes de desmoldar. Desmoldamos, retiramos el papel de hornear y dejamos enfriar el bizcocho completamente sobre la rejilla antes de decorarlo.
 
-Preparamos el [[cream cheese frosting]].
+Preparamos el [Cream Cheese Frosting](../auxiliares/cream-cheese-frosting-cobertura-de-crema-de-queso.md).
 
 Por último, montamos la tarta. Con un cuchillo de sierra cortamos el rectángulo del bizcocho por la mitad para conseguir los dos pisos cuadrados del layer cake.
 
@@ -50,6 +50,6 @@ Podemos refrigerar el bizcocho unas horas (bien envuelto en film transparente) p
 
 Para servir las porciones de tarta y que los cortes queden limpios utilizaremos un cuchillo bien afilado y cortaremos hasta abajo la porción, extrayendo el cuchillo de abajo hacia afuera y no hacia arriba, limpiando el cuchillo después de cada corte.
 
-**Molde utilizado:** [[molde loaf o de pan|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

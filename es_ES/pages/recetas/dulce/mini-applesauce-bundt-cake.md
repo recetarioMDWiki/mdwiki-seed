@@ -17,7 +17,7 @@
 
 *Para decorar (opcional)*
 
-- Cream Cheese Icing
+- [Cream Cheese Icing](../auxiliares/cream-cheese-icing-glaseado-de-crema-de-queso.md)
 
 **Preparación**
 
@@ -33,7 +33,7 @@ Rellenamos el molde, alisamos la superficie y golpeamos varias veces el molde co
 
 Horneamos a 175º C durante 25-30 minutos o hasta que al insertar un palillo en el centro del bizcocho, éste salga limpio. Sacamos el molde del horno y lo dejamos reposar 10 minutos sobre una rejilla antes de desmoldar. Desmoldamos y dejamos enfriar sobre la rejilla.
 
-Una vez frío, preparamos el Cream Cheese Icing y cubrimos ligeramente nuestro bizcocho.
+Una vez frío, preparamos el [Cream Cheese Icing](../auxiliares/cream-cheese-icing-glaseado-de-crema-de-queso.md) y cubrimos ligeramente nuestro bizcocho.
 
 **Notas**
 
@@ -49,6 +49,6 @@ Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de man
 
 Las cantidades de la receta están ajustadas para usar un molde pequeño bundt de 3 cups. Si tenemos un molde tradicional, de unos 12 cups, solo tenemos que multiplicar por cuatro los ingredientes y tenerlo más tiempo en el horno, unos 50-60 minutos.
 
-**Molde utilizado:** [[molde bundt de 3 cups|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde bundt de 3 cups](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

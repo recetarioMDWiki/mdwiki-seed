@@ -33,6 +33,6 @@ En la receta original utiliza yogur griego 0% M.G., pero no los he encontrado.
 
 Si te parece demasiada Nutella, se puede reducir la cantidad al gusto.
 
-**Molde utilizado:** [[molde loaf o de pan|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Broma Bakery](https://bromabakery.com/nutella-banana-bread/)

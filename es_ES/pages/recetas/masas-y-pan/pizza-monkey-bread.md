@@ -48,6 +48,6 @@ Podemos hacer la mitad de las cantidades para dos personas. En ese caso podemos 
 
 Si tenemos una panificadora, podemos evitarnos el amasado e incluso podemos dejar que leve en la propia panificadora si tiene esa función.
 
-**Molde utilizado:** [[bundt de 12 cups|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bundt de 12 cups](../../moldes-y-utensilios.md)
 
 **Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2012/02/pizza-monkey-bread.html)

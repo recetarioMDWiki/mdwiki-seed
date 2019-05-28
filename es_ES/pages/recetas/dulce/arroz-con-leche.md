@@ -2,7 +2,7 @@
 
 **Ingredientes**
 
-- 1'5 l de leche entera
+- 1.5 l de leche entera
 - 150 g de arroz de grano redondo
 - 100-150 g de azúcar
 - 1/2 teaspoon de sal

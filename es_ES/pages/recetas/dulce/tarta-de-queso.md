@@ -34,6 +34,6 @@ Puede que nos sobre un poco de la mezcla para la base, depende de lo gordita que
 
 Se puede congelar, bien envuelta en papel film. Para descongelarla, la dejamos en el frigorífico.
 
-**Molde utilizado:** [[molde cuadrado de 20 cm (8 inches)|Otros/Moldes y utensilios]]
+**Molde utilizado:** [molde cuadrado de 20 cm (8 inches)](../../moldes-y-utensilios.md)
 
 **Receta de:** Zito

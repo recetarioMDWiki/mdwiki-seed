@@ -28,6 +28,6 @@ En la receta original se utiliza un molde de 20 cm (8 inch) de diámetro, una sk
 
 Podemos utilizar chocolate blanco o con leche en vez de chocolate negro.
 
-**Molde utilizado:** redondo de 23 cm de diámetro (9 inch).
+**Molde utilizado:** [redondo de 23 cm de diámetro (9 inch)](../../moldes-y-utensilios.md).
 
 **Receta de:** [Objetivo: Cupcake Perfecto](http://www.objetivocupcake.com/2012/08/momentos-de-felicidad-extrema-mega.html) y [Joy the Baker](https://joythebaker.com/2012/08/banana-walnut-chocolate-cookie-cake/)

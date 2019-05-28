@@ -38,6 +38,6 @@ Podemos añadirle algún fruto seco como nueces o avellanas.
 
 Como la mayoría de los muffins, una vez fríos los podemos congelar, bien envueltos en papel film. Para descongelarlos, los dejaremos unas 2 horas a temperatura ambiente o utilizaremos el microondas.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

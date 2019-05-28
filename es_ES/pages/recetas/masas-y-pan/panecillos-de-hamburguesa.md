@@ -35,6 +35,6 @@ Podéis ver la técnica de amasado de Richar Bertinet [aquí](https://www.youtub
 
 **Recetas que utilizan panecillos de hamburguesa**
 
-- [[Hamburguesas caseras|Recetas/Salado/Hamburguesas caseras]].
+- [Hamburguesas caseras](../salado/hamburguesas-caseras.md)
 
 **Receta de:** DeNIKAtessen

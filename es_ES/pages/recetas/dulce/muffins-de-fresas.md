@@ -35,6 +35,6 @@ Una vez tenemos una mezcla homogénea la repartimos entre los papeles de muffins
 
 La mezcla de leche y zumo de limón es una sustitución de buttermilk. Si tenéis buttermilk a mano, podéis utilizarlo sin problemas. En este caso, al ser leche desnatada, sería buttermilk bajo en grasa.
 
-**Molde utilizado:** [[bandeja para muffins|Otros/Moldes y utensilios]]
+**Molde utilizado:** [bandeja para muffins](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2013/07/muffins-light-de-fresa.html)

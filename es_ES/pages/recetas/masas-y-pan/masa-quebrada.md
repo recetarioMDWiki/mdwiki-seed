@@ -32,6 +32,6 @@ Si la queremos utilizar para recetas saladas, como quiches, eliminamos el azúca
 
 **Recetas que utilizan masa quebrada**
 
-- [[Quiche de trucha y puerros|Recetas/Masas y pan/Quiche de trucha y puerros]]
+- [Quiche de trucha y puerros](quiche-de-trucha-y-puerros.md)
 
 **Receta de:** [María Lunarillos](https://www.marialunarillos.com/blog/2013/11/como-se-hace-la-masa-quebrada.html)

@@ -35,6 +35,6 @@ Mientras podemos preparar la cobertura. Para ello ponemos a hidratar la gelatina
 
 Trituramos la mermelada de melocotón o albaricoque junto con el agua con una batidora de brazo. Lo pasamos a un cazo y lo ponemos a calentar. Escurrimos la gelatina y la añadimos. Removemos para que se disuelva bien y pasamos la mezcla por un colador. Dejamos templar y vertemos sobre la superficie de la tarta una vez cuajada. Introducimos de nuevo en la nevera hasta que se solidifique la cobertura, mejor de un día para otro.
 
-**Molde utilizado:** [[redondo de 26 cm de diámetro|Otros/Moldes y utensilios]]
+**Molde utilizado:** [redondo de 26 cm de diámetro](../../moldes-y-utensilios.md)
 
 **Receta de:** Kanela y Limón
