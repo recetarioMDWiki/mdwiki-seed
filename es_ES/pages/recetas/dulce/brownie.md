@@ -44,8 +44,6 @@ El café soluble es opcional pero potencia el sabor del chocolate.
 
 Podemos congelar el brownie ya cortado unos 2 meses bien envueltos, primero con film transparente y luego con papel de aluminio. Los dejaremos descongelar a temperatura ambiente, aún envueltos.
 
-**Molde utilizado**
-
-[Molde cuadrado de 20x20 cm](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde cuadrado de 20x20 cm](../../moldes-y-utensilios.md)
 
 **Receta de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2013/06/13/dark-chocolate-brownies/)

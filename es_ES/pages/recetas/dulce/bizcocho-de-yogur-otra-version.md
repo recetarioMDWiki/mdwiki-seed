@@ -25,8 +25,6 @@ En un bol grande ponemos todos los ingredientes juntos, batimos con la batidora 
 
 La medida del yogur es de 125 g.
 
-**Molde utlizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utlizado: ** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [El restaurante del fin del mundo](http://restaurantefinmundo.blogspot.com/2015/05/guardianes-de-un-sabor-el-clasico.html)

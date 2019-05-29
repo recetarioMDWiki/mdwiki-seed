@@ -21,8 +21,6 @@ En un bol batimos, con una batidora de varillas, la mantequilla con el azúcar h
 
 Llevamos al horno durante 40 minutos o hasta que al pincharlo con una varilla ésta salga limpia. Retiramos, dejamos enfriar 10 minutos en el molde y desmoldamos sobre una rejilla para que se enfríe por completo.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2009/12/bizcocho-de-leche-condensada-paso-paso.html)

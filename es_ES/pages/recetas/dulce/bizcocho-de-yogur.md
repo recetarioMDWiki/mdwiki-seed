@@ -34,8 +34,6 @@ Podemos utilizar un yogur natural y añadir 1 teaspoon de extracto de vainilla, 
 
 Podemos espolvorear el molde con pan rallado en vez de con harina si nos gusta que quede el bizcocho un poco más crujiente por la parte de fuera.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** Mamá

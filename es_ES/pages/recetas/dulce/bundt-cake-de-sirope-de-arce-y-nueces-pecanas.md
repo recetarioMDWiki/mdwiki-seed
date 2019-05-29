@@ -30,8 +30,6 @@ Si las nueces que tenemos están crudas, podemos tostarlas poniéndolas esparcid
 
 Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde. 
 
-**Molde utilizado**
-
-[Molde Bundt de 12 cups](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde Bundt de 12 cups](../../moldes-y-utensilios.md)
 
 **Receta de:** [Martha Stewart](https://www.marthastewart.com/318085/maple-bundt-cake#Bundt%20Cake%20Recipes|/274977/bundt-cake-recipes/@center/276954/great-cake-recipes|318085)

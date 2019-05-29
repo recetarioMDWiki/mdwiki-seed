@@ -30,8 +30,6 @@ Preparamos el [Cream Cheese Frosting](../auxiliares/cream-cheese-frosting-cobert
 
 Una vez que los bizcochos están fríos, ponemos el frosting en una manga pastelera con una boquilla de estrella y, si tenemos, una zanahoria de fondant.
 
-**Molde utilizado**
-
-[Bandeja para cupcakes o muffins y boquilla 1M o 2D de Wilton](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Bandeja para cupcakes o muffins y boquilla 1M o 2D de Wilton](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2012/01/porque-si-mis-padres-les-gustaron.html) y DeNIKAtessen

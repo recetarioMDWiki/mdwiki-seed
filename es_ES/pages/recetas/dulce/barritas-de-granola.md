@@ -34,8 +34,6 @@ Podemos añadir chocolate a las barritas bañando la base con chocolate temperad
 
 Es importante que respetemos los tiempos indicados al calentar la mantequilla, la miel el azúcar y la sal. Hay que llevar el azúcar a la etapa de bola blanda (113º C - 116º C) porque si no las barritas, una vez frías, no quedarán sólidas y se desmoronarán.
 
-**Molde utilizado**
-
-[Molde cuadrado de 20 cm](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde cuadrado de 20 cm](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen

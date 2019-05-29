@@ -51,8 +51,6 @@ Podemos añadir un puñadito de chips de chocolate al mismo tiempo que las nuece
 
 Se conserva bien tapado a temperatura ambiente, pero podemos cortarlo en rebanadas y congelarlo bien envuelto en film por separado. Cuando lo queramos consumir podemos dejarlo descongelar a temperatura ambiente o darle un toque en el microondas.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Pemberley Cup & Cakes](http://pemberleycupandcakes.com/2013/09/18/banana-bread/)

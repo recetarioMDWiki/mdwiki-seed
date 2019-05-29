@@ -39,8 +39,6 @@ Vertemos sobre los bizcochos y dejamos reposar unos 10 minutos, hasta que solidi
 
 Si no encontramos buttermilk podemos prepararlo con 240 ml de leche (entera o semidesnatada) a la que le añadimos el zumo de medio limón. Dejamos reposar unos 10 minutos. Lo utilizamos cuando indique la receta.
 
-**Molde utilizado**
-
-[Molde Bundtlettes](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde Bundtlettes](../../moldes-y-utensilios.md)
 
 **Receta de:** [I Love Bundt Cakes](http://www.ilovebundtcakes.com/buttermilk-lemon-bundtlettes/)

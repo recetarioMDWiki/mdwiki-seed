@@ -31,8 +31,6 @@ Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de man
 
 Podemos conservar el bizcocho tapado con papel de aluminio e introducirlo en una bolsa, para que se mantenga tierno.
 
-**Molde utilizado**
-
-[Molde bundt de 12 cups o redondo con agujero de 26 cm de diámetro](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde bundt de 12 cups o redondo con agujero de 26 cm de diámetro](../../moldes-y-utensilios.md)
 
 **Receta de:** Mamá

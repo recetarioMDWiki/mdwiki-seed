@@ -27,8 +27,6 @@ Pasamos la masa al molde que teníamos preparado y llevamos al horno entre 55 y 
 
 Puede aguantar hasta 4 días a temperatura ambiente, envuelto en papel de aluminio. O podemos cortar en porciones y congelar bien envuelto.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Smitten Kitchen](https://smittenkitchen.com/2014/03/double-chocolate-banana-bread/)

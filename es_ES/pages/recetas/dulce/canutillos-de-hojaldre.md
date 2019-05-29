@@ -17,8 +17,6 @@ Horneamos los canutillos hasta que se doren, unos 10 min. Dejamos que se enfríe
 
 Los podemos rellenar de crema pastelera o lo que más os guste y espolvoreamos de azúcar glas si queremos.
 
-**Molde utilizado**
-
-[Canutillos y cornetes de acero inoxidable](../../moldes-y-utensilios.md)
+**Utensilio utilizado:** [Canutillos y cornetes de acero inoxidable](../../moldes-y-utensilios.md)
 
 **Receta de:** [Si no te gusta... échale azúcar](http://echaleazucar.blogspot.com/2010/04/canutillos-de-hojaldre-y-crema.html)

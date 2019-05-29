@@ -26,8 +26,6 @@ A la masa restante le añadimos el cacao y mezclamos con cuidado hasta que esté
 
 Horneamos a 180º C unos 30-40 minutos o hasta que al pincharlo con una varilla ésta salga limpia. Sacamos y dejamos enfriar sobre una rejilla.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [María Lunarillos](https://www.marialunarillos.com/blog/2014/10/receta-de-bizcocho-marmol-o-marmolado.html)

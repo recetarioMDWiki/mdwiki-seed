@@ -26,8 +26,6 @@ Dejamos enfriar por completo antes de cortar y comer. Disfrutar.
 
 En la receta original utiliza nueces pecanas, y termina decorando con dulce de leche.
 
-**Molde utilizado**
-
-[Molde cuadrado de 20x20 cm](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde cuadrado de 20x20 cm](../../moldes-y-utensilios.md)
 
 **Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2016/07/brownie-de-platano-y-chocolate-con-leche.html)

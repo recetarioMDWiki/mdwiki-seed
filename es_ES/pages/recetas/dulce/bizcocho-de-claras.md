@@ -26,8 +26,6 @@ Si os gusta, podéis espolvorear un poco de azúcar por la superficie antes de m
 
 Las cantidades de la receta original están calculadas para 7 claras. Se pueden dividir entre 7 y calcular según las claras que tengamos. En mi caso he hecho los cálculos para 8 claras.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** Secocina

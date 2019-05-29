@@ -38,6 +38,6 @@ Si el sabor del plátano os parece muy marcado (a mí me parece que está bien a
 
 Si el sabor del jengibre no os gusta o no tenéis a mano, podéis sustituirlo por clavo molido.
 
-**Molde utilizado:** [loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [El rincón de Bea](http://www.elrincondebea.com/2015/09/pumpkin-banana-bread.html)

@@ -39,8 +39,6 @@ Esta receta es muy similar a los Muffins de plátano, con nueces y chocolate bla
 
 Otra versión de esta receta con una pequeña variación de ingredientes pero también muy buena la tenéis [aquí](banana-bread-pan-de-platano-otra-version.md).
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [Joy of Baking](https://www.joyofbaking.com/breakfast/BananaBread.html)

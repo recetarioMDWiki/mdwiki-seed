@@ -52,8 +52,6 @@ Se pueden conservar a temperatura ambiente, dentro de una bolsa de congelación,
 
 Se pueden hacer más variaciones sustituyendo el agua por zumo de frutas naturales, añadiendo otras especias o extractos o añadiendo diferentes frutas secas o frutos secos. En la fuente podéis consultar más consejos para adaptarlos más a vuestros gustos, aunque para mí tal cual ya están perfectos.
 
-**Molde utilizado**
-
-[Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado:** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** DeNIKAtessen
