@@ -23,6 +23,7 @@
 - Medio vaso de agua
 - Colorante (opcional)
 - Sal
+![Albóndigas](../../uploads/images/albondigas.jpg "Albóndigas")
 
 **Preparación**
 
@@ -43,5 +44,3 @@ Si nos salen muchas albóndigas, podemos congelarlas después de pasarlas por el
 Las albóndigas de choco (o sepia) se hacen igual, cambiando la carne por el choco picado. Pero utilizaremos harina en vez de pan rallado para el rebozado antes de freír.
 
 **Receta de:** Mamá
-
-![Albóndigas](../../uploads/images/albondigas.jpg "Albóndigas")
