@@ -27,7 +27,6 @@
 **Preparación**
 
 Ponemos en un bol la carne picada y la sal. Picamos los ajos y el perejil en la picadora. Lo añadimos a la carne junto con el huevo, las dos rebanadas de pan bien empapadas en leche y amasamos. Si no liga muy bien, podemos añadir un poco de pan rallado. Si no podemos formar bien las albóndigas, podemos dejar enfriar la masa un poco en el frigorífico.
-![Albóndigas](../../uploads/images/albondigas.jpg "Albóndigas")
 
 Formamos las albóndigas, las pasamos por pan rallado y las freímos en una sartén con aceite de oliva. Las dejamos escurrir sobre papel absorbente para retirar el exceso de aceite.
 
