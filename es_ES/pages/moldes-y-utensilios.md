@@ -3,9 +3,7 @@
 | Foto | Nombre | Detalles |
 | :--- | :--- | :--- |
 | `pendiente` | Ablandador de masas | Marca: Kitchen Craft |
-| 
-![Bandeja para cupcakes](uploads/images/bandeja-muffins.JPG "Bandeja para cupcakes")
-| Bandeja para cupcakes o muffins | Marca: Wilton - Capacidad: 12 huecos de 5cm de base |
+| ![Bandeja para cupcakes](uploads/images/bandeja-muffins.JPG "Bandeja para cupcakes")| Bandeja para cupcakes o muffins | Marca: Wilton - Capacidad: 12 huecos de 5cm de base |
 | `pendiente` | Boquillas para manga pastelera | Marca: Wilton - Modelos: 1M, 2D y 6B  |
 | ![Cuchara helados](uploads/images/cuchara-helado.JPG "Cuchara helados") | Cuchara de helados | Marca: Kitchen Craft - Diámetro: 49 mm  |
 | `pendiente` | Gofrera | Marca: Nordic Ware - Medidas: 18.4 x 18.4 cm |
