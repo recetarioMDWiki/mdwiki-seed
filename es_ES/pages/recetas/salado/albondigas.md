@@ -1,4 +1,6 @@
-## Albóndigas	
+## Albóndigas
+
+![Albóndigas](../../uploads/images/albondigas.jpg "Albóndigas")
 
 **Ingredientes**
 
