@@ -14,7 +14,7 @@
 * [Joy the Baker](https://joythebaker.com/)
 * [Kanela y Limón](http://kanelaylimon.blogspot.com/)
 * [María Lunarillos](https://www.marialunarillos.com/blog/)
-* [My Eruopean Cakes](http://www.myeuropeancakes.com/)
+* [My European Cakes](http://www.myeuropeancakes.com/)
 * [Nina's Kitchen](http://ninas-kitchen.blogspot.com/)
 * [No quieres caldo? Pues toma 2 tazas](http://www.puestoma2tazas.com/)
 * [Objetivo: Cupcake Perfecto](http://www.objetivocupcake.com/)
