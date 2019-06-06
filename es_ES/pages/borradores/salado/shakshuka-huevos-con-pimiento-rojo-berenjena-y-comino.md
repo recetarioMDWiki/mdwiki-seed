@@ -1,0 +1,2 @@
+"Shakshuka - Huevos con pimiento rojo, berenjena y comino"	"http://blogs.elpais.com/el-comidista/2015/06/shakshuka-huevos-con-pimiento-berenjena-y-comino.html http://smittenkitchen.com/blog/2010/04/shakshuka
+http://www.asopaipas.com/2016/04/shakshuka.html
