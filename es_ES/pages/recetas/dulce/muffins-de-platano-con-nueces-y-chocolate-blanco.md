@@ -33,4 +33,4 @@ Una vez frías, las podemos congelar envueltas en papel film. Cuando nos las que
 
 **Molde utilizado:** [bandeja para cupcakes o muffins](../../moldes-y-utensilios.md)
 
-**Receta de:** DeNIKAtessen
+**Receta de:** [Objetivo: Cupcake perfecto](http://www.objetivocupcake.com/2013/06/muffins-de-platano-y-fresa.html)

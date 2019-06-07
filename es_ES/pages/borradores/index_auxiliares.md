@@ -19,7 +19,6 @@
 - mantequilla-de-cacahuete.md
 - maple-cream-cheese-frosting.md
 - mascarpone-casero.md
-- merengue.md
 - naranja-confitada.md
 - passata-pure-concentrado-de-tomate.md
 - pesto-rojo.md

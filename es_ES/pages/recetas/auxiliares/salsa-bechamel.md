@@ -1,6 +1,5 @@
 ## Salsa bechamel
 
-
 **Ingredientes**
 
 - 50 g de mantequilla
@@ -20,4 +19,9 @@ Si la queremos más densa podemos aumentar la cantidad de harina y reducir la ca
 
 Podemos enriquecer la salsa con dos yemas de huevo por cada medio litro de leche y queso rallado.
 
-**Receta de:** 
+**Recetas que utilizan salsa bechamel**
+
+- [Canelones](../salado/canelones.md)
+- [Lasaña](../salado/lasana.md)
+
+**Receta de:** [Directo al paladar](https://www.directoalpaladar.com/curso-de-cocina/salsa-bechamel-receta-definitiva-siempre-te-quede-perfecta)

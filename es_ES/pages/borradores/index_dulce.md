@@ -27,6 +27,7 @@
 - bizcocho-cuatro-cuartos.md
 - bizcocho-de-albaricoques.md
 - bizcocho-de-almendras.md
+- bizcocho-de-anis-naranja-confitada-y-canela.md
 - bizcocho-de-arandanos-sin-azucar.md
 - bizcocho-de-calabaza-y-nutella.md
 - bizcocho-de-chocolate-y-calabacin.md
@@ -233,6 +234,7 @@
 - carrot-cake-cupcakes-with-pineapple-cream-cheese-frosting.md
 - carrot-cake-muffins-muffins-de-tarta-de-zanahoria.md
 - carrot-cake-scones-with-coconut-cream-cheese-frosting.md
+- carrot-cake-with-maple-cream-cheese-frosting.md
 - carrot-cheesecake.md
 - carrot-graham-layer-cake.md
 - carrot-layer-cake-tarta-de-zanahoria.md

@@ -25,4 +25,8 @@ Podemos variar las cantidades de los ingredientes para hacerla a nuestro gusto.
 
 La conservamos en un bote de cristal en el frigorífico.
 
-**Receta de:** 
+**Recetas que utilizan salsa agridulce**
+
+- [Arroz chino tres delicias](../salado/arroz-chino-tres-delicias.md)
+
+**Receta de:** Danza de fogones

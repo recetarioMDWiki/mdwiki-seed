@@ -29,4 +29,8 @@ Añadimos agua para rebajar el espesor sin añadir limón o vinagre, que haría 
 
 Se toma del tiempo, aunque la conservaremos en la nevera.
 
-**Receta de:** 
+**Recetas que utilizan salsa César**
+
+- [Ensalada César](../salado/ensalada-cesar.md)
+
+**Receta de:** [Mercado Calabajío](http://www.mercadocalabajio.com/2011/11/receta-de-salsa-cesar-del-chef-jose.html)

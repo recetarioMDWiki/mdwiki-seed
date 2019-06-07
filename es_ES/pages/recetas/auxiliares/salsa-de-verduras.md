@@ -27,4 +27,8 @@ Podemos servirla en una fuente o jarra para que cada uno se aparte en su plato.
 
 Podemos utilizarla para acompañar carnes.
 
-**Receta de:** 
+**Recetas que utilizan salsa de verduras**
+
+- [Solomillo de cerdo al horno](../salado/solomillo-de-cerdo-al-horno.md)
+
+**Receta de:** Mamá

@@ -24,4 +24,12 @@ Si no queremos encontrar trozos de verdura, podemos triturar la salsa con la bat
 
 Si queremos, o tenemos poco tomate, podemos añadir 200 ml de nata. Removemos y cocinamos un poco más.
 
-**Receta de:** 
+**Recetas que utilizan salsa de tomate**
+
+- [Pasta a la corsaria](../salado/pasta-a-la-corsaria.md)
+- [Pasta con salsa de pimientos del piquillo y ajo](../salado/pasta-con-salsa-de-pimientos-del-piquillo-y-ajo.md)
+- [Pasta con salsa de tomate](../salado/pasta-con-salsa-de-tomate.md)
+- [Pizza Monkey Bread](../salado/pizza-monkey-bread.md)
+- [Provolone con bacon y mermelada de tomate](../salado/provolone-con-bacon-y-mermelada-de-tomate.md)
+
+**Receta de:** Mamá

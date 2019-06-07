@@ -20,4 +20,8 @@ Sacamos todo el aceite, aplastamos bien los ajos con un tenedor y añadimos al m
 
 El aceite de confitar los ajos lo podemos guardar y utilizar para aliñar ensaladas, pastas, carnes o pescados.
 
-**Receta de:** 
+**Recetas que utilizan salsa de mostaza y miel**
+
+- [Alitas de pollo crujientes al horno](../salado/alitas-de-pollo-crujientes-al-horno.md)
+
+**Receta de:** [El Comidista](https://elcomidista.elpais.com/elcomidista/2015/07/02/receta/1435830619_078271.html)

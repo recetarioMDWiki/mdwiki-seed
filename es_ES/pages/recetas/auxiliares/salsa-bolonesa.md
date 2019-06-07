@@ -33,4 +33,8 @@ Si tenemos también podemos añadir al sofrito una rama de apio picado.
 
 Podemos utilizar vino tinto en vez de vino blanco.
 
-**Receta de:** 
+**Recetas que utilizan salsa boloñesa**
+
+- [Canelones](../salado/canelones.md)
+- [Lasaña](../salado/lasana.md)
+- [Pasta con salsa de tomate](../salado/pasta-con-salsa-de-tomate.md)

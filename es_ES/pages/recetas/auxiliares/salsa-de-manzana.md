@@ -30,4 +30,8 @@ Podemos utilizarla para acompañar carnes.
 
 Si queremos, podemos añadir unos 40 g de almendras, como en la receta original de la fuente.
 
-**Receta de:** 
+**Recetas que utilizan salsa de manzana**
+
+- [Solomillo de cerdo a la sal](../salado/solomillo-de-cerdo-a-la-sal.md)
+
+**Receta de:** [El petit chef](http://www.elpetitchef.com/recetas/10.html)
