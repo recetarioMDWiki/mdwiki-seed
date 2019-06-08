@@ -1,14 +1,10 @@
-## Recetas por autor
+# Recetas por autor
 
 ## Broma Bakery
-
-*Recetas en esta wiki:*
 
 - [Nutella Banana Bread - Pan de plátano y Nutella](recetas/dulce/nutella-banana-bread-pan-de-platano-y-nutella.md)
 
 ## Claudia & Julia
-
-*Recetas en esta wiki:*
 
 - [Galletas de mantequilla estampadas rellenas de crema de chocolate](recetas/dulce/galletas-de-mantequilla-estampadas-rellenas-de-crema-de-chocolate.md)
 - [Crema de calabaza](recetas/salado/crema-de-calabaza.md)
@@ -17,8 +13,6 @@
 ## Con aroma de vainilla
 
 ## DeNIKAtessen
-
-*Recetas en esta wiki:*
 
 - [Azúcar moreno casero](recetas/auxiliares/azucar-moreno-casero.md)
 - [Barritas de granola](recetas/dulce/barritas-de-granola.md)
@@ -56,8 +50,6 @@
 
 ## El Comidista
 
-*Recetas en esta wiki:*
-
 - [Alitas de pollo crujientes al horno](recetas/salado/alitas-de-pollo-crujientes-al-horno.md)
 - [Ensalada de tomates, garbanzos y anchoas](recetas/salado/ensalada-de-tomates-garbanzos-y-anchoas.md)
 - [Ensalada pantesca con caballa](recetas/salado/ensalada-pantesca-con-caballa.md)
@@ -74,8 +66,6 @@
 
 ## El restaurante del fin del mundo
 
-*Recetas en esta wiki:*
-
 - [Arroz con leche](recetas/dulce/arroz-con-leche.md)
 - [Bizcocho de yogur - Otra versión](recetas/dulce/bizcocho-de-yogur-otra-version.md)
 - [Coliflor asada con pimentón y ajo](recetas/salado/coliflor-asada-con-pimenton-y-ajo.md)
@@ -86,40 +76,28 @@
 
 ## El rincón de Bea
 
-*Recetas en esta wiki:*
-
 - [Pumpkin and Banana Bread - Pan de calabaza y plátano](recetas/dulce/pumpkin-and-banana-bread-pan-de-calabaza-y-platano.md)
 
 ## Foodie Crush
 
 ## I Love Bundt Cakes
 
-*Recetas en esta wiki:*
-
 - [Bundtlettes de limón y buttermilk - Buttermilk & Lemon Bundtlettes](recetas/dulce/bundtlettes-de-limon-y-buttermilk-buttermilk-and-lemon-bundtlettes.md)
 
 ## Jaleo en la cocina
-
-*Recetas en esta wiki:*
 
 - [Crema de coliflor, brócoli y berenjena](recetas/salado/crema-de-coliflor-brocoli-y-berenjena.md)
 
 ## Joy of baking
 
-*Recetas en esta wiki:*
-
 - [Banana Bread - Pan de plátano](recetas/dulce/banana-bread-pan-de-platano.md)
 
 ## Joy the Baker
-
-*Recetas en esta wiki:*
 
 - [Crema de pimientos rojos asados](recetas/salado/crema-de-pimientos-rojos-asados.md)
 - [Mega Cookie con chips de chocolate, plátano y nueces](recetas/dulce/mega-cookie-con-chips-de-chocolate-platano-y-nueces.md)
 
 ## Kanela y Limón
-
-*Recetas en esta wiki:*
 
 - [Bizcocho de leche condensada](recetas/dulce/bizcocho-de-leche-condensada.md)
 - [Donuts](recetas/dulce/donuts.md)
@@ -131,8 +109,6 @@
 - [Tarta mousse de queso y melocotón](recetas/dulce/tarta-mousse-de-queso-y-melocoton.md)
 
 ## Mamá
-
-*Recetas en esta wiki:*
 
 - [Albóndigas](recetas/salado/albondigas.md)
 - [Arroz con pollo](recetas/salado/arroz-con-pollo.md)
@@ -186,15 +162,11 @@
 
 ## María Lunarillos
 
-*Recetas en esta wiki:*
-
 - [Bizcocho mármol o marmolado](recetas/dulce/bizcocho-marmol-o-marmolado.md)
 - [Crema de puerros](recetas/salado/crema-de-puerros.md)
 - [Masa quebrada](recetas/masas-y-pan/masa-quebrada.md)
 
 ## Martha Stewart
-
-*Recetas en esta wiki:*
 
 - [Bundt Cake de sirope de arce y nueces pecanas](recetas/dulce/bundt-cake-de-sirope-de-arce-y-nueces-pecanas.md)
 
@@ -205,8 +177,6 @@
 ## No quieres caldo? Pues toma 2 tazas
 
 ## Objetivo: Cupcake Perfecto
-
-*Recetas en esta wiki:*
 
 - [Brownie de plátano y chocolate con leche](recetas/dulce/brownie-de-platano-y-chocolate-con-leche.md)
 - [Carrot Cake Cupcakes - Cupcakes de Tarta de zanahoria](recetas/dulce/carrot-cake-cupcakes-cupcakes-de-tarta-de-zanahoria.md)
@@ -219,8 +189,6 @@
 
 ## Pemberley Cup & Cakes
 
-*Recetas en esta wiki:*
-
 - [Banana Bread - Pan de plátano - Otra versión](recetas/dulce/banana-bread-pan-de-platano-otra-version.md)
 - [Brownie](recetas/dulce/brownie.md)
 - [Gofres belgas](recetas/dulce/gofres-belgas.md)
@@ -230,13 +198,9 @@
 
 ## Si no te gusta... échale azúcar
 
-*Recetas en esta wiki:*
-
 - [Canutillos de hojaldre](recetas/dulce/canutillos-de-hojaldre.md)
 
 ## Smitten Kitchen
-
-*Recetas en esta wiki:*
 
 - [Double Chocolate Banana Bread - Pan de plátano de chocolate](recetas/dulce/double-chocolate-banana-bread-pan-de-platano-de-chocolate.md)
 - [Sopa sedosa de coliflor](recetas/salado/sopa-sedosa-de-coliflor.md)
