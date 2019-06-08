@@ -35,7 +35,7 @@ Si os gusta la combinación de canela y plátano podéis añadir 1/2 teaspoon de
 
 Los chips de chocolate son opcionales, los podemos omitir o sustituir por nueces picadas.
 
-Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde. Nos lo explica DeNIKAtessen en "Cómo preparar los moldes bundt".
+Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde.
 
 Las cantidades de la receta están ajustadas para usar un molde pequeño de bundt de 3 cups. Si tenemos un molde tradicional, de unos 12 cups, solo tenemos que multiplicar por cuatro los ingredientes y tenerlo más tiempo en el horno, unos 50-60 minutos.
 
