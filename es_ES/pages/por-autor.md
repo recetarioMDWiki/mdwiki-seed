@@ -1,5 +1,17 @@
 # Recetas por autor
 
+## Adrián
+
+- [Masa para pizza](recetas/masas-y-pan/masa-para-pizza.md)
+
+## Annie, Canal Cocina
+
+- [Cookies con trocitos de chocolate y avena](recetas/dulce/cookies-con-trocitos-de-chocolate-y-avena.md)
+
+## Asopaipas
+
+- [Sándwich Tuna Melt](recetas/salado/sandwich-tuna-melt.md)
+
 ## Broma Bakery
 
 - [Nutella Banana Bread - Pan de plátano y Nutella](recetas/dulce/nutella-banana-bread-pan-de-platano-y-nutella.md)
@@ -10,7 +22,25 @@
 - [Crema de calabaza](recetas/salado/crema-de-calabaza.md)
 - [Porrusalda con bacalao](recetas/salado/porrusalda-con-bacalao.md)
 
+## Cocinando en mi isla amarilla
+
+- [Mini Croissants rellenos de chocolate](recetas/dulce/mini-croissants-rellenos-de-chocolate.md)
+
 ## Con aroma de vainilla
+
+## Contigo en la playa
+
+- [Empanada de pollo y albahaca](recetas/masas-y-pan/empanada-de-pollo-y-albahaca.md)
+- [Hummus de habichuelas blancas y tomates secos](recetas/salado/hummus-de-habichuelas-blancas-y-tomates-secos.md)
+
+## Danza de fogones
+
+- [Arroz chino tres delicias](recetas/salado/arroz-chino-tres-delicias.md)
+- [Boniatos especiados al horno](recetas/salado/boniatos-especiados-al-horno.md)
+- [Hummus](recetas/salado/hummus.md)
+- [Pasta con salsa de pimientos del piquillo y ajo](recetas/salado/pasta-con-salsa-de-pimientos-del-piquillo-y-ajo.md)
+- [Salsa agridulce](recetas/auxiliares/salsa-agridulce.md)
+- [Tahina o tahini](recetas/auxiliares/tahina-o-tahini.md)
 
 ## DeNIKAtessen
 
@@ -88,6 +118,21 @@
 
 - [Crema de coliflor, brócoli y berenjena](recetas/salado/crema-de-coliflor-brocoli-y-berenjena.md)
 
+## Jamie Oliver
+
+- [Ensalada de patatas con salmón ahumado](recetas/salado/ensalada-de-patatas-con-salmon-ahumado.md)
+
+## Japonismo
+
+- [Katsudon](recetas/salado/katsudon.md)
+
+## Joaquín Martín
+
+- [Arroz con magro](recetas/salado/arroz-con-magro.md)
+- [Carrillera en salsa](recetas/salado/carrillera-en-salsa.md)
+- [Crema de trufa](recetas/auxiliares/crema-de-trufa.md)
+- [Pasta a la corsaria](recetas/salado/pasta-a-la-corsaria.md)
+
 ## Joy of baking
 
 - [Banana Bread - Pan de plátano](recetas/dulce/banana-bread-pan-de-platano.md)
@@ -107,6 +152,14 @@
 - [Pizza Monkey Bread](recetas/masas-y-pan/pizza-monkey-bread.md)
 - [Roscón de Reyes](recetas/dulce/roscon-de-reyes.md)
 - [Tarta mousse de queso y melocotón](recetas/dulce/tarta-mousse-de-queso-y-melocoton.md)
+
+## Las recetas de Triana
+
+- [Garbanzos con espinacas](recetas/salado/garbanzos-con-espinacas.md)
+
+## Los fogones de Ana Sevilla
+
+- [Arroz con verduras](recetas/salado/arroz-con-verduras.md)
 
 ## Mamá
 
@@ -153,6 +206,7 @@
 - [Revuelto de puerros](recetas/salado/revuelto-de-puerros.md)
 - [Salchichas al vino](recetas/salado/salchichas-al-vino.md)
 - [Salmorejo](recetas/salado/salmorejo.md)
+- [Salsa ali-oli](recetas/auxiliares/salsa-ali-oli.md)
 - [Salsa de tomate](recetas/auxiliares/salsa-de-tomate.md)
 - [Salsa de verduras](recetas/auxiliares/salsa-de-verduras.md)
 - [Solomillo de cerdo al horno](recetas/salado/solomillo-de-cerdo-al-horno.md)
@@ -166,9 +220,26 @@
 - [Crema de puerros](recetas/salado/crema-de-puerros.md)
 - [Masa quebrada](recetas/masas-y-pan/masa-quebrada.md)
 
+## María NC
+
+- [Galletas](recetas/dulce/galletas.md)
+- [Kartoffelsalat - Ensalada de patatas alemana](recetas/salado/kartoffelsalat-ensalada-de-patatas-alemana.md)
+
+## Maribel Basáñez, Concha Esteban y Mª Socorro Giménez
+
+- [Coquitos o cocadas - Coconut Macaroons](recetas/dulce/coquitos-o-cocadas-coconut-macaroons.md)
+
 ## Martha Stewart
 
 - [Bundt Cake de sirope de arce y nueces pecanas](recetas/dulce/bundt-cake-de-sirope-de-arce-y-nueces-pecanas.md)
+
+## Martín Berasategui
+
+- [Crema de guisantes](recetas/salado/crema-de-guisantes.md)
+
+## Mercado Calabajío
+
+- [Salsa César](recetas/auxiliares/salsa-cesar.md)
 
 ## My European Cakes
 
@@ -187,12 +258,29 @@
 - [Red Velvet Bundt Cake](recetas/dulce/red-velvet-bundt-cake.md)
 - [Tarta de chocolate con galletas Oreo](recetas/dulce/tarta-de-chocolate-con-galletas-oreo.md)
 
+## Ole tus fogones
+
+- [Pollo al limón](recetas/salado/pollo-al-limon.md)
+
 ## Pemberley Cup & Cakes
 
 - [Banana Bread - Pan de plátano - Otra versión](recetas/dulce/banana-bread-pan-de-platano-otra-version.md)
 - [Brownie](recetas/dulce/brownie.md)
 - [Gofres belgas](recetas/dulce/gofres-belgas.md)
 - [Puré de calabaza casero](recetas/auxiliares/pure-de-calabaza-casero.md)
+
+## Pepa Cooks
+
+- [Colcannon - Puré de patatas con coles y cebolleta](recetas/salado/colcannon-pure-de-patatas-con-coles-y-cebolleta.md)
+
+## Recetas de rechupete
+
+- [Menestra de verduras](recetas/salado/menestra-de-verduras.md)
+- [Pasta con salmón](recetas/salado/pasta-con-salmon.md)
+
+## Recetín
+
+- [Mejillones a la mostaza](recetas/salado/mejillones-a-la-mostaza.md)
 
 ## Sabores y momentos
 
@@ -208,5 +296,10 @@
 ## Sweet & Sour
 
 ## Table for two
+
+## Un creativo en Japón
+
+- [Gyozas](recetas/salado/gyozas.md)
+- [Okonomiyaki](recetas/salado/okonomiyaki.md)
 
 ## Uno de dos
