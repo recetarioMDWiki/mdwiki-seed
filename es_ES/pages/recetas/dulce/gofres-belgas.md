@@ -1,5 +1,7 @@
 ﻿## Gofres belgas
 
+![Gofres belgas](../../uploads/images/gofres.jpg "Gofres belgas")
+
 **Ingredientes**
 
 - 200 ml (3/4 cup + 1 tablespoon + 1 teaspoon) de leche entera, templada

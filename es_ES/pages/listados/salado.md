@@ -134,6 +134,7 @@
 * [Pollo al limón](../recetas/salado/pollo-al-limon.md)
 * [Pollo en salsa](../recetas/salado/pollo-en-salsa.md)
 * [Porrusalda con bacalao](../recetas/salado/porrusalda-con-bacalao.md)
+* [Potaje de garbanzos y acelgas](../recetas/salado/potaje-de-garbanzos-y-acelgas.md)
 * [Potaje de habichuelas blancas](../recetas/salado/potaje-de-habichuelas-blancas.md)
 * [Potaje de lentejas](../recetas/salado/potaje-de-lentejas.md)
 * [Provolone con bacon y mermelada de tomate](../recetas/salado/provolone-con-bacon-y-mermelada-de-tomate.md)

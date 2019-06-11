@@ -1,5 +1,7 @@
 ## Mini Banana Bundt Cake - Bundt Cake de plátano, versión mini
 
+![Mini Banana Bundt Cake](../../uploads/images/mini-bundt-platano.jpg "Mini Banana Bundt Cake")
+
 **Ingredientes**
 
 - 3/4 cup (97 g) de harina de trigo

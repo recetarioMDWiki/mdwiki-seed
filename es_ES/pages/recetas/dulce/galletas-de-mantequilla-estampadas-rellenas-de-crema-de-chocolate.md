@@ -1,5 +1,7 @@
 ## Galletas de mantequilla estampadas rellenas de crema de chocolate
 
+![Galletas de mantequilla estampadas](../../uploads/images/galletas-estampadas.jpg "Galletas de mantequilla estampadas")
+
 **Ingredientes**
 
 - 250 g de harina de trigo

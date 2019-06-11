@@ -1,5 +1,7 @@
 ## Bizcocho mármol o marmolado
 
+![Bizcocho marmolado](../../uploads/images/bizcocho-marmolado.jpg "Bizcocho marmolado")
+
 **Ingredientes**
 
 - 250 g de harina de trigo

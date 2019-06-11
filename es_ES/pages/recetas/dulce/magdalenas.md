@@ -1,5 +1,7 @@
 ## Magdalenas
 
+![Magdalenas](../../uploads/images/magdalenas.jpg "Magdalenas")
+
 **Ingredientes**
 
 - 3 huevos medianos

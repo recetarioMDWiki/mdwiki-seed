@@ -1,5 +1,7 @@
 ## Arroz con leche
 
+![Arroz con leche](../../uploads/images/arroz-con-leche.jpg "Arroz con leche")
+
 **Ingredientes**
 
 - 1.5 l de leche entera

@@ -198,6 +198,7 @@
 - [Pescado en blanco](recetas/salado/pescado-en-blanco.md)
 - [Pisto](recetas/salado/pisto.md)
 - [Pollo en salsa](recetas/salado/pollo-en-salsa.md)
+- [Potaje de garbanzos y acelgas](../recetas/salado/potaje-de-garbanzos-y-acelgas.md)
 - [Potaje de habichuelas blancas](recetas/salado/potaje-de-habichuelas-blancas.md)
 - [Potaje de lentejas](recetas/salado/potaje-de-lentejas.md)
 - [Puchero](recetas/salado/puchero.md)

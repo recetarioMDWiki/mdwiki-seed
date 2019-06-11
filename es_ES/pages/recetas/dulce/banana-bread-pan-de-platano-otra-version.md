@@ -1,5 +1,7 @@
 ## Banana Bread - Pan de plátano - Otra versión
 
+![Banana Bread](../../uploads/images/banana-bread-otra-version.jpg "Banana Bread")
+
 **Ingredientes**
 
 - 3 plátanos medianos muy maduros

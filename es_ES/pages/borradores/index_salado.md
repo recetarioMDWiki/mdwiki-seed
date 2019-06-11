@@ -424,7 +424,6 @@
 - pollo-tikka-masala.md
 - pollo-y-champinones-marsala.md
 - pot-pie-de-habichuelas-blancas-acelga-y-panceta.md
-- potaje-de-garbanzos-y-acelgas.md
 - potaje-de-lentejas-con-espinacas.md
 - potato-kugel.md
 - puff-pastry-chicken-pot-pie-with-asparagus-and-mushrooms.md

@@ -1,5 +1,7 @@
 ## Bundtlettes de limón y buttermilk - Buttermilk & Lemon Bundtlettes
 
+![Bundtlettes de limón y buttermilk](../../uploads/images/bundtlettes-limon-buttermilk.jpg "Bundtlettes de limón y buttermilk")
+
 **Ingredientes**
 
 - 180 g de azúcar

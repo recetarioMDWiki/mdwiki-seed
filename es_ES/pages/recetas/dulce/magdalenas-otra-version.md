@@ -1,5 +1,7 @@
 ## Magdalenas - Otra versión
 
+![Magdalenas](../../uploads/images/magdalenas-otra-version.jpg "Magdalenas")
+
 **Ingredientes**
 
 - 4 huevos M
