@@ -1,6 +1,6 @@
 ## Potaje de garbanzos y acelgas
 
-![Potaje de garbanzos y acelgas](../../uploads/images/potaje-garbanzos-acelgas.jpg "Potaje de garbanzos y acelgas")
+![Potaje de garbanzos y acelgas](../../uploads/images/potaje-garbanzos-acelgas.jpeg "Potaje de garbanzos y acelgas")
 
 **Ingredientes**
 
