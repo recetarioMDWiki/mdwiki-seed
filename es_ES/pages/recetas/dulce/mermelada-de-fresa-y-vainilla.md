@@ -23,7 +23,7 @@ Si no tenemos termómetro para comprobar la temperatura podemos utilizar la prue
 
 Cuando la mermelada esté hecha, los trozos de fresa prácticamente se habrán deshecho pero, si queremos podemos ir chafándolos con un tenedor durante la cocción o una vez hecha la mermelada.
 
-Con estas cantidades obtendremos unos 300-400 g de mermelada. Al hacer tan poca cantidad no necesitamos usar pectinas. De todas formas, en DeNIKAtessen no recomiendan hacer más del doble de la cantidad indicada porque la mermelada no nos quedará suficientemente espesa. Cuando se hacen grandes cantidades es necesario añadir pectina. Podéis ver más consejos para hacer mermeladas caseras y cómo conservarlas aquí.
+Con estas cantidades obtendremos unos 300-400 g de mermelada. Al hacer tan poca cantidad no necesitamos usar pectinas. De todas formas, en DeNIKAtessen no recomiendan hacer más del doble de la cantidad indicada porque la mermelada no nos quedará suficientemente espesa. Cuando se hacen grandes cantidades es necesario añadir pectina.
 
 Si no tenemos vainas de vainilla, podemos añadir 1 tablespoon de extracto puro o pasta de vainilla. Si utilizamos la vaina, la podemos aprovechar después de vaciarla para hacer azúcar vainillado.
 
