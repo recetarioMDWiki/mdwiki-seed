@@ -1,5 +1,7 @@
 ## Mini Cherry Crisp
 
+![Mini Cherry Crisp](../../uploads/images/mini-cherry-crisp.jpg "Mini Cherry Crisp")
+
 **Ingredientes**
 
 *Para la cobertura*

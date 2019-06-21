@@ -1,5 +1,7 @@
 ## Mayonesa
 
+![Mayonesa](../../uploads/images/mayonesa.jpg "Mayonesa")
+
 **Ingredientes**
 
 - 1 huevo
