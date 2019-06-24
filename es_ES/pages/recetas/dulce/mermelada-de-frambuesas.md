@@ -1,15 +1,26 @@
-## Mermelada de frutos rojos
+## Mermelada de frambuesas
 
 **Ingredientes**
 
-- 350 g de fresas
-- 250 g de cerezas deshuesadas
-- 200 g de frambuesas
-- 350 g de azúcar
-- Un vaso de agua
-- 3-4 g de pectina de manzana
+- 400 g de frambuesas
+- 175 g de azúcar
+- Medio vaso de agua
 
 **Preparación**
+
+Empezaremos preparando unos botes esterilizados para guardar la mermelada más tarde.
+
+
+
+Lavamos bien las frambuesas y las ponemos en una cacerola amplia junto con el agua. Calentamos a fuego medio.
+
+Cuando empiece a hervir contamos 40 minutos, removiendo de vez en cuando, cada diez minutos más o menos.
+
+Pasado el tiempo, añadimos el azúcar y seguimos removiendo de forma constante durante unos 10 minutos.
+
+Ya tenemos la mermelada lista. La distribuimos en los botes esterilizados que tengamos preparados para ella. Los llenamos hasta arriba y los cerramos bien.
+
+Realizamos una segunda esterilización. Cocemos los botes durante 20 minutos a fuego lento en agua. Pasado el tiempo, sacamos los botes y los colocamos boca abajo sobre un paño durante toda la noche. Pasadas unas 24 horas y cuando ya se haya enfriado, guardamos los botes en un lugar fresco, alejado de la luz solar.
 
 - Lavamos bien las fresas, las cerezas y las frambuesas.
 
@@ -37,7 +48,7 @@
 
 **Notas**
 
-- La pectina la puedes encontrar en la tienda de Megasilvita. No es obligatorio su uso, pero ayudará a que la mermelada espese un poco más, a que tenga mayor brillo y no añade sabor.
+Normalmente, cuando se hace más cantidad (como en la receta original) se suele utilizar pectina de manzana. La podéis encontrar en tiendas de repostería. No es obligatorio su uso, pero ayudará a que la mermelada espese un poco más, a que tenga mayor brillo y no añade sabor.
 
 Cómo esterilizar botes para conserva
 

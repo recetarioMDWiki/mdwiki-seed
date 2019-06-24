@@ -73,6 +73,7 @@
 * [Magdalenas](../recetas/dulce/magdalenas.md)
 * [Magdalenas - Otra versión](../recetas/dulce/magdalenas-otra-version.md)
 * [Mega Cookie con chips de chocolate, plátano y nueces](../recetas/dulce/mega-cookie-con-chips-de-chocolate-platano-y-nueces.md)
+* [Mermelada de frambuesas](../recetas/dulce/mermelada-de-frambuesas.md)
 * [Mermelada de fresa y vainilla](../recetas/dulce/mermelada-de-fresa-y-vainilla.md)
 * [Mini Applesauce Bundt Cake](../recetas/dulce/mini-applesauce-bundt-cake.md)
 * [Mini Banana Bundt Cake - Bundt Cake de plátano, versión mini](../recetas/dulce/mini-banana-bundt-cake-bundt-cake-de-platano-version-mini.md)
@@ -110,6 +111,7 @@
 
 ## R
 
+* [Raspberry Buttermilk Cake - Bizcocho de frambuesas y buttermilk](../recetas/dulce/raspberry-buttermilk-cake.md)
 * [Red Velvet Bundt Cake](../recetas/dulce/red-velvet-bundt-cake.md)
 * [Roscón de Reyes](../recetas/dulce/roscon-de-reyes.md)
 
