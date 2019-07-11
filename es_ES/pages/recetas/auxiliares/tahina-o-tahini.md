@@ -21,5 +21,6 @@ Si tenemos el sésamo crudo, podemos tostarlo poniéndolo en una sartén calient
 - [Baba Ganush - Hummus de berenjenas](../salado/baba-ganush-hummus-de-berenjena.md)
 - [Hummus](../salado/hummus.md)
 - [Hummus de habichuelas blancas y tomates secos](../salado/hummus-de-habichuelas-blancas-y-tomates-secos.md)
+- [Hummus de zanahoria asada](../salado/hummus-de-zanahoria-asada.md)
 
 **Receta de:** Danza de fogones
