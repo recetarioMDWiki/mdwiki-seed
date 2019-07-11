@@ -86,6 +86,7 @@
 - [Espaguetis con pez espada, berenjena y tomatitos](recetas/salado/espaguetis-con-pez-espada-berenjena-y-tomatitos.md)
 - [Gratinado de brócoli y boniato](recetas/salado/gratinado-de-brocoli-y-boniato.md)
 - [Hamburguesas caseras](recetas/salado/hamburguesas-caseras.md)
+- [Hummus de zanahoria asada](recetas/salado/hummus-de-zanahoria-asada.md)
 - [Magdalenas](recetas/dulce/magdalenas.md)
 - [Pasta con paté de verduras](recetas/salado/pasta-con-pate-de-verduras.md)
 - [Pasta con sardinas y piñones](recetas/salado/pasta-con-sardinas-y-pinones.md)
@@ -117,6 +118,7 @@
 ## Jaleo en la cocina
 
 - [Crema de coliflor, brócoli y berenjena](recetas/salado/crema-de-coliflor-brocoli-y-berenjena.md)
+- [Mermelada de frambuesas](../recetas/dulce/mermelada-de-frambuesas.md)
 
 ## Jamie Oliver
 
@@ -292,6 +294,7 @@
 ## Smitten Kitchen
 
 - [Double Chocolate Banana Bread - Pan de plátano de chocolate](recetas/dulce/double-chocolate-banana-bread-pan-de-platano-de-chocolate.md)
+- [Raspberry Buttermilk Cake - Bizcocho de frambuesas y buttermilk](recetas/dulce/raspberry-buttermilk-cake.md)
 - [Sopa sedosa de coliflor](recetas/salado/sopa-sedosa-de-coliflor.md)
 
 ## Sweet & Sour
@@ -304,3 +307,7 @@
 - [Okonomiyaki](recetas/salado/okonomiyaki.md)
 
 ## Uno de dos
+
+## Vegamecum
+
+- [Sobrasada vegana](../recetas/salado/sobrasada-vegana.md)
