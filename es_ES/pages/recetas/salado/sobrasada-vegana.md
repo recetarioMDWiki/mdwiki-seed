@@ -1,10 +1,12 @@
 ## Sobrasada vegana
 
+![Sobrasada vegana](../../uploads/images/sobrasada-vegana.jpg "Sobrasada vegana")
+
 **Ingredientes**
 
 - 100 g de tomates secos
 - Agua caliente
-- 2 dientes de ajo
+- 1 diente de ajo
 - 30 g de piñones
 - 1/2 cucharadita de pimentón dulce
 - 1/3 cucharadita de pimentón picante

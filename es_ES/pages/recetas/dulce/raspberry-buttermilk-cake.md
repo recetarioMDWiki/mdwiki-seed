@@ -20,7 +20,11 @@
 
 Precalentamos el horno a 200 ºC, con calor arriba y abajo, con una rejilla en el centro del horno. Preparamos el molde engrasándolo y enharinándolo. Reservamos.
 
+En un bol mezclamos la harina, la levadura, el bicarbonato y la sal, y reservamos. En otro bol batimos la mantequilla con los 146 g de azúcar con una batidora de varillas, a velocidad media-alta, hasta que se ponga de un color más claro y tenga una textura esponjosa. Añadimos la vainilla y la ralladura de limón, si la usamos, e integramos bien.
 
+A baja velocidad, añadimos la mezcla de la harina en tres tandas, alternando con el buttermilk, empezando y terminando con la harina. Batir bien hasta que se mezclen. Volcamos la masa en el molde, alisando la superficie. Distribuimos las frambuesas por encima a nuestro gusto y espolvoreamos con el resto del azúcar que teníamos reservados (los 22 g).
+
+Llevamos al horno hasta que esté dorado y al pincharlo con un palillo o varilla salga limpia, unos 20-25 minutos. Dejamos enfriar en el molde unos 10 minutos, luego lo pasamos a una rejilla para que se enfríe durante unos 15 minutos más. Lo pasamos finalmente a un plato dándole la vuelta y servimos. 
 
 **Notas**
 

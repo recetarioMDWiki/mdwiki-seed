@@ -78,6 +78,7 @@
 * [Hamburguesas caseras](../recetas/salado/hamburguesas-caseras.md)
 * [Hummus](../recetas/salado/hummus.md)
 * [Hummus de habichuelas blancas y tomates secos](../recetas/salado/hummus-de-habichuelas-blancas-y-tomates-secos.md)
+* [Hummus de zanahoria asada](../recetas/salado/hummus-de-zanahoria-asada.md)
 
 - - - 
 
@@ -157,6 +158,7 @@
 * [Sándwich Tuna Melt](../recetas/salado/sandwich-tuna-melt.md)
 * [Solomillo de cerdo a la sal](../recetas/salado/solomillo-de-cerdo-a-la-sal.md)
 * [Solomillo de cerdo al horno](../recetas/salado/solomillo-de-cerdo-al-horno.md)
+* [Sobrasada vegana](../recetas/salado/sobrasada-vegana.md)
 * [Sopa de arroz](../recetas/salado/sopa-de-arroz.md)
 * [Sopa de verduras](../recetas/salado/sopa-de-verduras.md)
 * [Sopa sedosa de coliflor](../recetas/salado/sopa-sedosa-de-coliflor.md)
