@@ -12,15 +12,15 @@
 - 1/2 teaspoon de bicarbonato sódico
 - 1/2 teaspoon de levadura química
 - 110 g de avena pulverizada
-- 170 g de gotas de chocolate
+- 125-170 g de gotas de chocolate, a gusto
 
 **Preparación**
 
-Precalentamos el horno a 175º C, con calor arriba y abajo.
+Precalentamos el horno a 200º C, con calor arriba y abajo.
 
 Cremamos la mantequilla y añadimos el azúcar blanco y moreno, batiendo a mano o con una batidora de varillas. Añadimos el extracto de vainilla y el huevo, y lo batimos bien. 
 
-En otro bol tamizamos la harina, la sal, el bicarbonato y la levadura. Incorporamos la masa anterior a esta mezcla, añadimos la avena pulverizada y unimos a mano con una espátula. Cuando nos cueste un poco de trabajo podemos continuar amasando con las manos. Por último, añadimos las gotas de chocolate. Damos un par de vueltas con las manos.
+En otro bol tamizamos la harina, la sal, el bicarbonato y la levadura. Incorporamos a la masa anterior, añadimos la avena pulverizada y unimos a mano con una espátula. Si nos cuesta un poco podemos continuar amasando con las manos. Por último, añadimos las gotas de chocolate. Damos un par de vueltas con las manos.
 
 Formamos bolas con las manos y las colocamos en una bandeja de horno forrada con un papel de hornear, dejando unos 5 cm entre las bolas de masa.
 
