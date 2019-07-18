@@ -1,5 +1,7 @@
 ## Cookies con trocitos de chocolate y avena
 
+![Cookies con trocitos de chocolate y avena](../../uploads/images/cookies-trocitos-chocolate-avena.jpg "Cookies con trocitos de chocolate y avena")
+
 **Ingredientes**
 
 - 115 g de mantequilla a temperatura ambiente
@@ -29,5 +31,7 @@ Horneamos en el centro del horno, durante 10-15 minutos o hasta que estén dorad
 **Notas**
 
 Las conservaremos en un bote hermético.
+
+Obtendremos más o menos unas 30 galletas como las de las fotos.
 
 **Receta de:** [Annie, Canal Cocina](https://canalcocina.es/receta/cookies-con-trocitos-chocolate)
