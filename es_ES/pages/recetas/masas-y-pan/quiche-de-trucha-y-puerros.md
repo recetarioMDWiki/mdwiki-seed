@@ -2,7 +2,7 @@
 
 **Ingredientes**
 
-- Una base de masa quebrada casera o comprada
+- Una base de [masa quebrada casera](masa-quebrada.md) o comprada
 - 2 puerros
 - Aceite de oliva
 - Un filete de trucha sin espinas
@@ -14,7 +14,7 @@
 
 **Preparación**
 
-Empezamos preparando la masa quebrada casera o comprada, o utilizamos una comprada ya hecha. Le damos un horneado previo de unos 10 minutos, que no llegue a dorarse. La reservamos.
+Empezamos preparando la masa quebrada casera, o utilizamos una comprada ya hecha. Le damos un horneado previo de unos 10 minutos, que no llegue a dorarse. La reservamos.
 
 Picamos los puerros y lo pochamos en una sartén con aceite de oliva, que quede dorado. Apartamos sobre papel absorbente y reservamos. En la misma sartén hacemos el filete de trucha a la plancha. Apartamos, dejamos templar un poco para no quemarnos y retiramos la piel. Desmenuzamos la trucha y nos aseguramos de que no quede ninguna espina.
 

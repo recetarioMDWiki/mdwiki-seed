@@ -31,4 +31,4 @@ Los ingredientes y las cantidades de estos se pueden variar según nuestro gusto
 
 Si no tenemos molde, o queremos aprovechar toda la masa, podemos hacerlo directamente sobre la bandeja del horno. Ponemos papel de horno (el mismo que suelen traer las masas refrigeradas sirve), una lámina de masa y encima el relleno, dejando unos dos dedos de espacio en el borde. Ponemos la otra lámina de masa y cerramos bien los bordes.
 
-**Molde utilizado:** [redondo acanalado y desmoldable de 23 cm de diámetro(../../moldes-y-utensilios.md)
+**Molde utilizado:** [redondo acanalado y desmoldable de 23 cm de diámetro](../../moldes-y-utensilios.md)
