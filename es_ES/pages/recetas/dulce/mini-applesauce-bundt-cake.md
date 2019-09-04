@@ -11,7 +11,7 @@
 - 1/4 cup (50 g) de azúcar moreno claro
 - 1/4 cup (50 g) de azúcar blanco
 - 1 huevo M (50 g)
-- 1/4 cup (56-65 g) de compota de manzana rosa o clásica sin endulzar
+- 1/4 cup (56-65 g) de [compota de manzana rosa o clásica sin endulzar](../auxiliares/compota-de-manzana-applesauce.md)
 - 1/4 cup (56 g) de yogur griego
 - 1/2 teaspoon de extracto natural de vainilla
 
@@ -43,9 +43,9 @@ Si queremos un bizcocho más especiado duplicaremos la cantidad de especias.
 
 Podemos añadir 50 g de chips de chocolate, pasas o nueces troceadas.
 
-Podemos decorarlo con Cream Cheese Frosting o acompañarlo con un poco más de compota de manzana.
+Podemos decorarlo con [Cream Cheese Frosting](../auxiliares/cream-cheese-frosting-cobertura-de-crema-de-queso.md) o acompañarlo con un poco más de [compota de manzana](../auxiliares/compota-de-manzana-applesauce.md).
 
-Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde. Nos lo explica DeNIKAtessen en "Cómo preparar los moldes bundt".
+Para engrasar el molde y llegar a todos los rincones podemos mezclar 14 g de mantequilla derretida con 8 g de harina y pintar con una brocha todo el interior del molde.
 
 Las cantidades de la receta están ajustadas para usar un molde pequeño bundt de 3 cups. Si tenemos un molde tradicional, de unos 12 cups, solo tenemos que multiplicar por cuatro los ingredientes y tenerlo más tiempo en el horno, unos 50-60 minutos.
 
