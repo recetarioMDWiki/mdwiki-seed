@@ -54,3 +54,5 @@ El grosor de la masa cuando la estiremos no debe superar 1cm, pues luego con el 
 Una vez hechos y fríos, los que no os vayáis a comer, los podéis congelar. Con unos segundos de micro, estarán como recién hechos.
 
 **Receta de:** [Kanela y Limón](http://kanelaylimon.blogspot.com/2012/02/donuts-gema-reto-6-del-facebook.html)
+
+<!--http://pemberleycupandcakes.com/2013/06/27/homemade-doughnuts-donuts-caseros/-->
