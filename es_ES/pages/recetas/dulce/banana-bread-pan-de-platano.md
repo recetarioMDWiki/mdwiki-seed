@@ -1,6 +1,7 @@
 ## Banana Bread - Pan de plátano
 
 **Ingredientes**
+
 - 1 cup (115 g) de nueces o nueces pecanas, tostadas y troceadas
 - 1 y 3/4 cups (230 g) de harina de trigo
 - 3/4 cup (150 g) de azúcar
