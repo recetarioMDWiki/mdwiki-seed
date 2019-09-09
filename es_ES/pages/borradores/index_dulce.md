@@ -129,7 +129,6 @@
 - [bundt-cake-de-chocolate-caliente-y-caramelo.md](dulce/bundt-cake-de-chocolate-caliente-y-caramelo.md)
 - [bundt-cake-de-chocolate-caramelo-y-cafe.md](dulce/bundt-cake-de-chocolate-caramelo-y-cafe.md)
 - [bundt-cake-de-chocolate-con-salsa-de-chocolate-y-cafe.md](dulce/bundt-cake-de-chocolate-con-salsa-de-chocolate-y-cafe.md)
-- [bundt-cake-de-chocolate-especiado-y-pera.md](dulce/bundt-cake-de-chocolate-especiado-y-pera.md)
 - [bundt-cake-de-chocolate-extra-chocolateado.md](dulce/bundt-cake-de-chocolate-extra-chocolateado.md)
 - [bundt-cake-de-chocolate-moka-y-vainilla.md](dulce/bundt-cake-de-chocolate-moka-y-vainilla.md)
 - [bundt-cake-de-chocolate-y-avellanas.md](dulce/bundt-cake-de-chocolate-y-avellanas.md)
