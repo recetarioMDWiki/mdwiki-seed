@@ -1,4 +1,4 @@
-﻿## Gofres belgas
+## Gofres belgas
 
 ![Gofres belgas](../../uploads/images/gofres.jpg "Gofres belgas")
 
