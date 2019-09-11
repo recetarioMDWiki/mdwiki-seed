@@ -189,7 +189,6 @@
 - [bundt-cake-de-rollo-hungaro-con-crema-de-nueces.md](dulce/bundt-cake-de-rollo-hungaro-con-crema-de-nueces.md)
 - [bundt-cake-de-sangria.md](dulce/bundt-cake-de-sangria.md)
 - [bundt-cake-de-toblerone.md](dulce/bundt-cake-de-toblerone.md)
-- [bundt-cake-de-tomate-y-chocolate.md](dulce/bundt-cake-de-tomate-y-chocolate.md)
 - [bundt-cake-de-turron-de-chocolate-blanco.md](dulce/bundt-cake-de-turron-de-chocolate-blanco.md)
 - [bundt-cake-de-turron-de-chocolate.md](dulce/bundt-cake-de-turron-de-chocolate.md)
 - [bundt-cake-de-turron-de-jijona.md](dulce/bundt-cake-de-turron-de-jijona.md)
