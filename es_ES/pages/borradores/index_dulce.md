@@ -538,7 +538,6 @@
 - [hot-cross-buns.md](dulce/hot-cross-buns.md)
 - [hot-fudge-sundae-cake.md](dulce/hot-fudge-sundae-cake.md)
 - [huesitos-caseros.md](dulce/huesitos-caseros.md)
-- [huevos-rotos-con-patatas.md](dulce/huevos-rotos-con-patatas.md)
 - [hummingbird-bundt-cake.md](dulce/hummingbird-bundt-cake.md)
 - [hummingbird-pancakes.md](dulce/hummingbird-pancakes.md)
 - [ice-cream-sandwich-cookies.md](dulce/ice-cream-sandwich-cookies.md)

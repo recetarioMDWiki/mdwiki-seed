@@ -277,6 +277,7 @@
 - [huevos-benedict.md](salado/huevos-benedict.md)
 - [huevos-rancheros.md](salado/huevos-rancheros.md)
 - [huevos-rellenos-de-aguacate.md](salado/huevos-rellenos-de-aguacate.md)
+- [huevos-rotos-con-patatas.md](dulce/huevos-rotos-con-patatas.md)
 - [huevos-trufados-con-setas.md](salado/huevos-trufados-con-setas.md)
 - [hummus-de-boniato-especiado.md](salado/hummus-de-boniato-especiado.md)
 - [hummus-de-habichuelas-blancas-y-ajo-asado.md](salado/hummus-de-habichuelas-blancas-y-ajo-asado.md)
