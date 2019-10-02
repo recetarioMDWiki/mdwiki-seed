@@ -4,7 +4,7 @@
 
 - Lomos de merluza sin piel
 - 1/2 lata de pimientos del piquillo
- 1/2 cebolla
+- 1/2 cebolla
 - 1 cucharada de aceite de oliva
 - Sal
 - Pimienta negra
