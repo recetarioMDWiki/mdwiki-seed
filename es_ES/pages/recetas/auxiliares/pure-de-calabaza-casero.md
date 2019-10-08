@@ -2,8 +2,8 @@
 
 **Ingredientes**
 
-500 g de calabaza butternut
-240 ml (1 cup) de agua
+- 500 g de calabaza butternut
+- 240 ml (1 cup) de agua
 
 **Preparación**
 
