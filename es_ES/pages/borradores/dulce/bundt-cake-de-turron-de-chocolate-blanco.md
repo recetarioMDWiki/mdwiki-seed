@@ -1,2 +1,0 @@
-Bundt Cake de turrón de chocolate blanco	http://blogmegasilvita.com/2014/12/bundt-cake-de-turron-de-chocolate-blanco.html	
-਍

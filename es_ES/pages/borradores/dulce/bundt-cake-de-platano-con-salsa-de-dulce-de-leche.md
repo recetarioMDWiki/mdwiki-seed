@@ -12,6 +12,7 @@ Dos huevos
 Una cdta. de extracto de vainilla
 Cuatro plátanos medianos, cuanto más maduros mejor
 120 g de nata agria
+
 Salsa de dulce de leche
 
 80 g de dulce de leche
