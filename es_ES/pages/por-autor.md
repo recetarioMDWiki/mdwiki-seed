@@ -104,6 +104,7 @@
 - [Magdalenas - Otra versión](recetas/dulce/magdalenas-otra-version.md)
 - [Pasta a la carbonara](recetas/salado/pasta-a-la-carbonara.md)
 - [Pasta a la putanesca](recetas/salado/pasta-a-la-putanesca.md)
+- [Pastas de mantequilla rizadas](recetas/dulce/pastas-de-mantequilla-rizadas.md)
 
 ## El rincón de Bea
 
@@ -253,6 +254,7 @@
 ## Objetivo: Cupcake Perfecto
 
 - [Brownie de plátano y chocolate con leche](recetas/dulce/brownie-de-platano-y-chocolate-con-leche.md)
+- [Bundt Cake de calabaza y chocolate negro](recetas/dulce/bundt-cake-de-calabaza-y-chocolate-negro.md)
 - [Carrot Cake Cupcakes - Cupcakes de Tarta de zanahoria](recetas/dulce/carrot-cake-cupcakes-cupcakes-de-tarta-de-zanahoria.md)
 - [Mega Cookie con chips de chocolate, plátano y nueces](recetas/dulce/mega-cookie-con-chips-de-chocolate-platano-y-nueces.md)
 - [Muffins de fresas](recetas/dulce/muffins-de-fresas.md)

@@ -20,6 +20,7 @@
 * [Bizcocho mármol o marmolado](../recetas/dulce/bizcocho-marmol-o-marmolado.md)
 * [Brownie](../recetas/dulce/brownie.md)
 * [Brownie de plátano y chocolate con leche](../recetas/dulce/brownie-de-platano-y-chocolate-con-leche.md)
+* [Bundt Cake de calabaza y chocolate negro](../recetas/dulce/bundt-cake-de-calabaza-y-chocolate-negro.md)
 * [Bundt Cake de sirope de arce y nueces pecanas](../recetas/dulce/bundt-cake-de-sirope-de-arce-y-nueces-pecanas.md)
 * [Bundtlettes de limón y buttermilk - Buttermilk & Lemon Bundtlettes](../recetas/dulce/bundtlettes-de-limon-y-buttermilk-buttermilk-and-lemon-bundtlettes.md)
 
@@ -105,6 +106,7 @@
 ## P
 
 * [Palmeritas de hojaldre](../recetas/dulce/palmeritas-de-hojaldre.md)
+* [Pastas de mantequilla rizadas](../recetas/dulce/pastas-de-mantequilla-rizadas.md)
 * [Pumpkin and Banana Bread - Pan de calabaza y plátano](../recetas/dulce/pumpkin-and-banana-bread-pan-de-calabaza-y-platano.md)
 
 - - -

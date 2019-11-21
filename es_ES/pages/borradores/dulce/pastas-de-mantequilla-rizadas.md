@@ -1,2 +1,0 @@
-Pastas de mantequilla rizadas	http://restaurantefinmundo.blogspot.com.es/2014/10/como-hacer-las-clasicas-pastas-de.html	
-਍
