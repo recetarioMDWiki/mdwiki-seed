@@ -27,6 +27,6 @@ Podemos servir acompañado con trozos de magro de cerdo y chorizo.
 
 **Notas**
 
-Si nos sobra carne y chorizo podemos preparar croquetas.
+Si nos sobra carne y chorizo podemos preparar [croquetas](croquetas.md).
 
 **Receta de:** Mamá

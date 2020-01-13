@@ -25,6 +25,6 @@ Pasado el tiempo volvemos a apartar y dejamos salir la presión, abrimos la olla
 
 **Notas**
 
-La carne y el chorizo que sobre se pueden aprovechar para hacer croquetas o como base para rellenar una empanada.
+La carne y el chorizo que sobre se pueden aprovechar para hacer [croquetas](croquetas.md) o como base para rellenar una [empanada](../masas-y-pan/empanada-de-hojaldre.md).
 
 **Receta de:** Mamá

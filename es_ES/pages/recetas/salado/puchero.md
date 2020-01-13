@@ -4,11 +4,11 @@
 
 - 1 vaso de garbanzos
 - Agua
-- Cuartos traseros de pollo
+- 2 cuartos traseros de pollo
 - Un morcillo de ternera o un jarrete de cerdo
 - Tocino fresco
-- Un trozo o un taco de jamón serrano
-- Hueso espinazo
+- Un trozo o un taco de jamón serrano o hueso de jamón
+- Hueso de espinazo
 - Hueso blanco o costilla salada
 - 1 zanahoria
 - Sal

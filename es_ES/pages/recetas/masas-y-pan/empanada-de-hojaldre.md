@@ -27,7 +27,7 @@ Llevamos al horno y dejamos cocinar unos 30 minutos más o menos. Cuando la supe
 
 **Notas**
 
-Los ingredientes y las cantidades de estos se pueden variar según nuestro gusto. Por ejemplo, podemos utilizar la carne y el chorizo que nos sobre de un cocido de garbanzos, habichuelas verdes y calabaza.
+Los ingredientes y las cantidades de estos se pueden variar según nuestro gusto. Por ejemplo, podemos utilizar la carne y el chorizo que nos sobre de un [cocido de garbanzos, habichuelas verdes y calabaza](../salado/cocido-de-garbanzos-con-habichuelas-verdes-y-calabaza.md).
 
 Si no tenemos molde, o queremos aprovechar toda la masa, podemos hacerlo directamente sobre la bandeja del horno. Ponemos papel de horno (el mismo que suelen traer las masas refrigeradas sirve), una lámina de masa y encima el relleno, dejando unos dos dedos de espacio en el borde. Ponemos la otra lámina de masa y cerramos bien los bordes.
 
