@@ -31,6 +31,6 @@ Las cantidades dependen de la cantidad de carne del puchero que tengamos. Tendre
 
 Para que al freírlas no se inflen y se abran por un lado, el aceite debe cubrirlas casi por completo.
 
-También podemos hacerlas con la carne y el chorizo del cocido de garbanzos con habichuelas verdes y calabaza o del cocido de garbanzos con coles.
+También podemos hacerlas con la carne y el chorizo del [cocido de garbanzos con habichuelas verdes y calabaza](cocido-de-garbanzos-con-habichuelas-verdes-y-calabaza.md) o del [cocido de garbanzos con coles](cocido-de-garbanzos-con-coles.md).
 
 **Receta de:** Mamá

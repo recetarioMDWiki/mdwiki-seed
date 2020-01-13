@@ -26,10 +26,10 @@ Pasado el tiempo, apartamos la olla del fuego, dejamos salir la presión y desta
 
 Si los garbanzos están tiernos y hay suficiente caldo, apartamos los avíos, y guardamos caldo para otros días, dejando en la olla sólo el que vayamos a utilizar para comer ese día. Ajustamos de sal si es necesario y ponemos a hervir. Añadimos a ese caldo el tomate y el pimiento si queremos y los fideos o el arroz. Tapamos la olla y ponemos al fuego hasta que esté hecho, 5 minutos para el fideo y 6 para el arroz (o según el fabricante).
 
-Los avíos se pueden servir en un plato aparte para comer como segundo plato la pringá, o añadir trocitos de carne en el plato de puchero de cada uno.
+Los avíos se pueden servir en un plato aparte para comer como segundo plato la *pringá*, o añadir trocitos de carne en el plato de puchero de cada uno.
 
 **Notas**
 
-Con la carne que sobre podemos preparar croquetas.
+Con la carne que sobre podemos preparar [croquetas](croquetas.md).
 
 **Receta de:** Mamá
