@@ -909,7 +909,6 @@
 - [tarta-de-chocolate-blanco.md](dulce/tarta-de-chocolate-blanco.md)
 - [tarta-de-chocolate-canela-y-calabaza.md](dulce/tarta-de-chocolate-canela-y-calabaza.md)
 - [tarta-de-chocolate-caramelo-y-cacahuetes-sin-horno.md](dulce/tarta-de-chocolate-caramelo-y-cacahuetes-sin-horno.md)
-- [tarta-de-chocolate-kinder.md](dulce/tarta-de-chocolate-kinder.md)
 - [tarta-de-chocolate-red-velvet-y-tiramisu.md](dulce/tarta-de-chocolate-red-velvet-y-tiramisu.md)
 - [tarta-de-chocolate-y-buttermilk.md](dulce/tarta-de-chocolate-y-buttermilk.md)
 - [tarta-de-chocolate-y-calabacin-con-cerezas.md](dulce/tarta-de-chocolate-y-calabacin-con-cerezas.md)

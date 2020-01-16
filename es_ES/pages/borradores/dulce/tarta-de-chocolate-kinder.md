@@ -1,2 +1,0 @@
-Tarta de chocolate Kinder	http://blogmegasilvita.com/2015/09/tarta-de-chocolate-kinder.html	
-਍
