@@ -4,7 +4,7 @@
 
 *Base*
 
-- 200 g de galletas tipo digestive o Graham Crackers
+- 200 g de galletas tipo *digestive* o Graham Crackers
 - 50 g de azúcar
 - 115 g de mantequilla
 

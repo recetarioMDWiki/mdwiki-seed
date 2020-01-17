@@ -22,6 +22,6 @@ En otra olla ponemos una buena cantidad de miel, un poco de agua y unas gotas de
 
 **Notas**
 
-Una vez fritas las torrijas, si no nos gusta la miel, podemos rebozarlas en una mezcla de azúcar y canela. Para ello es mejor hacerlo mientras aún estén calientes.
+Una vez fritas las torrijas, si no nos gusta la miel, podemos rebozarlas en una mezcla de azúcar y canela. Es mejor hacerlo mientras aún estén calientes.
 
 **Receta de:** Mamá

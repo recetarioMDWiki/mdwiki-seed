@@ -5,7 +5,7 @@
 - Galletas tostadas rectangulares
 - Leche para mojar las galletas
 - Café, coñac o bourbon (opcional)
-- Crema pastelera
+- [Crema pastelera](../auxiliares/crema-pastelera.md)
 
 *Para la crema de chocolate*
 
@@ -17,7 +17,7 @@
 
 **Preparación**
 
-Preparamos la crema pastelera.
+Preparamos la [crema pastelera](../auxiliares/crema-pastelera.md).
 
 Para la crema de chocolate ponemos en un bol las claras y añadimos unas gotas de zumo de limón. Con la batidora de varillas montamos las claras a punto de nieve. Cuando estén bien firmes, añadimos poco a poco el azúcar. Reservamos.
 
