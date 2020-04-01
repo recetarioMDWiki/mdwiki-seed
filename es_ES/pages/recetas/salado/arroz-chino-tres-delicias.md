@@ -1,5 +1,7 @@
 ## Arroz chino tres delicias
 
+![Arroz chino tres delicias](../../uploads/images/arroz-chino-tres-delicias.jpg "Arroz chino tres delicias")
+
 **Ingredientes**
 
 - 6 cucharaditas de aceite de oliva

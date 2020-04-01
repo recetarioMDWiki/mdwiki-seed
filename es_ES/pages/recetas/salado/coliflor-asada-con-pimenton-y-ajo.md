@@ -1,5 +1,7 @@
 ## Coliflor asada con pimentón y ajo
 
+![Coliflor asada con pimentón y ajo](../../uploads/images/coliflor-asada-con-pimenton-y-ajo.jpg "Coliflor asada con pimentón y ajo")
+
 **Ingredientes**
 
 - 1 coliflor

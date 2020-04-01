@@ -1,5 +1,7 @@
 ## Bizcocho de yogur
 
+![Bizcocho de yogur](../../uploads/images/bizcocho-de-yogur.jpg "Bizcocho de yogur")
+
 **Ingredientes**
 
 - Ralladura de un limón

@@ -1,5 +1,7 @@
 ## Lasaña
 
+![Lasaña](../../uploads/images/lasana.jpg "Lasaña")
+
 **Ingredientes**
 
 - 10-15 placas de lasaña

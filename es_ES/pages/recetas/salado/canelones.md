@@ -1,5 +1,7 @@
 ## Canelones
 
+![Canelones](../../uploads/images/canelones.jpg "Canelones")
+
 **Ingredientes**
 
 - 20 placas de pasta para canelones
