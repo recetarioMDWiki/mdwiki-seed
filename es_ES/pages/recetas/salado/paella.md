@@ -1,5 +1,7 @@
 ## Paella
 
+![Paella](../../uploads/images/paella.jpg "Paella")
+
 **Ingredientes**
 
 - 250 g de almejas
