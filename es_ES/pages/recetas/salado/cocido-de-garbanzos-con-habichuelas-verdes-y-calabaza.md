@@ -3,7 +3,7 @@
 **Ingredientes**
 
 - 2 tazas de garbanzos
-- Un jarrete de cerdo o un morcilo de ternera
+- Un jarrete de cerdo o un morcillo de ternera
 - Tocino fresco
 - Un chorizo
 - Agua
