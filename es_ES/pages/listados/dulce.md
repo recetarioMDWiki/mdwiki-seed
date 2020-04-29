@@ -73,6 +73,7 @@
 
 * [Magdalenas](../recetas/dulce/magdalenas.md)
 * [Magdalenas - Otra versión](../recetas/dulce/magdalenas-otra-version.md)
+* [Magdalenas - Otra nueva versión](../recetas/dulce/magdalenas-otra-nueva-version.md)
 * [Mega Cookie con chips de chocolate, plátano y nueces](../recetas/dulce/mega-cookie-con-chips-de-chocolate-platano-y-nueces.md)
 * [Mermelada de frambuesas](../recetas/dulce/mermelada-de-frambuesas.md)
 * [Mermelada de fresa y vainilla](../recetas/dulce/mermelada-de-fresa-y-vainilla.md)
