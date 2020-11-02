@@ -1,5 +1,7 @@
 ## Pumpkin and Banana Bread - Pan de calabaza y plátano
 
+![Pumpkin and Banana Bread](../../uploads/images/pumpkin-banana-bread.jpg "Pumpkin and Banana Bread")
+
 **Ingredientes**
 
 - 2 huevos M/L

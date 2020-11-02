@@ -1,5 +1,7 @@
 ## Bizcocho de yogur - Otra versión
 
+![Bizcocho de yogur](../../uploads/images/bizcocho-yogur-otra-version.jpg "Bizcocho de yogur")
+
 **Ingredientes**
 
 - 2 tarritos de yogur natural 
@@ -20,7 +22,9 @@
 
 Precalentamos el horno a 180º C con calor por arriba y abajo. Preparamos el molde y reservamos.
 
-En un bol grande ponemos todos los ingredientes juntos, batimos con la batidora de varillas hasta que quede bien mezclamos y pasamos la masa al molde que teníamos preparado. Llevamos al horno durante 1 hora aproximadamente, hasta que esté dorado y al pincharlo con una varilla ésta salga limpia.
+En un bol grande ponemos todos los ingredientes juntos, batimos con la batidora de varillas hasta que quede bien mezclado y pasamos la masa al molde que teníamos preparado. Llevamos al horno durante 1 hora aproximadamente, hasta que esté dorado y al pincharlo con una varilla ésta salga limpia.
+
+![Bizcocho de yogur](../../uploads/images/bizcocho-yogur-otra-version-corte.jpg "Bizcocho de yogur")
 
 **Notas**
 

@@ -1,5 +1,7 @@
 ## Magro de cerdo guisado con verduras
 
+![Magro con verduras](../../uploads/images/magro-ternera-verduras.jpg "Magro con verduras")
+
 **Ingredientes**
 
 - Un trozo de pimiento rojo

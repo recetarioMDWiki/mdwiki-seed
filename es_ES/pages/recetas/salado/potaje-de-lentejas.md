@@ -1,5 +1,7 @@
 ## Potaje de lentejas
 
+![Potaje de lentejas](../../uploads/images/potaje-lentejas.jpg "Potaje de lentejas")
+
 **Ingredientes**
 
 - 1 patata

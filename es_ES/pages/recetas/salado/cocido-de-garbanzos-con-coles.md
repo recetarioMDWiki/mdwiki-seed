@@ -1,5 +1,7 @@
 ## Cocido de garbanzos con coles
 
+![Cocido de garbanzos con coles](../../uploads/images/cocido-garbanzos-coles.jpg "Cocido de garbanzos con coles")
+
 **Ingredientes**
 
 - 2 tazas de garbanzos
