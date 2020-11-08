@@ -69,6 +69,13 @@
 
 - - -
 
+## L
+
+* [Layer Caker de Kinder Bueno](../recetas/dulce/layer-cake-de-kinder-bueno.md)
+
+- - -
+
+
 ## M
 
 * [Magdalenas](../recetas/dulce/magdalenas.md)
