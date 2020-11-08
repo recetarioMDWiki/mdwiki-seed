@@ -71,7 +71,7 @@
 
 ## L
 
-* [Layer Caker de Kinder Bueno](../recetas/dulce/layer-cake-de-kinder-bueno.md)
+* [Layer Cake de Kinder Bueno](../recetas/dulce/layer-cake-de-kinder-bueno.md)
 
 - - -
 

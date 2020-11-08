@@ -1,6 +1,6 @@
-## Layer Caker de Kinder Bueno
+## Layer Cake de Kinder Bueno
 
-![Layer Caker de Kinder Bueno](../../uploads/images/layer-cake-kinder-bueno.jpg "Layer Caker de Kinder Bueno")
+![Layer Cake de Kinder Bueno](../../uploads/images/layer-cake-kinder-bueno.jpg "Layer Cake de Kinder Bueno")
 
 **Ingredientes**
 
@@ -91,7 +91,7 @@ Una vez saquemos la tarta, vertemos el chocolate derretido por toda la parte sup
 
 Para terminar, ponemos el buttercream restante en una manga pastelera con una boquilla de estrella (por ejemplo la 1M de Wilton, pero podéis usar la que queráis) y hacemos unas pequeñas rosas en la parte superior de la tarta, y en cada una de ellas colocamos una porción de barrita de Kinder Bueno. Lista para servir.
 
-![Layer Caker de Kinder Bueno](../../uploads/images/layer-cake-kinder-bueno-corte.jpg "Layer Caker de Kinder Bueno")
+![Layer Cake de Kinder Bueno](../../uploads/images/layer-cake-kinder-bueno-corte.jpg "Layer Cake de Kinder Bueno")
 
 **Molde utilizado:** [moldes de layer cake de 15 cm de diámetro](../../moldes-y-utensilios.md).
 
