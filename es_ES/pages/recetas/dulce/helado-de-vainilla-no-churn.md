@@ -1,5 +1,7 @@
 ## Helado de vainilla {No-Churn}
 
+![Helado de vainilla](../../uploads/images/helado-vainilla-nochurn.JPG "Helado de vainilla")
+
 **Ingredientes**
 
 - 400 g de leche condensada

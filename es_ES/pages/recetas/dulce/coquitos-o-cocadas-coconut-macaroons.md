@@ -1,5 +1,7 @@
 ## Coquitos o cocadas - Coconut Macaroons
 
+![Coquitos o cocadas](../../uploads/images/coquitos.JPG "Coquitos o cocadas")
+
 **Ingredientes**
 
 - 6 claras de huevo M/L
