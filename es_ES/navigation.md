@@ -11,7 +11,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+<!--[gimmick:theme](spacelab)-->
+[gimmick:theme](readable)
 
 
 <!--
