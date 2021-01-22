@@ -91,7 +91,7 @@
 * [Mini Croissants rellenos de chocolate](../recetas/dulce/mini-croissants-rellenos-de-chocolate.md)
 * [Mini Napolitanas](../recetas/dulce/mini-napolitanas.md)
 * [Mousse de fresas](../recetas/dulce/mousse-de-fresas.md)
-* [Mousse de turrón](../recetas/dulce/mousse-de-turron.md)
+* [Mousse de turrón](../recetas/dulce/mousse-de-turron-blando.md)
 * [Muesli casero](../recetas/dulce/muesli-casero.md)
 * [Muffins de arándanos azules](../recetas/dulce/muffins-de-arandanos-azules.md)
 * [Muffins de calabaza y manzana](../recetas/dulce/muffins-de-calabaza-y-manzana.md)
