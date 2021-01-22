@@ -1,5 +1,7 @@
 ## Garbanzos con espinacas
 
+![Garbanzos con espinacas](../../uploads/images/garbanzos-con-espinacas.jpg "Garbanzos con espinacas")
+
 **Ingredientes**
 
 - 200 g de garbanzos

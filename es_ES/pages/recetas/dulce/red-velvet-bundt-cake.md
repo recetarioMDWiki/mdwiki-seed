@@ -7,7 +7,7 @@
 - 480 g de harina de trigo
 - 3 huevos M
 - 1 teaspoon de colorante en pasta Red Extra de Sugarflair
-- 1 y 1/2 tablespoons y media de cacao en polvo natural
+- 1 y 1/2 tablespoons de cacao en polvo natural (no procesado holadés)
 - 1 teaspoon de vainilla en pasta
 - Una pizca de sal
 - 350 ml de leche
@@ -26,9 +26,13 @@ Precalentamos el horno a 180º C, con calor arriba y abajo. Preparamos el molde 
 
 Añadimos el zumo de limón a la leche y reservamos.
 
-Tamizamos la harina con la sal y reservamos.
+Tamizamos la harina con el cacao en polvo y la sal y reservamos.
 
-En un bol batimos el aceite con el azúcar y los huevos, hasta que tengamos una mezcla homogénea. Añadimos la mitad de la harina que teníamos reservada y batimos bien. Incorporamos la mitad de la leche con limón. Que tenga grumos es normal, es por efecto del zumo. Batimos bien. Añadimos el resto de la harina hasta integrarla y a continuación el resto de la leche. Cuando la mezcla sea homogénea, añadimos el colorante rojo. Mezclamos el vinagre con el bicarbonato y lo añadimos a la masa. Removemos hasta que esté bien integrado.
+En un bol batimos el aceite con el azúcar y los huevos uno a uno, batiendo bien despés de cada adición, hasta que tengamos una mezcla homogénea. Añadimos la vainilla junto con el colorante y mezclamos bien hasta integrar y que quede una masa uniforme.
+
+En un bol pequeño mezclamos el bicarbonato con el vinagre y mezclamos. Empezará a burbujear pero es algo normal. Añadimos a la masa y batimos bien hasta integrarlo.
+
+Incorporamos la mitad de la mezcla de harina que teníamos reservada y batimos bien. Incorporamos la mitad de la leche con limón. Que tenga grumos es normal, es por efecto del zumo. Batimos bien. Añadimos el resto de la mezcla de harina hasta integrarla y a continuación el resto de la leche. Removemos hasta que esté bien integrado.
 
 Vertemos la masa en el molde. Golpeamos suavemente el molde contra la encimera (protegida con un paño, para no dañar ni el molde ni la encimera) para eliminar posibles burbujas y que la masa llegue a todos los recovecos del molde. Llevamos al horno y lo dejamos en torno a 1 hora, o hasta que al pincharlo con un palillo salga limpio.
 

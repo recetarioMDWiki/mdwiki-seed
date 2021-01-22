@@ -68,6 +68,7 @@
 * [Garbanzos con espinacas](../recetas/salado/garbanzos-con-espinacas.md)
 * [Gazpacho](../recetas/salado/gazpacho.md)
 * [Gratinado de brócoli y boniato](../recetas/salado/gratinado-de-brocoli-y-boniato.md)
+* [Guisantes con chocos](../recetas/salado/guisantes-con-chocos.md)
 * [Guisantes con huevo](../recetas/salado/guisantes-con-huevo.md)
 * [Gyozas](../recetas/salado/gyozas.md)
 

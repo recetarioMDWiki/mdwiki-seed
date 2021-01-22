@@ -1,5 +1,7 @@
 ## Bizcocho de limón
 
+![Bizcocho de limón](../../uploads/images/bizcocho-de-limon.jpg "Bizcocho de limón")
+
 **Ingredientes**
 
 - Ralladura de un limón

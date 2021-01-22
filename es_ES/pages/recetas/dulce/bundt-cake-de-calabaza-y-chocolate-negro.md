@@ -1,5 +1,7 @@
 ## Bundt Cake de calabaza y chocolate negro
 
+![Bundt Cake de calabaza y chocolate negro](../../uploads/images/bundt-cake-de-calabaza-y-chocolate-negro.jpg "Bundt Cake de calabaza y chocolate negro")
+
 **Ingredientes**
 
 *Para la masa de chocolate*
