@@ -1,6 +1,6 @@
 ## Guisantes con chocos
 
-![Garbanzos con chocos](../../uploads/images/garbanzos-con-chocos.jpg "Garbanzos con chocos")
+![Guisantes con chocos](../../uploads/images/guisantes-con-chocos.jpg "Guisantes con chocos")
 
 **Ingredientes**
 
