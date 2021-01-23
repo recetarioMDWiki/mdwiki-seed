@@ -1,7 +1,5 @@
 ## Arroz con leche
 
-![Arroz con leche](../../uploads/images/arroz-con-leche.jpg "Arroz con leche")
-
 **Ingredientes**
 
 - 1.5 l de leche entera
@@ -12,6 +10,7 @@
 - Una rama de canela
 - La piel de un limón (sólo la parte amarilla)
 - Canela en polvo
+![Arroz con leche](../../uploads/images/arroz-con-leche.jpg "Arroz con leche")
 
 **Preparación**
 
