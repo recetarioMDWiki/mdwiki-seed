@@ -2,7 +2,6 @@
 
 ![Arroz con leche](../../uploads/images/arroz-con-leche.jpg "Arroz con leche")
 **Ingredientes**
-
 - 1.5 l de leche entera
 - 150 g de arroz de grano redondo
 - 100-150 g de azúcar
