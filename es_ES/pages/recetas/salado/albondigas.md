@@ -1,6 +1,6 @@
 ## Albóndigas
 
-![Albóndigas](https://drive.google.com/file/d/1yv0fL1Cq4iCCz8gUNqD7vZnhGeBUhjVz/view?usp=sharing"Albóndigas")
+![Albóndigas](../../uploads/images/albondigas.jpg "Albóndigas")
 
 **Ingredientes**
 
