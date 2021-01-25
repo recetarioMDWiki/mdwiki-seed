@@ -11,7 +11,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor arriba y abajo.
+Precalentamos el horno a 180 ºC, con calor arriba y abajo.
 
 En un bol montamos con la batidora de varillas cuatro claras a punto de nieve con un poco de zumo de limón. Reservamos.
 

@@ -14,7 +14,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor por arriba y abajo. Ponemos una rejilla a una altura por debajo del centro del horno. Preparamos el molde engrasándolo con mantequilla o aceite y espolvoreándolo con harina. Golpeamos el molde suavemente para retirar el exceso. Reservamos.
+Precalentamos el horno a 180 ºC, con calor por arriba y abajo. Ponemos una rejilla a una altura por debajo del centro del horno. Preparamos el molde engrasándolo con mantequilla o aceite y espolvoreándolo con harina. Golpeamos el molde suavemente para retirar el exceso. Reservamos.
 
 Preparamos la ralladura de limón y reservamos. Sacamos el yogur de su envase, quitándole todo el suero posible, y lo reservamos. Lavamos y secamos bien el envase para utilizarlo como medida para el resto de ingredientes. Tamizamos la harina junto con la levadura y reservamos.
 

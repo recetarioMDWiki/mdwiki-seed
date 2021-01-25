@@ -22,7 +22,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180ºC, con calor arriba y abajo. Preparamos el molde con spray desmoldante o untándolo con una mezcla de mantequilla derretida (14 g) y harina (8 g), teniendo cuidado de llegar a todos los rincones.
+Precalentamos el horno a 180 ºC, con calor arriba y abajo. Preparamos el molde con spray desmoldante o untándolo con una mezcla de mantequilla derretida (14 g) y harina (8 g), teniendo cuidado de llegar a todos los rincones.
 Tamizamos la harina con la levadura y el bicarbonato. Reservamos.
 Mezclamos con la batidora de varillas el azúcar con la ralladura y el zumo de limón. Añadimos la mantequilla y batimos a velocidad media durante 2-3 minutos, hasta que quede esponjoso. Añadimos los huevos, de uno en uno, batiendo bien después de añadir cada uno.
 

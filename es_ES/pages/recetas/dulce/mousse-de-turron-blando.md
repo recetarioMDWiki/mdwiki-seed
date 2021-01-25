@@ -32,7 +32,7 @@ Trituramos el turrón blando con la leche, con una batidora de vaso o con una de
 
 Una vez tenemos las cuatro preparaciones y la de turrón está fría o a temperatura ambiente, pasamos a hacer la mezcla completa.
 
-En un bol grande ponemos la mezcla de turrón, leche y gelatina y añadimos la mezcla de yemma con azúcar. Mezclamos bien. Sacamos la nata de la nevera y la añadimos en varias tandas, con movimientos envolventes mezclando poco a poco, con unas varillas manuales. Poco a poco se terminará integrando.
+En un bol grande ponemos la mezcla de turrón, leche y gelatina y añadimos la mezcla de yema con azúcar. Mezclamos bien. Sacamos la nata de la nevera y la añadimos en varias tandas, con movimientos envolventes mezclando poco a poco, con unas varillas manuales. Poco a poco se terminará integrando.
 
 Por último, incorporamos de la misma forma la clara de huevo montada, con movimientos envolventes y las varillas de mano, poco a poco.
 

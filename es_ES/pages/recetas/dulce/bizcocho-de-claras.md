@@ -12,7 +12,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C. Preparamos un molde loaf o de pan engrasado y forrado con papel de horno. Reservamos.
+Precalentamos el horno a 180 ºC. Preparamos un molde loaf o de pan engrasado y forrado con papel de horno. Reservamos.
 
 Batimos con una batidora de varillas las claras con el azúcar. Añadimos la harina mezclada con la levadura y seguimos batiendo.
 

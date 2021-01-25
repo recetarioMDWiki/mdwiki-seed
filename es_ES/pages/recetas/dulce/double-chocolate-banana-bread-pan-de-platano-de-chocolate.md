@@ -17,7 +17,7 @@
 **Preparación**
 
 
-Precalentar el horno a 180º C. Engrasar un molde loaf o de pan. Reservamos.
+Precalentar el horno a 180 ºC. Engrasar un molde loaf o de pan. Reservamos.
 
 Machacamos bien los plátanos en un bol y lo mezclamos con la mantequilla derretida. Añadimos el azúcar moreno, el huevo y la vainilla y mezclamos. Sobre esto tamizamos los ingredientes secos: bicarbonato, sal, canela (si la usamos), harina y cacao en polvo. Removemos con una cuchara o lengua lo justo hasta que se combinen, añadimos los trocitos de chocolate y removemos para repartir.
 

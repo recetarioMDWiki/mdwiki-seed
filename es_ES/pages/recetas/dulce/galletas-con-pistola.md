@@ -2,7 +2,7 @@
 
 **Ingredientes**
 
-- 525 g de harina de respostería
+- 525 g de harina de repostería
 - 1 teaspoon (4 g) de levadura química
 - 340 g de mantequilla a temperatura ambiente
 - 240 g de azúcar
@@ -12,7 +12,7 @@
 
 **Preparación**
 
-Tamizamos la harina con la levadura. Reservamos. Precalentamos el horno a 170º C, con calor arriba y abajo.
+Tamizamos la harina con la levadura. Reservamos. Precalentamos el horno a 170 ºC, con calor arriba y abajo.
 
 Ponemos la mantequilla en un bol y añadimos el azúcar. Batimos con una batidora de varillas a máxima potencia durante unos 10 minutos, hasta que consigamos una textura cremosa y blanquecina. A continuación añadimos la leche y el extracto de vainilla. Cuando la mezcla esté homogénea, añadimos el huevo y esperamos hasta que se mezcle bien.
 

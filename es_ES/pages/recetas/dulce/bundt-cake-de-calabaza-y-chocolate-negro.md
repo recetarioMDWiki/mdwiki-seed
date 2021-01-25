@@ -25,11 +25,11 @@
 
 **Preparación**
 
-Precalentamos el horno a 180ºC, con calor arriba y abajo.
+Precalentamos el horno a 180 ºC, con calor arriba y abajo.
 
 Engrasamos un molde de bundt cake de 10 tazas.
 
-Por un lado preparamos la masa de calabaza: batimos la mantequilla con el azúcar hasta que la mezcla esté cremosa y se aclare. Incorporamos el puré de calabaza, removemos bien. Añadimos los huevos, uno a uno, y cuando la mezcla sea homogénea, incorporamos la harina, tamizada con la levadura. Si os gusta, podéis echarle las especias opcionales en este punto. Mezclamos hasta tener una masa homogéna. Reservamos.
+Por un lado preparamos la masa de calabaza: batimos la mantequilla con el azúcar hasta que la mezcla esté cremosa y se aclare. Incorporamos el puré de calabaza, removemos bien. Añadimos los huevos, uno a uno, y cuando la mezcla sea homogénea, incorporamos la harina, tamizada con la levadura. Si os gusta, podéis echarle las especias opcionales en este punto. Mezclamos hasta tener una masa homogénea. Reservamos.
 
 Por otro lado preparamos la masa de chocolate: batimos la mantequilla con el azúcar hasta que la mezcla esté cremosa y se aclare. Añadimos los huevos, uno a uno, y cuando la mezcla sea homogénea, incorporamos la harina, tamizada con la levadura y el cacao.
 

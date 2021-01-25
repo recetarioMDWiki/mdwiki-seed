@@ -19,7 +19,7 @@ Precalentamos el horno a 180 ºC, con calor arriba y abajo. Tamizamos la harina 
 
 En un bol ponemos la mantequilla y con las varillas de amasar o una cuchara o tenedor la trabajamos hasta que esté blanda y cremosa.
 
-Añadimos el azúcar a la mantequilla y mezclamos bien hasta obtener una masa homogénea. Añadimos el huevo y mezclamos de nuevo hasta que quede bien integrado. Si está demasiado frío la mantequilla se volverá a endurecer y parecerá que la crema está cortada. Si pasa esto seguimos batienda a velocidad más alta hasta que el huevo se integre bien.
+Añadimos el azúcar a la mantequilla y mezclamos bien hasta obtener una masa homogénea. Añadimos el huevo y mezclamos de nuevo hasta que quede bien integrado. Si está demasiado frío la mantequilla se volverá a endurecer y parecerá que la crema está cortada. Si pasa esto seguimos batiendo a velocidad más alta hasta que el huevo se integre bien.
 
 Añadimos la harina, la sal y la vainilla. Mezclamos, a velocidad baja, lo justo hasta obtener una masa cremosa, algo pegajosa y homogénea.
 

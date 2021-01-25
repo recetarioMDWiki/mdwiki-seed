@@ -27,7 +27,7 @@ En otro bol batimos, a mano o a máquina, la mantequilla con el azúcar moreno, 
 
 Añadimos los ingredientes secos que teníamos reservados y mezclamos hasta conseguir una masa suave. Tapamos el bol con papel film y refrigeramos durante 3 horas para que se pueda trabajar luego con la masa.
 
-Pasado el tiempo, precalentamos el horno a 190º C, con calor arriba y abajo. Cubrimos una bandeja de horno con papel.
+Pasado el tiempo, precalentamos el horno a 190 ºC, con calor arriba y abajo. Cubrimos una bandeja de horno con papel.
 
 Formamos bolas de masa, de unos 17 g, y las rebozamos pasándolas por azúcar. Las colocamos en la bandeja dejando una distancia entre ellas de unos 5 cm. y las aplastamos ligeramente con la base de un vaso. Entre tanda y tanda de galletas, dejamos el resto de la masa en la nevera para que no se ablande.
 

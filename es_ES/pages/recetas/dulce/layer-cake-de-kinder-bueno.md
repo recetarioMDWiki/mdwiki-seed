@@ -14,7 +14,7 @@
 - 2 huevos M/L
 - 190 ml de buttermilk que podemos preparar con 180 ml leche entera + 1 tablespoon de vinagre
 - 1 teaspoon de pasta pura de vainilla
-- 190 ml agua tíbia
+- 190 ml agua tibia
 - 1 y 1/2 teaspoons de bicarbonato sódico
 - 1/2 teaspoon de sal
 
@@ -59,7 +59,7 @@ Tendremos la mantequilla a temperatura ambiente para que esté en punto pomada (
 
 Derretimos las chocolatinas Kinder en el microondas o al baño María. Dejamos que enfríe a temperatura ambiente, removiendo con una cuchara o pala de madera.
 
-Con los ingredientes listos, pasamos a preparar la buttercream. En un bol mezclamos la mantequilla con el azúcar glas. La mezcla se volverá blanquecina, sedosa y suave. Poco a poco vamos aumentando la velodad. Cuando el chocolate Kinder ya esté a temperatura ambiente lo añadimos y terminamos de integrar a velocidad alta. Reservamos.
+Con los ingredientes listos, pasamos a preparar la buttercream. En un bol mezclamos la mantequilla con el azúcar glas. La mezcla se volverá blanquecina, sedosa y suave. Poco a poco vamos aumentando la velocidad. Cuando el chocolate Kinder ya esté a temperatura ambiente lo añadimos y terminamos de integrar a velocidad alta. Reservamos.
 
 *Para la crema de avellana italiana*
 
@@ -71,7 +71,7 @@ Por otro lado, preparamos un almíbar. En un cazo a fuego medio calentamos el az
 
 Ahora iremos vertiendo, poco a poco, en forma de hilo, el almíbar sobre las yemas de huevo montadas. Sin dejar de batir e intentando evitar que el almíbar toque las varillas de la batidora o quedará todo cristalizado. Batimos a velocidad alta, al menos 10 minutos más, hasta que la mezcla esté a temperatura ambiente.
 
-A continuación bajamos un poco la velocidad para añadimos poco a poco la mantequilla pomada. Cuando esté toda incorporada subimos la velocidad al mázimo y esperamos a que todo quede bien integrado. En este momento añadimos la pasta de avellana italiana e integramos.
+A continuación bajamos un poco la velocidad para añadimos poco a poco la mantequilla pomada. Cuando esté toda incorporada subimos la velocidad al máximo y esperamos a que todo quede bien integrado. En este momento añadimos la pasta de avellana italiana e integramos.
 
 *Para el montaje y decoración*
 

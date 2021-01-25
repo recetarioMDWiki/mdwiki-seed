@@ -16,7 +16,7 @@ Sobre una mesa de trabajo con papel de hornear, estiramos el hojaldre, pasando e
 
 Empezando por la base hasta acabar en la punta, envolvemos, haciendo un poco de presión, y presionando bien la punta para que no se despegue al crecer en el horno. Intentaremos dejarla por debajo. Pintamos los mini croissants con el huevo batido y añadimos azúcar glas por encima.
 
-Introducimos en el horno a 180º C durante unos 20 minutos. Retiramos. Mientras están templandose, podemos preparar un "pegamento" para añadirle virutas de chocolate por encima. Para ello mezclamos un poco de agua con una cucharada de azúcar. Mezclamos bien y pintamos los mini croissants e, inmediatamente, decoramos con las virutas de chocolate.
+Introducimos en el horno a 180º C durante unos 20 minutos. Retiramos. Mientras están templándose, podemos preparar un "pegamento" para añadirle virutas de chocolate por encima. Para ello mezclamos un poco de agua con una cucharada de azúcar. Mezclamos bien y pintamos los mini croissants e, inmediatamente, decoramos con las virutas de chocolate.
 
 **Notas**
 

@@ -18,7 +18,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor arriba y abajo. Preparamos una bandeja para cupcakes con cápsulas de papel. Tamizamos la harina con la canela y el bicarbonato sódico. Rallamos la zanahoria y la manzana en un cuenco. Reservamos. 
+Precalentamos el horno a 180 ºC, con calor arriba y abajo. Preparamos una bandeja para cupcakes con cápsulas de papel. Tamizamos la harina con la canela y el bicarbonato sódico. Rallamos la zanahoria y la manzana en un cuenco. Reservamos. 
 
 En un bol batimos con la batidora de varillas los huevos con el azúcar. Añadimos el aceite y cuando esté integrado incorporamos la mezcla de harina poco a poco. Con ayuda de una espátula, añadimos la manzana y la zanahoria ralladas. Cuando estén bien mezcladas, añadimos las nueces y las mezclamos. Con una cuchara para helados, rellenamos las cápsulas de papel, hasta la mitad o 2/3 de la capacidad. 
 

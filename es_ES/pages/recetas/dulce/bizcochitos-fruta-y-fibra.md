@@ -26,7 +26,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 175º C y colocamos una rejilla en el centro del horno. Engrasamos el molde loaf o de pan. Ponemos un trozo de papel de hornear que cubra la base y sobresalga por los lados largos del molde, así nos será más fácil luego desmoldarlo. Los laterales que no tapa el papel de hornear los enharinamos. Reservamos.
+Precalentamos el horno a 175 ºC y colocamos una rejilla en el centro del horno. Engrasamos el molde loaf o de pan. Ponemos un trozo de papel de hornear que cubra la base y sobresalga por los lados largos del molde, así nos será más fácil luego desmoldarlo. Los laterales que no tapa el papel de hornear los enharinamos. Reservamos.
 
 En un bol ponemos el salvado de trigo, los copos de avena y las pasas, que podemos trocearlas. Si tenemos copos de avena tradicionales, los gruesos, los troceamos un poco con un cuchillo sobre una tabla de madera.
 

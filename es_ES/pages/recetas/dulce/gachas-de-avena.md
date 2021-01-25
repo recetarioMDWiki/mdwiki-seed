@@ -20,6 +20,6 @@ Servimos la mezcla en un bol, añadimos las rodajas de plátano, la canela, las 
 
 **Notas**
 
-Hay infinitas variaciones para hacerlas a nuestro gusto. Podemos sustituir el plátano por otras futas, frescas o desecadas, cambiar las nueces por otros frutos secos, utilizar leche y agua en vez de solo leche, cambiar el endulzante o añadir aromas de vainilla, limón, naranja, etc.
+Hay infinitas variaciones para hacerlas a nuestro gusto. Podemos sustituir el plátano por otras frutas, frescas o desecadas, cambiar las nueces por otros frutos secos, utilizar leche y agua en vez de solo leche, cambiar el endulzante o añadir aromas de vainilla, limón, naranja, etc.
 
 **Receta de:** DeNIKAtessen

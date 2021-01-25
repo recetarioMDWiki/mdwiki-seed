@@ -16,7 +16,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor arriba y abajo y colocamos una rejilla en el centro. Preparamos el molde engrasándolo y enharinándolo. Reservamos.
+Precalentamos el horno a 180 ºC, con calor arriba y abajo y colocamos una rejilla en el centro. Preparamos el molde engrasándolo y enharinándolo. Reservamos.
 
 Tostamos las nueces en una bandeja en el horno 8-10 minutos, hasta que estén ligeramente tostadas. Las dejamos enfriar y las troceamos. 
 
@@ -36,7 +36,7 @@ Podemos sustituir la mantequilla por aceite de girasol o de oliva suave.
 
 Podemos congelarlo cortado en rebanadas, con un trozo de papel de hornear entre ellas, o envolviendo cada rebanada en papel film, para poder consumirlo poco a poco. Para descongelarlo lo dejamos a temperatura ambiente o utilizamos el microondas.
 
-Esta receta es muy similar a los Muffins de plátano, con nueces y chocolate blanco, ya que las muffins, en general, son otra forma de hacer quick breads.
+Esta receta es muy similar a los muffins de plátano, con nueces y chocolate blanco, ya que las muffins, en general, son otra forma de hacer quick breads.
 
 Otra versión de esta receta con una pequeña variación de ingredientes pero también muy buena la tenéis [aquí](banana-bread-pan-de-platano-otra-version.md).
 

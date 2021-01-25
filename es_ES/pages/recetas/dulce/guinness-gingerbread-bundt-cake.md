@@ -18,11 +18,11 @@
 
 **Preparación**
 
-Precalentamos el horno a 175º C y colocamos una rejilla en el centro del horno. Engrasamos el molde bundt meticulosamente con mantequilla. Enharinamos retirando el exceso dando unos golpecitos suaves. Reservamos.
+Precalentamos el horno a 175 ºC y colocamos una rejilla en el centro del horno. Engrasamos el molde bundt meticulosamente con mantequilla. Enharinamos retirando el exceso dando unos golpecitos suaves. Reservamos.
 
 En un bol tamizamos la harina, la levadura, la sal, el jengibre, la canela y el clavo. Reservamos.
 
-En un cazo ponemos la cerveza negra y calentamos a fuego medio hasta que comience a hervir. Retiramos del fuego, añadimoms el bicarbonato (empezará a espumar) y mezclamos. Cuando deje de espumar añadimos los dos tipos de azúcar y la melaza, y mezclamos hasta que todo el azúcar se haya disuelto. Dejamos reposar 5 minutos para que se enfríe un poco.
+En un cazo ponemos la cerveza negra y calentamos a fuego medio hasta que comience a hervir. Retiramos del fuego, añadimos el bicarbonato (empezará a espumar) y mezclamos. Cuando deje de espumar añadimos los dos tipos de azúcar y la melaza, y mezclamos hasta que todo el azúcar se haya disuelto. Dejamos reposar 5 minutos para que se enfríe un poco.
 
 Pasamos la mezcla de cerveza, azúcares y melaza a un bol. Añadimos los huevos, el aceite y mezclamos hasta que quede una mezcla homogénea.
 
@@ -30,7 +30,7 @@ Añadimos los ingredientes líquidos a la harina en tres tandas, batiendo bien t
 
 Vertemos la mezcla en el molde que teníamos reservado y golpeamos varias veces el molde contra la mesa de trabajo (con un trapo para no dañar el molde) para eliminar posibles bolsas de aire.
 
-Horneamos a 175º C durante 50-60 minutos o hasta que al insertar un palillo éste salga limpio. Sacamos el molde del horno y lo dejamos reposar 10 minutos sobre una rejilla antes de desmoldar. Desmoldamos y dejamos enfriar completamente sobre la rejilla.
+Horneamos a 175 ºC durante 50-60 minutos o hasta que al insertar un palillo éste salga limpio. Sacamos el molde del horno y lo dejamos reposar 10 minutos sobre una rejilla antes de desmoldar. Desmoldamos y dejamos enfriar completamente sobre la rejilla.
 
 **Notas**
 

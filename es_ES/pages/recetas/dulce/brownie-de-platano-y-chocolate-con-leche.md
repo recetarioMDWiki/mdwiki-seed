@@ -13,7 +13,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C con calor arriba y abajo. Engrasamos un molde para brownie, en mi caso de metal de 20x20 cm. Podemos poner un papel de horno cubriendo el fondo para ayudarnos luego a desmoldar.
+Precalentamos el horno a 180 ºC con calor arriba y abajo. Engrasamos un molde para brownie, en mi caso de metal de 20x20 cm. Podemos poner un papel de horno cubriendo el fondo para ayudarnos luego a desmoldar.
 
 En un bol fundimos la mantequilla junto con el chocolate en el microondas, poco a poco para que no se queme. Otra opción es hacerlo al baño María.
 
@@ -22,7 +22,6 @@ Una vez bien derretido y mezclados, añadimos el azúcar, el huevo, la harina ta
 Dejamos enfriar por completo antes de cortar y comer. Disfrutar.
 
 **Notas**
-
 
 En la receta original utiliza nueces pecanas, y termina decorando con dulce de leche.
 

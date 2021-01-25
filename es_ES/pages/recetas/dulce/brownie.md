@@ -16,7 +16,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 175º C con calor arriba y abajo, y colocamos la rejilla del horno en el centro.
+Precalentamos el horno a 175 ºC con calor arriba y abajo, y colocamos la rejilla del horno en el centro.
 
 En un bol ponemos juntos la mantequilla y el chocolate en trozos, y los derretimos a potencia media en el microondas. Es mejor ir comprobando y removiendo con una lengua de silicona cada 20-30 segundos para evitar que se queme. Los últimos trozos se fundirán con el calor residual mientras mezclamos con la espátula.
 

@@ -15,7 +15,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor por arriba y abajo. Ponemos una rejilla a una altura por debajo del centro del horno. Preparamos la ralladura de un limón.
+Precalentamos el horno a 180 ºC, con calor por arriba y abajo. Ponemos una rejilla a una altura por debajo del centro del horno. Preparamos la ralladura de un limón.
 
 Mezclamos la harina con la levadura y lo tamizamos. Reservamos. Separamos las yemas de las claras, reservando las yemas en un vaso. 
 

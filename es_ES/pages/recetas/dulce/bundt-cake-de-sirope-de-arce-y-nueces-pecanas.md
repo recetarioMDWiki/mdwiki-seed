@@ -16,7 +16,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C y colocamos una rejilla en el centro. Engrasamos el molde bundt meticulosamente con mantequilla. Enharinamos retirando el exceso dando unos golpecitos suaves.
+Precalentamos el horno a 180 ºC y colocamos una rejilla en el centro. Engrasamos el molde bundt meticulosamente con mantequilla. Enharinamos retirando el exceso dando unos golpecitos suaves.
 
 Mezclamos en un bol la harina, la levadura, el bicarbonato y la sal. Reservamos.
 

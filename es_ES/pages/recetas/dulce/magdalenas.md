@@ -16,7 +16,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 200º C, con calor arriba y abajo. Ponemos una rejilla en el centro para colocar después la bandeja con las cápsulas.
+Precalentamos el horno a 200 ºC, con calor arriba y abajo. Ponemos una rejilla en el centro para colocar después la bandeja con las cápsulas.
 
 En un bol batimos los huevos con el azúcar con unas varillas eléctricas, durante unos 3 o 4 minutos hasta que la mezcla espume y tenga un color más claro. Tamizamos la harina junto con la levadura y la sal. La añadimos a los huevos en tres tandas, batiendo bien después de cada adición. Añadimos el aceite o la mantequilla y la leche, y batimos hasta conseguir una masa homogénea.
 

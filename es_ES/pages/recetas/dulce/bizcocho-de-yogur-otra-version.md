@@ -20,7 +20,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C con calor por arriba y abajo. Preparamos el molde y reservamos.
+Precalentamos el horno a 180 ºC con calor por arriba y abajo. Preparamos el molde y reservamos.
 
 En un bol grande ponemos todos los ingredientes juntos, batimos con la batidora de varillas hasta que quede bien mezclado y pasamos la masa al molde que teníamos preparado. Llevamos al horno durante 1 hora aproximadamente, hasta que esté dorado y al pincharlo con una varilla ésta salga limpia.
 
@@ -30,6 +30,6 @@ En un bol grande ponemos todos los ingredientes juntos, batimos con la batidora 
 
 La medida del yogur es de 125 g.
 
-**Molde utlizado: ** [Molde loaf o de pan](../../moldes-y-utensilios.md)
+**Molde utilizado: ** [Molde loaf o de pan](../../moldes-y-utensilios.md)
 
 **Receta de:** [El restaurante del fin del mundo](http://restaurantefinmundo.blogspot.com/2015/05/guardianes-de-un-sabor-el-clasico.html)

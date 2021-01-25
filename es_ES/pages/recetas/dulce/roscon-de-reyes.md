@@ -45,7 +45,7 @@ Tenemos que dejar un agujero central bastante grande porque luego con el levado 
 
 Una vez levado el roscón, lo pintamos con huevo batido, le ponemos un poco de azúcar humedecido que no es más que eso, un poco de azúcar con unas gotas de agua, se remueve y listo para colocar. Por último unas guindas, frutas escarchadas o confitadas o almendras fileteadas.
 
-Llevamos al horno precalentado a 170º C, con calor arriba y abajo, y lo ponemos en el centro del horno o una altura por debajo. Vigilaremos porque suele tostarse rápido por arriba. Si esto ocurre lo taparemos con papel de aluminio o ponemos una bandeja en la parte de arriba del horno. Estará listo en unos 20-25 minutos más o menos, depende del tamaño del roscón. Los sacamos y los dejamos enfriar por completo.
+Llevamos al horno precalentado a 170 ºC, con calor arriba y abajo, y lo ponemos en el centro del horno o una altura por debajo. Vigilaremos porque suele tostarse rápido por arriba. Si esto ocurre lo taparemos con papel de aluminio o ponemos una bandeja en la parte de arriba del horno. Estará listo en unos 20-25 minutos más o menos, depende del tamaño del roscón. Los sacamos y los dejamos enfriar por completo.
 
 **Notas**
 

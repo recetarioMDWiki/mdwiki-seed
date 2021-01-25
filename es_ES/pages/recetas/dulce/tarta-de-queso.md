@@ -22,7 +22,7 @@ Con una picadora molemos las galletas, hasta dejarlas polvo. Añadimos el azúca
 
 En un bol ponemos el queso crema y lo batimos un poco para ablandarlo, con unas varillas, a mano. Añadimos la leche condensada y mezclamos. Por último añadiremos los huevos, de uno en uno, y esperando a que se absorba uno para añadir el siguiente. Debemos intentar no introducir demasiado aire y así evitar que luego en el horno la tarta se agriete. Los ingredientes son bastante blandos, pero hay que asegurarse de que no queden grumos.
 
-Cuando ya tenemos la mezcla lista, la volcamos sobre la base de galletas que teníamos preparada. Llevamos al horno 15 minutos a 180º C. Pasado el tiempo, bajamos la temperatura a 120º C y dejamos cocinar unos 60 minutos aproximadamente. Estará lista cuando se vea firme, pero al agitar el molde, el centro aún se tambalee un poco y tenga un aspecto húmedo.
+Cuando ya tenemos la mezcla lista, la volcamos sobre la base de galletas que teníamos preparada. Llevamos al horno 15 minutos a 180 ºC. Pasado el tiempo, bajamos la temperatura a 120 ºC y dejamos cocinar unos 60 minutos aproximadamente. Estará lista cuando se vea firme, pero al agitar el molde, el centro aún se tambalee un poco y tenga un aspecto húmedo.
 
 Sacamos del horno y dejamos enfriar. Una vez fría, refrigeramos toda la noche.
 

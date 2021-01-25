@@ -11,7 +11,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor arriba y abajo.
+Precalentamos el horno a 180 ºC, con calor arriba y abajo.
 
 En la mesa de trabajo hacemos un volcán con la harina, hacemos un hueco en el centro y añadimos el resto de ingredientes. Amasamos bien y, una vez lista, la envolvemos en papel film e introducimos en la nevera unos 30 minutos.
 

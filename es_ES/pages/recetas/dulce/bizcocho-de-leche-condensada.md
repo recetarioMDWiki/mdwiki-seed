@@ -13,7 +13,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C, con calor por arriba y abajo. Preparamos un molde engrasándolo con mantequilla y espolvoreándolo con harina. 
+Precalentamos el horno a 180 ºC, con calor por arriba y abajo. Preparamos un molde engrasándolo con mantequilla y espolvoreándolo con harina. 
 
 Tamizamos la harina con la levadura y la sal. Reservamos.
 

@@ -16,7 +16,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 180º C con calor por arriba y abajo. Preparamos las cápsulas para magdalenas en la bandeja para muffins. 
+Precalentamos el horno a 180 ºC con calor por arriba y abajo. Preparamos las cápsulas para magdalenas en la bandeja para muffins. 
 
 En un bol mezclamos los ingredientes sólidos: harina, sal, levadura, canela y la ralladura de limón. Reservamos.
 
@@ -32,7 +32,7 @@ Horneamos a 180º C durante unos 20 minutos o hasta que estén doradas y al pinc
 
 **Notas**
 
-Si utilizas cápsulas de papel y no tienes bandeja para magdalenas puedes meter las cápsulas en moldes de aluminio desechables o usar cápsulas de silicona rígidas. En ningún caso hornees las magdalenas en cápsulas de papel blandas, sin sujección a los lados porque se abrirán hacia los lados y la masa podría desbordar. También puedes hornear la masa en moldes rectangulares y obtendrás algo visualmente muy parecido a un plum-cake o bizcocho cuadrado.
+Si utilizas cápsulas de papel y no tienes bandeja para magdalenas puedes meter las cápsulas en moldes de aluminio desechables o usar cápsulas de silicona rígidas. En ningún caso hornees las magdalenas en cápsulas de papel blandas, sin sujeción a los lados porque se abrirán hacia los lados y la masa podría desbordar. También puedes hornear la masa en moldes rectangulares y obtendrás algo visualmente muy parecido a un plum-cake o bizcocho cuadrado.
 
 Podemos usar otros aromas como vainilla, naranja, azahar, etc. 
 

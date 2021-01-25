@@ -16,7 +16,7 @@
 
 **Preparación**
 
-Encendemos el horno a 180º C. Engrasamos un molde loaf o de pan. Ponemos un trozo de papel de hornear que cubra la base y sobresalga por los lados pequeños del molde, así luego nos será más fácil desmoldarlo. Los laterales que no tapa el papel de hornear los enharinamos. 
+Encendemos el horno a 180 ºC. Engrasamos un molde loaf o de pan. Ponemos un trozo de papel de hornear que cubra la base y sobresalga por los lados pequeños del molde, así luego nos será más fácil desmoldarlo. Los laterales que no tapa el papel de hornear los enharinamos. 
 
 Preparamos la harina tamizándola junto con la levadura y la sal. Reservamos.
 

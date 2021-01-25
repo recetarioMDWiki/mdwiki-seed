@@ -19,7 +19,7 @@
 
 Tendremos la mantequilla y el huevo a temperatura ambiente.
 
-Precalentamos el horno a 200º C. Cubrimos una bandeja de horno con papel de hornear. Reservamos.
+Precalentamos el horno a 200 ºC. Cubrimos una bandeja de horno con papel de hornear. Reservamos.
 
 En un bol mezclamos la harina, la levadura y la sal. Reservamos.
 

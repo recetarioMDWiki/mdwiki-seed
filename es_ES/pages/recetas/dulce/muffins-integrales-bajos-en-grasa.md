@@ -22,7 +22,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 190º C y colocamos una rejilla en el centro del horno. Engrasamoa la bandeja para muffins o lo cubrimos con los moldes de papel.
+Precalentamos el horno a 190º C y colocamos una rejilla en el centro del horno. Engrasamos la bandeja para muffins o lo cubrimos con los moldes de papel.
 
 En un bol grande mezclamos las harinas, el salvado, el azúcar, la levadura, el bicarbonato, la canela, la ralladura de naranja y la sal. Añadimos las pasas y los arándanos, mezclamos bien y reservamos.
 

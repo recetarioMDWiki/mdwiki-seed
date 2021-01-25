@@ -7,7 +7,7 @@
 - 480 g de harina de trigo
 - 3 huevos M
 - 1 teaspoon de colorante en pasta Red Extra de Sugarflair
-- 1 y 1/2 tablespoons de cacao en polvo natural (no procesado holadés)
+- 1 y 1/2 tablespoons de cacao en polvo natural (no procesado holandés)
 - 1 teaspoon de vainilla en pasta
 - Una pizca de sal
 - 350 ml de leche
@@ -28,7 +28,7 @@ Añadimos el zumo de limón a la leche y reservamos.
 
 Tamizamos la harina con el cacao en polvo y la sal y reservamos.
 
-En un bol batimos el aceite con el azúcar y los huevos uno a uno, batiendo bien despés de cada adición, hasta que tengamos una mezcla homogénea. Añadimos la vainilla junto con el colorante y mezclamos bien hasta integrar y que quede una masa uniforme.
+En un bol batimos el aceite con el azúcar y los huevos uno a uno, batiendo bien después de cada adición, hasta que tengamos una mezcla homogénea. Añadimos la vainilla junto con el colorante y mezclamos bien hasta integrar y que quede una masa uniforme.
 
 En un bol pequeño mezclamos el bicarbonato con el vinagre y mezclamos. Empezará a burbujear pero es algo normal. Añadimos a la masa y batimos bien hasta integrarlo.
 

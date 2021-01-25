@@ -18,7 +18,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 200º C, con calor arriba y abajo.
+Precalentamos el horno a 200 ºC, con calor arriba y abajo.
 
 Cremamos la mantequilla y añadimos el azúcar blanco y moreno, batiendo a mano o con una batidora de varillas. Añadimos el extracto de vainilla y el huevo, y lo batimos bien. 
 

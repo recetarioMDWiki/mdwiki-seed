@@ -14,7 +14,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 165º C, con calor arriba y abajo. Preparamos una bandeja cubierta con papel de hornear. Reservamos.
+Precalentamos el horno a 165 ºC, con calor arriba y abajo. Preparamos una bandeja cubierta con papel de hornear. Reservamos.
 
 En un bol mezclamos los copos de avena, las almendras, los anacardos y la canela.
 

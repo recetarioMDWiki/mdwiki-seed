@@ -26,7 +26,7 @@ Añadimos la melaza, la leche, el extracto de vainilla y mezclamos con una espá
 
 Ponemos la bola de masa sobre un trozo de film transparente, la aplastamos formando un círculo, más o menos, de unos 1,2 cm de grosor. Lo envolvemos con el film y dejamos enfriar en la nevera 30 minutos.
 
-Precalentamos el horno a 175º C, con calor arriba y abajo.
+Precalentamos el horno a 175 ºC, con calor arriba y abajo.
 
 Sacamos la masa y le quitamos el papel film. En la mesa de trabajo ponemos una hoja de papel de hornear. Colocamos la masa sobre el papel y cubrimos con otra hoja de papel de hornear. Con un rodillo aplastamos la masa de nuevo, hasta que tenga un grosor de unos 2 o 3 mm, intentando conseguir una forma rectangular.
 

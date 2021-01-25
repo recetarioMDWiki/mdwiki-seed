@@ -19,7 +19,7 @@
 
 **Preparación**
 
-Precalentamos el horno a 175º C, y preparamos el molde engrasándolo. Reservamos.
+Precalentamos el horno a 175 ºC, y preparamos el molde engrasándolo. Reservamos.
 
 Machacamos los plátanos con un tenedor hasta dejarlos en puré. Reservamos.
 
@@ -44,7 +44,7 @@ Si no encontramos buttermilk podemos prepararlo casero utilizando una de estas o
 
 *o*
 
-*- 160 ml (2/3 cup) de yoghurt natural (desnatado) + 80 ml (1/3 cup) de leche
+*- 160 ml (2/3 cup) de yogur natural (desnatado) + 80 ml (1/3 cup) de leche
 (mezclamos y dejamos reposar 10 minutos)*
 
 Para esta receta yo utilicé la primera opción, pero tened en cuenta que se indica 1 cup (240 ml) y en la receta **solo necesitamos 1/2 cup (120 ml)**.
