@@ -1,15 +1,21 @@
 ## Puchero
 
+![Puchero](../../uploads/images/puchero.jpg "Puchero")
+
 **Ingredientes**
 
 - 1 vaso de garbanzos
 - Agua
+
+*Avíos*
+
 - 2 cuartos traseros de pollo
 - Un morcillo de ternera o un jarrete de cerdo
 - Tocino fresco
 - Un trozo o un taco de jamón serrano o hueso de jamón
 - Hueso de espinazo
 - Hueso blanco o costilla salada
+
 - 1 zanahoria
 - Sal
 - 1 tomate (opcional)

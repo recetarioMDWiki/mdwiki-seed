@@ -97,7 +97,7 @@
 * [Muffins de calabaza y manzana](../recetas/dulce/muffins-de-calabaza-y-manzana.md)
 * [Muffins de compota de manzana](../recetas/dulce/muffins-de-compota-de-manzana.md)
 * [Muffins de fresas](../recetas/dulce/muffins-de-fresas.md)
-* [Muffins de plátano con nueces y chocolate blanco](../recetas/dulce/muffins-de-platano-con-nueces-y-chocolate-blanco.md)
+* [Muffins de plátano con nueces y chocolate](../recetas/dulce/muffins-de-platano-con-nueces-y-chocolate.md)
 * [Muffins de plátano y avena](../recetas/dulce/muffins-de-platano-y-avena.md)
 * [Muffins de plátano y salvado de avena](../recetas/dulce/muffins-de-platano-y-salvado-de-avena.md)
 * [Muffins de salvado de trigo y copos de avena](../recetas/dulce/muffins-de-salvado-de-trigo-y-copos-de-avena.md)

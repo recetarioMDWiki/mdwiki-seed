@@ -1,5 +1,7 @@
 ## Pisto
 
+![Pisto](../../uploads/images/pisto.jpg "Pisto")
+
 **Ingredientes**
 
 - Aceite de oliva

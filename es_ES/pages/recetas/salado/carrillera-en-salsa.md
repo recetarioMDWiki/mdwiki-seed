@@ -1,5 +1,7 @@
 ##Carrillera en salsa
 
+![Carrillera en salsa](../../uploads/images/carrilleras-salsa.jpg "Carrillera en salsa")
+
 **Ingredientes**
 
 - 2 ñoras (o pimientos choriceros)

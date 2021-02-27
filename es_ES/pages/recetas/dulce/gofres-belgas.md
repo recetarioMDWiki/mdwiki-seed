@@ -1,6 +1,6 @@
 ## Gofres belgas
 
-![Gofres belgas](../../uploads/images/gofres.jpg "Gofres belgas")
+![Gofres belgas](../../uploads/images/gofres-belgas.jpg "Gofres belgas")
 
 **Ingredientes**
 
@@ -25,7 +25,7 @@ Pasado este tiempo, desgasificamos la masa presionándola unas cuantas veces, a�
 
 Volvemos a cubrir con film transparente y dejamos reposar otros 30 minutos en las mismas condiciones que anteriormente.
 
-Con ayuda de un pincel de repostería, engrasamos la gofrera con un poco de mantequilla, aceite vegetal (o incluso spray antiadherente) y la calentamos siguiendo las instrucciones del fabricante.
+Con ayuda de un pincel de repostería, engrasamos la gofrera con un poco de mantequilla, aceite vegetal (o incluso spray anti adherente) y la calentamos siguiendo las instrucciones del fabricante.
 
 Una vez bien caliente, colocamos un poco de masa (una cucharada colmada suele ser suficiente) en el centro de cada placa (cuidado con que no rebose), cerramos la gofrera y esperamos unos 5-6 minutos (dependiendo de cada aparato y de cómo nos gusten los gofres).
 

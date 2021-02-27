@@ -1,4 +1,6 @@
-## Muffins de plátano con nueces y chocolate blanco
+## Muffins de plátano con nueces y chocolate
+
+![Muffins de plátano con nueces y chocolate](../../uploads/images/muffins-platano-chocolate-nueces.jpg "Muffins de plátano con nueces y chocolate")
 
 **Ingredientes**
 
@@ -11,7 +13,7 @@
 - 160 g de azúcar moreno claro u oscuro
 - 1/2 teaspoon de sal
 - 40 g de nueces peladas y troceadas
-- 80 g de chocolate blanco en trozos o gotas
+- 80 g de chocolate (negro, con leche, blanco...) en trozos o gotas
 
 **Preparación**
 
@@ -27,7 +29,7 @@ Una vez hechos, dejamos enfriar 5 minutos en la bandeja, luego los pasamos a una
 
 **Notas**
 
-En la receta de Alma se añaden 80 g de fresas en vez de nueces. Si queremos añadirlas, las cortamos en trozos y las pasamos por harina antes de agregarlas a la masa. También podemos cambiar el chocolate blanco por chocolate con leche o negro.
+En la receta de Alma se añaden 80 g de fresas en vez de nueces. Si queremos añadirlas, las cortamos en trozos y las pasamos por harina antes de agregarlas a la masa.
 
 Una vez frías, las podemos congelar envueltas en papel film. Cuando nos las queramos comer, basta con calentarlas en el microondas y estarán como recién hechas.
 
