@@ -4,9 +4,6 @@
 
 **Ingredientes**
 
-- 1 vaso de garbanzos
-- Agua
-
 *Avíos*
 
 - 2 cuartos traseros de pollo
@@ -16,6 +13,8 @@
 - Hueso de espinazo
 - Hueso blanco o costilla salada
 
+- 1 vaso de garbanzos
+- Agua
 - 1 zanahoria
 - Sal
 - 1 tomate (opcional)
