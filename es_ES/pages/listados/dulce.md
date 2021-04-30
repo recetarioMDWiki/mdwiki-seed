@@ -93,6 +93,7 @@
 * [Mousse de fresas](../recetas/dulce/mousse-de-fresas.md)
 * [Mousse de turrón blando](../recetas/dulce/mousse-de-turron-blando.md)
 * [Muesli casero](../recetas/dulce/muesli-casero.md)
+* [Muffins con trozos de chocolate](../recetas/dulce/muffins-con-trozos-de-chocolate.md)
 * [Muffins de arándanos azules](../recetas/dulce/muffins-de-arandanos-azules.md)
 * [Muffins de calabaza y manzana](../recetas/dulce/muffins-de-calabaza-y-manzana.md)
 * [Muffins de compota de manzana](../recetas/dulce/muffins-de-compota-de-manzana.md)
