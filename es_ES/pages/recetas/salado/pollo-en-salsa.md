@@ -1,5 +1,7 @@
 ## Pollo en salsa
 
+![Pollo en salsa](../../uploads/images/pollo-salsa.jpg "Pollo en salsa")
+
 **Ingredientes**
 
 - 3 dientes de ajos

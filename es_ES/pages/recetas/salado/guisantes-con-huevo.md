@@ -1,5 +1,7 @@
 ## Guisantes con huevo
 
+![Guisantes con huevo](../../uploads/images/guisantes-huevo.jpg "Guisantes con huevo")
+
 **Ingredientes**
 
 - Media cebolla

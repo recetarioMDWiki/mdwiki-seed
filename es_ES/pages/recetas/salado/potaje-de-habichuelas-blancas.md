@@ -1,5 +1,7 @@
 ## Potaje de habichuelas blancas
 
+![Potaje de habichuelas blancas](../../uploads/images/potaje-habichuelas-blancas.jpg "Potaje de habichuelas blancas")
+
 **Ingredientes**
 
 - 2 tazas de habichuelas blancas
