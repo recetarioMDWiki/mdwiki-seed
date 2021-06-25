@@ -33,6 +33,7 @@
 * [Colcannon - Puré de patatas con coles y cebolleta](../recetas/salado/colcannon-pure-de-patatas-con-coles-y-cebolleta.md)
 * [Coliflor asada con pimentón y ajo](../recetas/salado/coliflor-asada-con-pimenton-y-ajo.md)
 * [Costillas de cerdo adobadas con patatas guisadas](../recetas/salado/costillas-de-cerdo-adobadas-con-patatas-guisadas.md)
+* [Couscous o cuscús con verduras](../recetas/salado/couscous-verduras.md)
 * [Crema de calabacín](../recetas/salado/crema-de-calabacin.md)
 * [Crema de calabaza](../recetas/salado/crema-de-calabaza.md)
 * [Crema de coliflor, brócoli y berenjena](../recetas/salado/crema-de-coliflor-brocoli-y-berenjena.md)
