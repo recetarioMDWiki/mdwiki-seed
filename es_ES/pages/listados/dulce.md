@@ -128,6 +128,7 @@
 
 * [Raspberry Buttermilk Cake - Bizcocho de frambuesas y buttermilk](../recetas/dulce/raspberry-buttermilk-cake.md)
 * [Red Velvet Bundt Cake](../recetas/dulce/red-velvet-bundt-cake.md)
+* [Rollitos suecos de canela](../recetas/dulce/rollitos-suecos-canela.md)
 * [Roscón de Reyes](../recetas/dulce/roscon-de-reyes.md)
 
 - - -
